@@ -1,0 +1,1188 @@
+,name,version,author,author_email,license,home_page,packagetype,filename
+3566759,relaxnmr,0.0.1,fabien georget,fabien.georget@epfl.ch,bsd,https://github.com/specmicp/relaxnmr,relaxnmr-0.0.1-py3-none-any.whl,bdist_wheel
+1784675,odoo11-addon-stock-scanner,11.0.1.0.0.99.dev5,"syleam,acsone sa/nv,odoo community association (oca)",support@odoo-community.org,agpl-3,https://odoo-community.org/,odoo11_addon_stock_scanner-11.0.1.0.0.99.dev5-py2.py3-none-any.whl,bdist_wheel
+156447,redner,0.4.9,tzu-mao li,tzumao@mit.edu,mit,https://github.com/bachili/redner,redner-0.4.9-cp37-cp37m-win_amd64.whl,bdist_wheel
+1805265,sanic-swagger,0.0.4,aaron batilo,aaronbatilo@gmail.com,mit,http://github.com/abatilo/sanic-swagger/,sanic_swagger-0.0.4-py3-none-any.whl,bdist_wheel
+1848805,jblib,1.6.31,justin bard,justinbard@gmail.com,none,http://justbard.com,jblib-1.6.31.tar.gz,sdist
+2848910,pyfb-reporting,0.9.2,mathias wolff,mathias@celea.org,mit,https://github.com/mwolff44/pyfb-reporting,pyfb_reporting-0.9.2-py2.py3-none-any.whl,bdist_wheel
+4059528,mypy-boto3-kinesis,1.16.57.0,vlad emelianov,vlad.emelianov.nz@gmail.com,mit license,https://github.com/vemel/mypy_boto3_builder,mypy-boto3-kinesis-1.16.57.0.tar.gz,sdist
+1088116,owlmixin,2.10.1,tadashi-aikawa,syou.maman@gmail.com,mit,https://github.com/tadashi-aikawa/owlmixin.git,owlmixin-2.10.1-py3-none-any.whl,bdist_wheel
+3450469,mypy-boto3-acm,1.14.53.0,vlad emelianov,vlad.emelianov.nz@gmail.com,mit license,https://github.com/vemel/mypy_boto3_builder,mypy_boto3_acm-1.14.53.0-py3-none-any.whl,bdist_wheel
+3119135,cdist,2.1.0pre5,nico schottelius,nico-cdist-pypi@schottelius.org,unknown,http://www.nico.schottelius.org/software/cdist/,cdist-2.1.0pre5.tar.gz,sdist
+675311,cutimages,0.61,lshxiao,lshxiao@163.com,http://www.apache.org/licenses/license-2.0.html,http://py.pxuexiao.com/cutimages,cutimages-0.61.tar.gz,sdist
+4787433,maturin,0.10.5_beta.3,konstin <konstin@mailbox.org>,konstin <konstin@mailbox.org>,mit or apache-2.0,none,maturin-0.10.5_beta.3-py3-none-win_amd64.whl,bdist_wheel
+738304,python_bitrix24,0.1.2,ivan moshkov,ivan@moshkov.pro,mit license,https://github.com/moshkov/python_bitrix24,python_bitrix24-0.1.2.tar.gz,sdist
+3323823,odml,1.2.1,hagen fritsch,fritsch+gnode@in.tum.de,none,http://www.g-node.org/projects/odml,odml-1.2.1.tar.gz,sdist
+1152361,tedana,0.0.6,tedana developers,emd222@cornell.edu,lgpl 2.1,https://github.com/me-ica/tedana,tedana-0.0.6.tar.gz,sdist
+1472114,mezzanine,0.11.10,stephen mcdonald,stephen.mc@gmail.com,bsd,http://mezzanine.jupo.org/,mezzanine-0.11.10.tar.gz,sdist
+2368963,django-automationcommon,1.6,"automation team, university information services, university of cambridge",automation@uis.cam.ac.uk,mit,https://git.csx.cam.ac.uk/i/ucs/automation/django-automationcommon,django-automationcommon-1.6.tar.gz,sdist
+3896567,house03,0.0.1,suxiawei,773979910@qq.com,none,https://www.baidu.com/,house03-0.0.1.tar.gz,sdist
+4042579,moonbeam,0.1.3,andrew,none,mit,none,moonbeam-0.1.3-py3-none-any.whl,bdist_wheel
+2748719,funcx,0.0.1a5,funcx team,labs@globus.org,"apache license, version 2.0",https://github.com/funcx-faas/funcx,funcx-0.0.1a5.tar.gz,sdist
+4469518,routerling,0.1.2,raymond ortserga,ortserga@gmail.com,mit,none,routerling-0.1.2.tar.gz,sdist
+1326288,salure-helpers,8.8.4,salure,bi@salure.nl,salure license,https://bitbucket.org/salurebi/salure_helpers/,salure_helpers-8.8.4-py3-none-any.whl,bdist_wheel
+5406842,wllutils,0.0.8.1,weiliulei,18500964455@163.com,mit,none,wllutils-0.0.8.1.tar.gz,sdist
+3395083,halo-bian,0.11.17,yoramk2,yoramk2@yahoo.com,mit license,https://github.com/yoramk2/halo_bian,halo_bian-0.11.17.tar.gz,sdist
+356185,specd,0.1.12,none,none,mit license,none,specd-0.1.12-py2.py3-none-any.whl,bdist_wheel
+4287032,falcon,3.0.0b2,kurt griffiths,mail@kgriffs.com,apache 2.0,https://falconframework.org,falcon-3.0.0b2-cp35-cp35m-win_amd64.whl,bdist_wheel
+242186,thoth-common,0.10.9,fridolin pokorny,fridolin@redhat.com,gplv3+,none,thoth_common-0.10.9-py3-none-any.whl,bdist_wheel
+841459,neonpy,0.0.1,rik bose,rbose@cs.rochester.edu,none,https://github.com/mrmechko/neon,neonpy-0.0.1-py3-none-any.whl,bdist_wheel
+1357519,mypy-boto3-sts,1.12.37.0,vlad emelianov,vlad.emelianov.nz@gmail.com,mit license,https://github.com/vemel/mypy_boto3_builder,mypy-boto3-sts-1.12.37.0.tar.gz,sdist
+3189859,frida,12.6.11,frida developers,oleavr@frida.re,"wxwindows library licence, version 3.1",https://www.frida.re,frida-12.6.11-py3.6-linux-x86_64.egg,bdist_egg
+4372964,tencentcloud-sdk-python-common,3.0.344,tencent cloud,tencentcloudapi@tencent.com,apache license 2.0,https://github.com/tencentcloud/tencentcloud-sdk-python,tencentcloud-sdk-python-common-3.0.344.tar.gz,sdist
+1255885,wmf_user_metrics,0.1.4-dev,wikimedia foundation,bobs.ur.uncle@gmail.com,unknown,http://www.github.com/rfaulkner/e3_analysis,wmf_user_metrics-0.1.4-dev.macosx-10.7-intel.tar.gz,bdist_dumb
+470308,simplekv,0.8.2,marc brinkmann,git@marcbrinkmann.de,mit,http://github.com/mbr/simplekv,simplekv-0.8.2.tar.gz,sdist
+458652,data-catapult,0.0.12,jonathan speiser,jonathan@datawheel.us,none,https://github.com/datawheel/catapult,data_catapult-0.0.12.tar.gz,sdist
+3282471,googling,0.0.1,chambin,2281181505@qq.com,none,https://me.csdn.net/?c=4b2bc19803048d5a5cc6fccd3a122c25&c=95dcfcbe1ad229d37dd2c2888b8639ab,googling-0.0.1.tar.gz,sdist
+4100037,zakhar-pycore,1.0.8,andrei gramakov,none,mit,none,zakhar_pycore-1.0.8.tar.gz,sdist
+1020490,parse-it,0.9.0,naor livne,naorlivne@gmail.com,lgplv3,https://github.com/naorlivne/parse_it,parse_it-0.9.0-py3-none-any.whl,bdist_wheel
+1504116,gpsdistance,0.0.4,"song,jun-wei",sungboss2004@gmail.com,mit licence,https://github.com/krnick/gpsdistance,gpsdistance-0.0.4.tar.gz,sdist
+1839695,pyocs,2.9.19,zhubowen3432,zhubowen3432@cvte.com,mit,https://gitlab.gz.cvte.cn/python-tool/pyocs,pyocs-2.9.19-py2.py3-none-any.whl,bdist_wheel
+4867911,aws-solutions-constructs.aws-kinesis-streams-gluejob,1.104.0,amazon web services,none,apache-2.0,https://github.com/awslabs/aws-solutions-constructs.git,aws_solutions_constructs.aws_kinesis_streams_gluejob-1.104.0-py3-none-any.whl,bdist_wheel
+3658845,bfengine,0.1.108,jeremyxin,chengjiexin@emotibot.com,none,none,bfengine-0.1.108-py3-none-any.whl,bdist_wheel
+2776486,girder-dicom-viewer,3.1.1.dev82,"kitware, inc.",kitware@kitware.com,apache 2.0,http://girder.readthedocs.io/en/latest/plugins.html#dicom-viewer,girder-dicom-viewer-3.1.1.dev82.tar.gz,sdist
+2255374,qy,0.2.4,sean harrison,sah@bookgenesis.com,mpl 2.0,https://gitlab.com/blackearth/qy,qy-0.2.4.tar.gz,sdist
+4263367,carritos,0.1.0,remindsupplychainrisks,remindsupplychainrisks@gmail.com,none,https://github.com/carritos,carritos-0.1.0.tar.gz,sdist
+1934730,metriqueu,0.2.5-4a,chris ward,cward@redhat.com,gplv3,https://github.com/drpoovilleorg/metrique,metriqueu-0.2.5-4a.tar.gz,sdist
+30253,marionette-tg,0.0.1.post5,kevin p. dyer,kpdyer@gmail.com,unknown,https://github.com/kpdyer/marionette,marionette-tg-0.0.1.post5.tar.gz,sdist
+4107796,vectorhub-nightly,1.0.8.2021.1.9,onsearch pty ltd,dev@vctr.ai,apache,https://github.com/vector-ai/vectorhub,vectorhub-nightly-1.0.8.2021.1.9.tar.gz,sdist
+2276999,p1-activity,0.1.42892058,yonas & wisnu,yonazadielwiguna@gmail.com,mit,none,p1_activity-0.1.42892058-py2-none-any.whl,bdist_wheel
+4795056,pencode,0.1.2,phoenix,rlaphoenix@pm.me,none,https://github.com/rlaphoenix/pencode,pencode-0.1.2-py3-none-any.whl,bdist_wheel
+3593027,mypy-boto3-datapipeline,1.15.0.0,vlad emelianov,vlad.emelianov.nz@gmail.com,mit license,https://github.com/vemel/mypy_boto3_builder,mypy-boto3-datapipeline-1.15.0.0.tar.gz,sdist
+3218780,virgil-crypto-lib,0.10.3,virgil security,support@virgilsecurity.com,bsd 3-clause,https://virgilsecurity.com,virgil_crypto_lib-0.10.3-py3.7-manylinux1_x86_64.egg,bdist_egg
+4052877,jina,0.9.18.dev6,jina dev team,dev-team@jina.ai,apache 2.0,https://opensource.jina.ai,jina-0.9.18.dev6.tar.gz,sdist
+4246896,alphabacktest,0.1.4,sergi novellas,sernocr@gmail.com,mit license,https://github.com/serginc21/alphabacktest,alphabacktest-0.1.4-py3-none-any.whl,bdist_wheel
+4377136,large-image-tasks,1.3.3.dev96,kitware inc,kitware@kitware.com,apache software license 2.0,none,large_image_tasks-1.3.3.dev96-py3-none-any.whl,bdist_wheel
+4444011,dci-utils,0.0.1002,andrew johnson,andrejohnson@expedia.com,none,https://ewegithub.sb.karmalab.net/ewe/dci-data-dci-utils,dci_utils-0.0.1002-py2-none-any.whl,bdist_wheel
+1283445,setuptools_bzr,2.2,richard gomes,rgomes.info@gmail.com,lgplv3,https://launchpad.net/setuptoolsbzr,setuptools_bzr-2.2.zip,sdist
+4537480,tts,0.0.12,eren gölge,egolge@coqui.ai,mpl-2.0,https://github.com/coqui-ai/tts,tts-0.0.12.tar.gz,sdist
+2812470,ofxtools,0.8.14,christopher singley,csingley@gmail.com,mit,https://github.com/csingley/ofxtools,ofxtools-0.8.14.tar.gz,sdist
+818324,ictools,0.0.0,dave shawley,daves@aweber.com,none,https://github.com/dave-shawley/ictools,ictools-0.0.0.tar.gz,sdist
+3881199,sam-io,0.0.2,danilo horta,horta@ebi.ac.uk,mit,https://github.com/ebi-metagenomics/sam-io,sam_io-0.0.2-py3-none-any.whl,bdist_wheel
+2710408,codeforlife-portal,2.21.2,none,none,none,none,codeforlife_portal-2.21.2-py2.py3-none-any.whl,bdist_wheel
+227087,ccxt,1.14.177,igor kroitor,igor.kroitor@gmail.com,mit,https://ccxt.trade,ccxt-1.14.177-py2.py3-none-any.whl,bdist_wheel
+2574599,uvloop,0.12.0rc1,yury selivanov,yury@magic.io,mit,http://github.com/magicstack/uvloop,uvloop-0.12.0rc1-cp35-cp35m-manylinux1_i686.whl,bdist_wheel
+3750161,python-capmonster,1.0,alperen sert,alperenssrt@gmail.com,mit,https://github.com/alperensert/python_capmonster,python_capmonster-1.0.tar.gz,sdist
+1736269,esdrt.content,1.3,mikel larreategi,mlarreategi@codesyntax.com,gpl,https://github.com/eea/eea.esdrt.content/,esdrt.content-1.3.zip,sdist
+3317598,castxml,0.0.4,kitware,kitware@kitware.com,apache 2.0,https://github.com/castxml/castxml-python-distributions#readme,castxml-0.0.4-py3-none-manylinux2014_x86_64.whl,bdist_wheel
+3131295,iknowpy,0.0.9,intersystems corporation,none,mit,https://github.com/intersystems/iknow,iknowpy-0.0.9-cp39-cp39-manylinux2010_x86_64.whl,bdist_wheel
+1585325,reclaimer,2.7.1,"devin bobadilla, michelle van der graaf",mosesbobadilla@gmail.com,gplv3,https://github.com/sigmmma/reclaimer,reclaimer-2.7.1-cp36-cp36m-win_amd64.whl,bdist_wheel
+4918477,nepsense,0.0.2,buddha gautam,buddhagautam231@gmail.com,none,https://github.com/buddha231/nepsense,nepsense-0.0.2.tar.gz,sdist
+3677970,spacy-nightly,3.0.0a31,explosion,contact@explosion.ai,mit,https://spacy.io,spacy_nightly-3.0.0a31-cp38-cp38-win_amd64.whl,bdist_wheel
+224259,d3graph,0.1.5,erdogan taskesen,erdogant@gmail.com,none,https://github.com/erdogant/d3graph,d3graph-0.1.5.tar.gz,sdist
+2072908,sliceplots,0.3.0,andrei berceanu,andreicberceanu@gmail.com,bsd license,https://github.com/berceanu/sliceplots,sliceplots-0.3.0.tar.gz,sdist
+2650884,deploycron,0.0.1,monklof,monklof@gmail.com,mit,https://github.com/monklof/deploycron,deploycron-0.0.1.tar.gz,sdist
+5182348,mathics-django,4.0.0,none,none,gpl,https://mathics.org/,mathics_django-4.0.0-py3-none-any.whl,bdist_wheel
+4685915,musamusa-textref,0.1,suizokukan,suizokukan@orange.fr,gplv3,none,musamusa_textref-0.1-py3-none-any.whl,bdist_wheel
+2570426,honeybee-radiance-folder,2.3.0,ladybug tools,info@ladybug.tools,none,https://github.com/ladybug-tools/honeybee-radiance-folder,honeybee-radiance-folder-2.3.0.tar.gz,sdist
+4220133,liqa,1.1.15,yu hu,huyu999999@gmail.com,mit,https://github.com/wglab/liqa,liqa-1.1.15.tar.gz,sdist
+3165279,demyst-common,0.7.38,demyst data,info@demystdata.com,none,none,demyst-common-0.7.38.tar.gz,sdist
+1483817,ttoolly,0.33.8,polina efremova,pefremova@gmail.com,none,none,ttoolly-0.33.8-py3-none-any.whl,bdist_wheel
+4945917,cron-converter,0.4.0,andrea salvatori,andrea.salvatori92@gmail.com,mit license,https://github.com/sonic0/cron-converter,cron-converter-0.4.0.tar.gz,sdist
+2074623,justengel-material,0.0.3,justin engel,jtengel08@gmail.com,proprietary,https://github.com/justengel-web/justengel_material,justengel_material-0.0.3.tar.gz,sdist
+4725329,coconut-prelude,0.2.0,evan hubinger,evanjhub@gmail.com,none,https://github.com/evhub/coconut-prelude,coconut-prelude-0.2.0.tar.gz,sdist
+4482787,lbt-dragonfly,0.7.135,ladybug tools,info@ladybug.tools,agpl-3.0,https://github.com/ladybug-tools/lbt-dragonfly,lbt-dragonfly-0.7.135.tar.gz,sdist
+1867003,jenkins-job-builder,1.5.0,openstack infrastructure team,openstack-infra@lists.openstack.org,"apache license, version 2.0",http://docs.openstack.org/infra/system-config/jjb.html,jenkins-job-builder-1.5.0.tar.gz,sdist
+4130787,histomicstk,1.0.8.dev21,"kitware, inc.",developers@digitalslidearchive.net,apache software license 2.0,https://github.com/digitalslidearchive/histomicstk,histomicstk-1.0.8.dev21-cp37-cp37m-manylinux2014_x86_64.whl,bdist_wheel
+1336173,metric,0.10.0,"kevin noel, imad e. bekkouch",brookm291@gmail.com,apache 2.0,https://github.com/arita37/,metric-0.10.0.tar.gz,sdist
+824605,mkdocs-pdf-export-plugin,0.5.8,terry zhao,zhao.terryy@gmail.com,mit,https://github.com/zhaoterryy/mkdocs-pdf-export-plugin/,mkdocs-pdf-export-plugin-0.5.8.tar.gz,sdist
+3688326,twisted-raiser,0.0.1,twisted matrix laboratories,twisted-python@twistedmatrix.com,mit,https://github.com/graingert/twisted-raiser,twisted_raiser-0.0.1-cp38-cp38-win32.whl,bdist_wheel
+5427269,zetane,1.6.0,zetane systems,info@zetane.com,none,https://zetane.com/download,zetane-1.6.0-cp36-cp36m-macosx_10_14_x86_64.whl,bdist_wheel
+2011880,mypy-boto3-application-insights,1.10.38.2,vlad emelianov,vlad.emelianov.nz@gmail.com,mit license,https://github.com/vemel/mypy_boto3,mypy-boto3-application-insights-1.10.38.2.tar.gz,sdist
+2599321,trufont,0.6.0.post3,adrien tétar,adri-from-59@hotmail.fr,gnu lgpl v3/gnu gpl v3,http://trufont.github.io,trufont-0.6.0.post3-py3-none-any.whl,bdist_wheel
+769317,supercell-step,0.9.1,paul saxe,psaxe@molssi.org,bsd-3-clause,https://github.com/molssi-seamm/supercell_step,supercell_step-0.9.1-py2.py3-none-any.whl,bdist_wheel
+767250,aws-cdk.aws-fms,1.33.1,amazon web services,none,apache-2.0,https://github.com/aws/aws-cdk,aws-cdk.aws-fms-1.33.1.tar.gz,sdist
+1882314,plock,0.1.5,alex clark,aclark@aclark.net,whatever license plone is,https://github.com/aclark4life/plock,plock-0.1.5.tar.gz,sdist
+2489638,mypy-boto3-iotthingsgraph,1.12.38.0,vlad emelianov,vlad.emelianov.nz@gmail.com,mit license,https://github.com/vemel/mypy_boto3_builder,mypy-boto3-iotthingsgraph-1.12.38.0.tar.gz,sdist
+5058173,fastlabel,0.9.4,eisuke-ueta,eisuke.ueta@fastlabel.ai,none,none,fastlabel-0.9.4-py3-none-any.whl,bdist_wheel
+2613820,clickhouse-cityhash,1.0.2.3,alexander [amper] marshalov,alone.amper+cityhash@gmail.com,mit,https://github.com/xzkostyan/python-cityhash,clickhouse_cityhash-1.0.2.3-cp36-cp36m-win_amd64.whl,bdist_wheel
+3249422,sciblox,0.2.9,daniel han-chen,danielhanchen@gmail.com,license.txt,https://github.com/danielhanchen/sciblox,sciblox-0.2.9.tar.gz,sdist
+1318055,pycuda,0.94.1,andreas kloeckner,inform@tiker.net,mit,http://mathema.tician.de/software/pycuda,pycuda-0.94.1.tar.gz,sdist
+3088862,wsseheaders,0.0.10,debapriya das,yodebu@gmail.com,mit,https://github.com/light-bringer/wsse-headers,wsseheaders-0.0.10-py3-none-any.whl,bdist_wheel
+3516109,python-bufflog,0.0.1,david gasquez,davidgasquez@buffer.com,none,https://github.com/bufferapp/python-bufflog,python_bufflog-0.0.1-py3-none-any.whl,bdist_wheel
+4941093,logic-py,0.4.1,vishwesh,vishwesh.arush@gmail.com,apache 2.0,https://github.com/vishwesh-vishwesh/logic_py,logic_py-0.4.1-py3-none-any.whl,bdist_wheel
+4203367,cxrandomwalk,0.1.3,filipi n. silva,filsilva@iu.edu,none,https://github.com/filipinascimento/cxrandomwalk,cxrandomwalk-0.1.3-cp39-cp39-macosx_10_14_x86_64.whl,bdist_wheel
+3240969,decoutils,0.0.1,liyu gong,gongliyu@gmail.com,none,https://github.com/gongliyu/decoutils,decoutils-0.0.1.tar.gz,sdist
+4952703,the-library,4.1.0rc1,artem malyshev,proofit404@gmail.com,bsd-2-clause,https://pypi.org/project/the-library,the-library-4.1.0rc1.tar.gz,sdist
+2796660,uritools,0.2.0,thomas kemmer,tkemmer@computer.org,mit,https://github.com/tkem/uritools,uritools-0.2.0.tar.gz,sdist
+158145,jaxlib,0.1.29,jax team,jax-dev@google.com,apache-2.0,https://github.com/google/jax,jaxlib-0.1.29-cp27-none-manylinux2010_x86_64.whl,bdist_wheel
+859413,ofxclient,0.9.2,david bartle,captindave@gmail.com,mit license,https://github.com/captin411/ofxclient,ofxclient-0.9.2.tar.gz,sdist
+16672,qualysapi,3.5.2,parag baxi,parag.baxi@gmail.com,bsd-new,https://github.com/paragbaxi/qualysapi,qualysapi-3.5.2.tar.gz,sdist
+4650372,deepchem,2.6.0.dev20210421035304,none,none,mit,https://github.com/deepchem/deepchem,deepchem-2.6.0.dev20210421035304.tar.gz,sdist
+3881579,pyagrum-nightly,0.18.2.9.dev202011291604226243,pierre-henri wuillemin and christophe gonzales,info@agrum.org,lgplv3,https://agrum.gitlab.io/,pyagrum_nightly-0.18.2.9.dev202011291604226243-cp27-cp27m-manylinux1_i686.whl,bdist_wheel
+4995233,gexecute,0.1.0,tim cosby,tim.cosby0@gmail.com,mit,https://github.com/timcosby/generic_execute,gexecute-0.1.0-py3-none-any.whl,bdist_wheel
+4191317,clean-architecture-basic-classes,0.1.1,anselmo lira (https://github.com/aberriel),anselmo.lira1@gmail.com,none,https://github.com/aberriel/clean_architecture_basic_classes,clean_architecture_basic_classes-0.1.1.tar.gz,sdist
+4211438,m3u8tomp4,0.2.3,violetyfd,2448543261@qq.com,mit,https://github.com/yfd-01/m3u8tomp4,m3u8tomp4-0.2.3.tar.gz,sdist
+3376203,srsly,2.0.0.dev0,explosion,contact@explosion.ai,mit,https://github.com/explosion/srsly,srsly-2.0.0.dev0-cp36-cp36m-macosx_10_6_intel.whl,bdist_wheel
+4847272,reasoner-pydantic,1.1.1,patrick wang,patrick@covar.com,mit,https://github.com/translatorsri/reasoner-pydantic,reasoner_pydantic-1.1.1-py3-none-any.whl,bdist_wheel
+4435041,rokuality-python,1.5.0,rokualitydevs@rokuality.com,rokualitydevs@rokuality.com,none,https://github.com/rokuality/rokuality-python,rokuality-python-1.5.0.tar.gz,sdist
+3159310,coverage,4.3,ned batchelder and 86 others,ned@nedbatchelder.com,apache 2.0,https://coverage.readthedocs.io,coverage-4.3-cp36-cp36m-win32.whl,bdist_wheel
+224535,webspace,2.7.74,alexis le baron,alexis@stationspatiale.com,bsd,https://github.com/aleksi44/webspace,webspace-2.7.74.tar.gz,sdist
+4241134,p2.tools,0.4.9,marco masetti,marco.masetti@sky.uk,bsd license,https://github.com/grubert65/p2_tools,p2.tools-0.4.9-py2.py3-none-any.whl,bdist_wheel
+4885686,py4xs,2021.5.25.0,lin yang,lyang@bnl.gov,bsd,none,py4xs-2021.5.25.0-py3-none-any.whl,bdist_wheel
+2692796,kalabash-dmarc,1.1.2,alphamonak solutions,info@alphamonak.com,none,https://monakmail.com/,kalabash-dmarc-1.1.2.tar.gz,sdist
+4268030,lusid-sdk-preview,0.11.2671,finbourne technology,engineering@finbourne.com,mit,https://github.com/finbourne/lusid-sdk-python-preview,lusid-sdk-preview-0.11.2671.tar.gz,sdist
+520344,django-onfido,0.1.0,hugo rodger-brown,hugo@yunojuno.com,none,https://github.com/hugorodgerbrown/django-onfido,django-onfido-0.1.0.macosx-10.10-x86_64.tar.gz,sdist
+2821590,membernator,1.0.0,louis-philippe véronneau,none,isc,https://gitlab.com/baldurmen/membernator,membernator-1.0.0.tar.gz,sdist
+1090922,brotli,1.0.4,the brotli authors,none,apache 2.0,https://github.com/google/brotli,brotli-1.0.4-cp27-cp27mu-manylinux1_x86_64.whl,bdist_wheel
+2756735,jpt-django-utils,0.5.0,jewel paymentech,jafnee.jesmee@jewelpaymentech.com,none,https://github.com/jptd/jpt-django-utils,jpt_django_utils-0.5.0-py2.py3-none-any.whl,bdist_wheel
+710668,dlake,0.1.2,abhishek upperwal,mesh@soket.in,none,https://github.com/upperwal,dlake-0.1.2-py3-none-any.whl,bdist_wheel
+1948257,gcdt-bundler,0.0.869,glomex sre team,mark.fink@glomex.com,mit,none,gcdt-bundler-0.0.869.tar.gz,sdist
+3858822,tencentcloud-sdk-python-tia,3.0.297,tencent cloud,tencentcloudapi@tencent.com,apache license 2.0,https://github.com/tencentcloud/tencentcloud-sdk-python,tencentcloud-sdk-python-tia-3.0.297.tar.gz,sdist
+162556,btctxstore,1.0.0,fabian barkhau,fabian.barkhau@gmail.com,mit,https://github.com/f483/btctxstore/,btctxstore-1.0.0.tar.gz,sdist
+5044449,quantconnect-stubs,12246,quantconnect,support@quantconnect.com,none,https://github.com/quantconnect/quantconnect-stubs-generator,quantconnect-stubs-12246.tar.gz,sdist
+843615,isitfit,0.11.7,"shadi akiki, autofitcloud",shadi@autofitcloud.com,none,https://gitlab.com/autofitcloud/isitfit,isitfit-0.11.7.tar.gz,sdist
+1674407,jsontrips,0.1.4,rik,rbose@cs.rochester.edu,none,https://github.com/mrmechko/jsontrips,jsontrips-0.1.4.tar.gz,sdist
+2639181,bibtexvcs,2015.8,michael helmling,michaelhelmling@posteo.de,gpl3,http://github.com/supermihi/bibtevxcs,bibtexvcs-2015.8.tar.gz,sdist
+378689,equilibrator-api,0.2.1b1,elad noor,noor@imsb.biol.ethz.ch,mit license,https://gitlab.com/elad.noor/equilibrator-api,equilibrator_api-0.2.1b1-py2.py3-none-any.whl,bdist_wheel
+3549714,spaceone-plugin,1.3.1,megazone spaceone team,admin@spaceone.dev,apache license 2.0,https://www.spaceone.dev/,spaceone_plugin-1.3.1-py3-none-any.whl,bdist_wheel
+2055000,django-restify,0.1.7,krish,krish@jaljale.com,none,https://github.com/s2krish/django-restify,django_restify-0.1.7.tar.gz,sdist
+991871,django-kk,0.1.4,icw82,icw82@yandex.ru,mit,https://icw82.ru/,django-kk-0.1.4.tar.gz,sdist
+1184921,tweeql2solr,0.1,bearstech,gpasgrimaud@bearstech.com,bsd,https://github.com/gawel/tweeql2solr,tweeql2solr-0.1.tar.gz,sdist
+881043,li-pagador-rede,0.0.2,loja integrada,suporte@lojaintegrada.com.br,mit,https://github.com/lojaintegrada/li-pagador-rede,li-pagador-rede-0.0.2.tar.gz,sdist
+3249413,pytkmdiapp,0.1.1,"paul ""mid.tier""",mid.tier@gmail.com,license.txt,http://sourceforge.net/projects/pytkmdiapp,pytkmdiapp-0.1.1.zip,sdist
+947277,assemblyline-core,4.0.0.dev9,cccs assemblyline development team,assemblyline@cyber.gc.ca,mit,https://bitbucket.org/cse-assemblyline/alv4_core/,assemblyline_core-4.0.0.dev9-py3-none-any.whl,bdist_wheel
+4182354,cryptography,3.3.2,the cryptography developers,cryptography-dev@python.org,"bsd or apache license, version 2.0",https://github.com/pyca/cryptography,cryptography-3.3.2-cp27-cp27m-manylinux2010_x86_64.whl,bdist_wheel
+4433999,noteblog,0.2.7,niult,1007530194@qq.com,none,https://github.com/1007530194,noteblog-0.2.7.tar.gz,sdist
+1924295,pyrtk,1.0,jdraiv,none,none,https://github.com/jdraiv/pyrtk/tree/master,pyrtk-1.0-py3-none-any.whl,bdist_wheel
+437317,rqdatac,2.5.6,ricequant,public@ricequant.com,none,https://www.ricequant.com/doc/rqdata-institutional#research-version,rqdatac-2.5.6-cp35-cp35m-manylinux2010_x86_64.whl,bdist_wheel
+301874,odoo11-addon-purchase-request,11.0.1.2.0.99.dev4,"eficent, odoo community association (oca)",support@odoo-community.org,lgpl-3,none,odoo11_addon_purchase_request-11.0.1.2.0.99.dev4-py2.py3-none-any.whl,bdist_wheel
+3731959,bae0n-utils,0.0.12,aeon williams,aeonwilliams@gmail.com,none,https://github.com/aeonwilliams/bae0n_utils/blob/main/readme.md,bae0n_utils-0.0.12-py3-none-any.whl,bdist_wheel
+1525378,mesonpep517,0.1.9994,thibault saunier,tsaunier@gnome.org,none,https://gitlab.com/thiblahute/mesonpep517,mesonpep517-0.1.9994-py3-none-any.whl,bdist_wheel
+5110103,skeng,0.1.5a0,jonnesvold,jon.nesvold@pm.me,lincense.md,none,skeng-0.1.5a0.tar.gz,sdist
+488664,pyaxe,1.0.3,sun jin,412640665@qq.com,none,https://github.com/sunjinopensource/pyaxe/,pyaxe-1.0.3-py3-none-any.whl,bdist_wheel
+3593736,boto3,1.14.63,amazon web services,none,apache license 2.0,https://github.com/boto/boto3,boto3-1.14.63-py2.py3-none-any.whl,bdist_wheel
+1542924,rust-pypi-example,0.7.7,matt mckay,mckaymatt@gmail.com,apache software license 2.0,https://github.com/mckaymatt/rust_pypi_example,rust_pypi_example-0.7.7-cp34-cp34m-macosx_10_12_x86_64.whl,bdist_wheel
+2159347,foxysheep,1.2.0,robert jacobson,none,none,http://github.com/rocky/foxysheep2,foxysheep-1.2.0-py36-none-any.whl,bdist_wheel
+753996,guardian-azure,0.32,noam nisenholz,noamholz@guardian-optech.com,none,none,guardian_azure-0.32.tar.gz,sdist
+3140188,pulumi,0.14.2.dev1530207239,none,none,apache 2.0,https://github.com/pulumi/pulumi,pulumi-0.14.2.dev1530207239-py2.py3-none-any.whl,bdist_wheel
+2977049,freesixty,0.1,rok mihevc,me@rok.dev,mit,https://github.com/datatart/freesixty,freesixty-0.1.tar.gz,sdist
+1786749,mtstat-mysql,0.7.1,monty taylor,monty@inaugust.com,unknown,http://trac.inaugust.com/mtstat,mtstat_mysql-0.7.1.tar.gz,sdist
+4937506,regina,6.1.0a2,"the regina developers, marc culler, nathan dunfield, and matthias goerner",snappy-help@computop.org,gplv2+,http://github.com/3-manifolds/regina_wheels,regina-6.1.0a2-cp39-cp39-manylinux2014_x86_64.whl,bdist_wheel
+4343480,pydantic-cloud-settings,0.0.1,kedar deore,mixedquantum@gmail.com,none,https://github.com/0xkd/pydantic-cloud-settings,pydantic-cloud-settings-0.0.1.tar.gz,sdist
+5414480,ramodels,3.0.0,magenta,info@magenta.dk,mpl-2.0,https://magenta.dk/,ramodels-3.0.0.tar.gz,sdist
+4040731,pyadlml,0.0.6.9a0,christian meier,account@meier-lossburg.de,mit,https://github.com/tcsvn/pyadlml,pyadlml-0.0.6.9a0-py3-none-any.whl,bdist_wheel
+511374,phageboost,0.1.4,kimmo sirén and thomas sicheritz-pontén,kkpsiren@gmail.com,none,https://github.com/ku-cbd/phageboost,phageboost-0.1.4-py3-none-any.whl,bdist_wheel
+3528456,estore,0.0.3,jnxy,jnxy@lostwire.net,none,https://github.com/lostwire/estore,estore-0.0.3.tar.gz,sdist
+4274972,yaps-lib,0.0.1,victor krook,victorkrook96@gmail.com,none,https://github.com/victorhook/yaps,yaps_lib-0.0.1-py3-none-any.whl,bdist_wheel
+1830640,podhub.meh,0.0.13,jon chen,bsd@voltaire.sh,bsd 3-clause license,https://github.com/podhub/meh,podhub.meh-0.0.13.tar.gz,sdist
+3074792,universityhack2018,0.7.0,carlos abad sánchez,c.abad.sanchez@gmail.com,mit license,https://github.com/cabadsanchez/universityhack2018,universityhack2018-0.7.0-py2.py3-none-any.whl,bdist_wheel
+661638,db-facts,3.0.0,vince broz,opensource@bluelabs.com,apache software license,none,db_facts-3.0.0-py3-none-any.whl,bdist_wheel
+2802301,strider,0.0.9,michael dehaan,michael.dehaan@gmail.com,apache2,http://github.com/mpdehaan/strider/,strider-0.0.9.tar.gz,sdist
+271764,clicol,0.1.8,viktor kertesz,vkertesz2@gmail.com,gplv3,https://github.com/realvitya/clicol,clicol-0.1.8.tar.gz,sdist
+4211482,developers-chamber,0.0.45,druids team,matllubos@gmail.com,mit,https://github.com/druids/django-project-info,developers-chamber-0.0.45.tar.gz,sdist
+1504432,mypy-boto3-rekognition,1.12.28.0,vlad emelianov,vlad.emelianov.nz@gmail.com,mit license,https://github.com/vemel/mypy_boto3_builder,mypy-boto3-rekognition-1.12.28.0.tar.gz,sdist
+1389405,mkdocs-macros-plugin,0.4.6,laurent franceschetti,info@settlenext.com,mit,https://github.com/fralau/mkdocs_macros_plugin,mkdocs-macros-plugin-0.4.6.tar.gz,sdist
+2428136,girder-autojoin,3.0.6.dev54,"kitware, inc.",kitware@kitware.com,apache 2.0,http://girder.readthedocs.io/en/latest/plugins.html#auto-join,girder-autojoin-3.0.6.dev54.tar.gz,sdist
+2550127,helpdeskbot,2.1.0,john leon,nanodano@devdungeon.com,gpl-3.0,https://github.com/devdungeon/helpdeskbot,helpdeskbot-2.1.0.tar.gz,sdist
+4311960,pymeshlab,0.2,"alessandro muntoni, paolo cignoni",alessandro.muntoni@isti.cnr.it,gpl3,https://github.com/cnr-isti-vclab/pymeshlab,pymeshlab-0.2-cp36-cp36m-macosx_10_11_x86_64.whl,bdist_wheel
+930162,rakuten-pay,0.0.1,ivan carlos martello,ivcmartello@gmail.com,mit license,https://github.com/ivcmartello/rakuten_pay,rakuten_pay-0.0.1-py3-none-any.whl,bdist_wheel
+3892266,tubex-lib,3.0.13,"simon rohou, benoit desrochers",simon.rohou@ensta-bretagne.fr,lgplv3+,http://simon-rohou.fr/research/tubex-lib,tubex_lib-3.0.13-cp35-cp35m-win_amd64.whl,bdist_wheel
+4478756,itk-ioscanco,0.9.0,matt mccormick,matt.mccormick@kitware.com,apache,https://itk.org/,itk_ioscanco-0.9.0-cp38-cp38-win_amd64.whl,bdist_wheel
+2376993,cyberaide-bookmanager,0.2.16,gregor von laszewski,laszewski@gmail.com,apache 2.0,https://github.com/cyberaide/bookmanager,cyberaide_bookmanager-0.2.16-py2.py3-none-any.whl,bdist_wheel
+2236912,spdxtools,0.1.1,the guardians,william.bengtson@gmail.com,none,none,spdxtools-0.1.1.tar.gz,sdist
+797962,cmarkgfm,0.3.0,the python packaging authority,"thea@skeletonbuddy.com, pypa-dev@googlegroups.com",none,https://github.com/jonparrott/cmarkgfm,cmarkgfm-0.3.0-cp27-cp27m-win_amd64.whl,bdist_wheel
+2842114,properly-util-python,0.4.1,goproperly,info@goproperly.com,none,https://github.com/goproperly/properly-util-python,properly_util_python-0.4.1.tar.gz,sdist
+2631750,django-boolean-switch,0.2.3,mikhail makeev,mihail.makeev@gmail.com,bsd,https://github.com/makeev/django-boolean-switch,django-boolean-switch-0.2.3.tar.gz,sdist
+817137,vincrosscheck-api-python-client,1.0.4,none,none,none,none,vincrosscheck-api-python-client-1.0.4.tar.gz,sdist
+5448425,ldict,2.210914.1,davips,dpsabc@gmail.com,gpl,none,ldict-2.210914.1.tar.gz,sdist
+4801733,usefulpython,0.1.1,augustin garcia,albusdumbledore101123@gmail.com,none,https://github.com/augustin007/usefulpy,usefulpython-0.1.1.tar.gz,sdist
+1934097,flufl.enum,2.0,barry warsaw,barry@python.org,lgpl,http://launchpad.net/munepy,munepy-2.0.tar.gz,sdist
+1070696,polly,0.4,tom anthony,tom.anthony@distilled.net,unknown,https://github.com/distilledltd/polly,polly-0.4.tar.gz,sdist
+4408022,sharefile-webui,1.0.9,ales adamek,alda78@seznam.cz,mit,https://gitlab.com/alda78/sharefile-webui,sharefile_webui-1.0.9-py3-none-any.whl,bdist_wheel
+2739861,giwaxs-gui,0.1.8,vladimir starostin,vladimir.starostin@uni-tuebingen.de,gplv3,https://pypi.org/project/giwaxs-gui,giwaxs_gui-0.1.8.tar.gz,sdist
+1465100,lalsuite,6.62.1.dev20191119,ligo scientific collaboration,lal-discuss@ligo.org,gpl-2+,https://git.ligo.org/lscsoft/lalsuite,lalsuite-6.62.1.dev20191119-cp27-cp27m-macosx_10_12_x86_64.whl,bdist_wheel
+1691708,vr.server,3.6.1,brent tubbs,brent.tubbs@gmail.com,unknown,unknown,vr.server-3.6.1.tar.gz,sdist
+929318,certifi,2020.4.5.1,kenneth reitz,me@kennethreitz.com,mpl-2.0,https://certifiio.readthedocs.io/en/latest/,certifi-2020.4.5.1-py2.py3-none-any.whl,bdist_wheel
+4945476,lime-python,2.0.11,"gabriel santos <gabrielr@take.net>, luis araújo <luisc@take.net>",gabrielr@take.net,apache-2.0,https://github.com/chr0m1ng/lime-python,lime_python-2.0.11-py3-none-any.whl,bdist_wheel
+2983182,pyckson,0.1,jean giard,opensource@antidot.net,lgpl,https://github.com/antidot/pyckson,pyckson-0.1-py3-none-any.whl,bdist_wheel
+3097401,dagster-flyte,0.8.0rc0,elementl,none,apache-2.0,https://github.com/dagster-io/dagster/tree/master/python_modules/libraries/dagster-flyte,dagster-flyte-0.8.0rc0.tar.gz,sdist
+2161084,pyats.topology,20.7,cisco systems inc.,pyats-support-ext@cisco.com,apache 2.0,https://developer.cisco.com/pyats/,pyats.topology-20.7-cp35-cp35m-manylinux1_x86_64.whl,bdist_wheel
+1116447,catboost-dev,0.20.1.4464,catboost developers,none,"apache license, version 2.0",https://catboost.ai,catboost_dev-0.20.1.4464-cp35-none-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl,bdist_wheel
+4160209,generalpackager,0.1.1,"rickard ""mandera"" abraham",rickard.abraham@gmail.com,mit,https://github.com/manderageneral/generalpackager,generalpackager-0.1.1-py3-none-any.whl,bdist_wheel
+136049,biologicalprocessnetworks,1.0a2,christopher d. lasher,chris.lasher@gmail.com,mit license,http://pypi.python.org/pypi/biologicalprocessnetworks,biologicalprocessnetworks-1.0a2.tar.gz,sdist
+4966779,leadguru-common,0.53.0,none,developer@leadguru.co,none,none,leadguru_common-0.53.0.tar.gz,sdist
+5134500,wechatarticles,0.6.7,wnma3mz,wnma3mz@gmail.com,none,https://github.com/wnma3mz/wechat_articles_spider,wechatarticles-0.6.7-py3-none-any.whl,bdist_wheel
+197787,pyqubole,0.1.6,wesley goi,picy2k@gmail.com,none,none,pyqubole-0.1.6.tar.gz,sdist
+1176138,ddd-es,1.1.0,laurent evrard,evrardlaurent77@gmail.com,wtfpl,https://git.fenrys.io/fenrys/back/python_ddd,ddd_es-1.1.0.tar.gz,sdist
+2245085,grpcio,1.31.0rc2,the grpc authors,grpc-io@googlegroups.com,apache license 2.0,https://grpc.io,grpcio-1.31.0rc2-cp27-cp27mu-linux_armv7l.whl,bdist_wheel
+2421678,vhlsrs,0.0.47,luc forget,luc.forget@insa-lyon.fr,none,https://gitlab.inria.fr/lforget/vhls_rs,vhlsrs-0.0.47-py3-none-any.whl,bdist_wheel
+3991086,nz-allo-usage-tools,0.0.12,mike kittridge,mullenkamp1@gmail.com,apache,https://github.com/mullenkamp/nz-allo-usage-tools,nz_allo_usage_tools-0.0.12-py2.py3-none-any.whl,bdist_wheel
+3792319,shuffle-graph,2.0.0,sosei,fss.sosei@gmail.com,gnu affero general public license v3,https://github.com/fsssosei/shuffle_graph,shuffle_graph-2.0.0-py3-none-any.whl,bdist_wheel
+3133454,pdsview,0.4.1,planetarypy developers,contact@planetarypy.com,bsd,https://github.com/planetarypy/pdsview,pdsview-0.4.1.tar.gz,sdist
+4716366,pyagrum-nightly,0.20.1.9.dev202105011619820300,pierre-henri wuillemin and christophe gonzales,info@agrum.org,lgplv3,https://agrum.gitlab.io/,pyagrum_nightly-0.20.1.9.dev202105011619820300-cp27-cp27m-manylinux1_x86_64.whl,bdist_wheel
+3521136,otoole,0.8.3,will usher,wusher@kth.se,mit,https://github.com/osemosys/otoole,otoole-0.8.3.tar.gz,sdist
+276178,ccxt,1.29.35,igor kroitor,igor.kroitor@gmail.com,mit,https://ccxt.trade,ccxt-1.29.35-py2.py3-none-any.whl,bdist_wheel
+2512751,cmsplugin-news,0.4.1,horst gutmann,zerok@zerokspot.com,bsd,http://bitbucket.org/zerok/cmsplugin-news/,cmsplugin-news-0.4.1.tar.gz,sdist
+3788758,arsenalqa-amqp,2020.0.4,wargaming.net qa group,none,apache license 2.0,https://github.com/wgnet/arsenalqa,arsenalqa_amqp-2020.0.4-py3-none-any.whl,bdist_wheel
+1239400,aws-cdk.assets,0.31.0,amazon web services,none,none,https://github.com/awslabs/aws-cdk,aws_cdk.assets-0.31.0-py3-none-any.whl,bdist_wheel
+2018688,metatype,0.0.8,mindey,mindey@qq.com,mit,https://github.com/wefindx/metatype,metatype-0.0.8.tar.gz,sdist
+567554,danksearch,0.0.6,dankcoder,business.dankcoder@gmail.com,none,https://github.com/actualdankcoder/danksearch-discord,danksearch-0.0.6-py3-none-any.whl,bdist_wheel
+5346967,betterlogs4python,0.1.6,jonas mayer,jonas.mayer.dev@gmail.com,none,https://github.com/jonasmayerdev/betterlogs4python,betterlogs4python-0.1.6-py3-none-any.whl,bdist_wheel
+3365607,recordclass,0.11,zaur shibzukhov,szport@gmail.com,mit license,https://bitbucket.org/intellimath/recordclass,recordclass-0.11.tar.gz,sdist
+418808,tensorflow-io-nightly,0.12.0.dev20200213223053,google inc.,opensource@google.com,apache 2.0,none,tensorflow_io_nightly-0.12.0.dev20200213223053-cp36-cp36m-macosx_10_15_x86_64.whl,bdist_wheel
+2178969,orthauth,0.0.1.dev0,tom gillespie,tgbugs@gmail.com,mit,https://github.com/tgbugs/orthauth,orthauth-0.0.1.dev0-py2.py3-none-any.whl,bdist_wheel
+2080134,siginfo,0.9,jonas marcello,jonas.marcello@esbme.com,mit,https://github.com/anergictcell/siginfo,siginfo-0.9-py2-none-any.whl,bdist_wheel
+3257038,rayycli,0.1.0,jeremiah boby,mail@jeremiahboby.me,mit,none,rayycli-0.1.0.tar.gz,sdist
+5463586,ofunctions.logger-utils,2.0.2,netinvent - orsiris de jong,contact@netinvent.fr,none,https://github.com/netinvent/ofunctions,ofunctions.logger_utils-2.0.2-py3-none-any.whl,bdist_wheel
+2174337,alignak_app,1.4.0,estrada matthieu,ttamalfor@gmail.com,"gnu affero general public license, version 3",https://github.com/alignak-monitoring-contrib/alignak-app,alignak_app-1.4.0.tar.gz,sdist
+1030275,aws-cdk.aws-datapipeline,0.36.2,amazon web services,none,none,https://github.com/awslabs/aws-cdk,aws_cdk.aws_datapipeline-0.36.2-py3-none-any.whl,bdist_wheel
+1651536,fsva,0.0.0,michał kruszewski,mkru@protonmail.com,mit,https://github.com/m-kru/fsva,fsva-0.0.0-py3.7.egg,bdist_egg
+901805,aws-cdk.aws-s3-assets,1.47.1,amazon web services,none,apache-2.0,https://github.com/aws/aws-cdk,aws_cdk.aws_s3_assets-1.47.1-py3-none-any.whl,bdist_wheel
+4269572,tencentcloud-sdk-python-tmt,3.0.349,tencent cloud,tencentcloudapi@tencent.com,apache license 2.0,https://github.com/tencentcloud/tencentcloud-sdk-python,tencentcloud-sdk-python-tmt-3.0.349.tar.gz,sdist
+3464710,rsscrawler,6.8.1,rix1337,none,none,https://github.com/rix1337/rsscrawler,rsscrawler-6.8.1-py3-none-any.whl,bdist_wheel
+1754459,globus-cli,0.5.1.0,stephen rosen,sirosen@globus.org,none,https://github.com/globusonline/globus-cli,globus-cli-0.5.1.0.tar.gz,sdist
+2787337,pyex,0.1.3,tim paine,timothy.k.paine@gmail.com,apache 2.0,https://github.com/timkpaine/pyex,pyex-0.1.3.tar.gz,sdist
+3722733,duckietown-utils-daffy,6.0.5,mack,admin@duckietown.org,none,http://github.com/duckietown/duckietown-utils,duckietown-utils-daffy-6.0.5.tar.gz,sdist
+3017872,ingaia-libs,0.0.5,ingaia operations,suporte.operacoes@i-value.com.br,mit,http://gitlab.ingaia.com.br/operacoes/libs/ingaia-libs,ingaia-libs-0.0.5.tar.gz,sdist
+4371351,bitsmiths-loco,2.1.0,"nicolas milicevic, steven van niekerk, darrly daniels","nicolas@bitsmiths.co.za, steven@bitsmiths.co.za, darryl@bitsmiths.co.za",mit,https://bitbucket.org/bitsmiths_za/bitsmiths,bitsmiths-loco-2.1.0.tar.gz,sdist
+1851871,xcanvas,1.21,samy zafrany,admin@samyzaf.com,mit,http://github.com/samyzaf/xcanvas,xcanvas-1.21.tar.gz,sdist
+2681247,rslib,1.5.4,wangkai02,wangkai02@corp.netease.com,mit,https://gitlab.leihuo.netease.com/userpersona/diting/rslib,rslib-1.5.4.tar.gz,sdist
+3923389,n0struct,0.2.23,pythonist552,pythonist552@gmail.com,asl,https://github.com/pythonist552/n0struct/,n0struct-0.2.23-py3-none-any.whl,bdist_wheel
+125675,ginga,2.7.0,eric jeschke,eric@naoj.org,bsd,http://ejeschke.github.com/ginga,ginga-2.7.0.tar.gz,sdist
+143945,turicreate,6.2,apple inc.,turi-create@group.apple.com,license.txt,https://github.com/apple/turicreate,turicreate-6.2-cp35-cp35m-manylinux1_x86_64.whl,bdist_wheel
+1134679,dlpytools,0.1.6,guhai,bysideen@gmail.com,mit license,https://github.com/gunanhai/dltools,dlpytools-0.1.6.tar.gz,sdist
+129395,pyspm,0.2.9,olivier scholder,o.scholder@gmail.com,apache 2.0,https://github.com/scholi/pyspm,pyspm-0.2.9.tar.gz,sdist
+3948596,webchanges,3.0.3,mike borsetti,mike@borsetti.com,"mit, bsd 3-clause license",https://github.com/mborsetti/webchanges,webchanges-3.0.3-py3-none-any.whl,bdist_wheel
+4324874,lukeparser,0.3.23,david hartmann,none,gplv2,https://lukeparser.github.io,lukeparser-0.3.23-cp36-cp36m-manylinux1_x86_64.whl,bdist_wheel
+1198915,eukcc,0.1.5.1,paul saary,eukcc@paulsaary.de,gplv3,https://github.com/finn-lab/eukcc/,eukcc-0.1.5.1.tar.gz,sdist
+5005473,dagster,0.11.13rc5,elementl,hello@elementl.com,apache-2.0,https://github.com/dagster-io/dagster,dagster-0.11.13rc5.tar.gz,sdist
+832009,xd-cwl-utils,0.5.0a3,karl sebby,karl.sebby@xdbio.com,apache 2.0,https://github.com/xdbio-inc/xd-cwl-utils,xd_cwl_utils-0.5.0a3.tar.gz,sdist
+4551559,tencentcloud-sdk-python-tcr,3.0.376,tencent cloud,tencentcloudapi@tencent.com,apache license 2.0,https://github.com/tencentcloud/tencentcloud-sdk-python,tencentcloud_sdk_python_tcr-3.0.376-py2.py3-none-any.whl,bdist_wheel
+4984156,digitaloceanobjects,0.0.11,zoran ilievski,pythonic@clientuser.net,mit,https://github.com/zorani/digitalocean-objects,digitaloceanobjects-0.0.11.tar.gz,sdist
+1609899,rqalpha,0.0.12,ricequant,public@ricequant.com,unknown,https://www.ricequant.com/,rqalpha-0.0.12.tar.gz,sdist
+4321418,backend.ai-manager,20.9.7,lablup inc.,joongi@lablup.com,lgplv3,https://backend.ai,backend.ai-manager-20.9.7.tar.gz,sdist
+1048348,labelx,2.1.1,dalwar hossain,dalwar23@protonmail.com,gnu general public license v3,https://github.com/dalwar23/labelxg,labelx-2.1.1-py2.py3-none-any.whl,bdist_wheel
+202303,streamlabswater-streamlabswater,0.3.2,streamlabs,support@streamlabswater.com,mit,https://github.com/streamlabswater/stream-python,streamlabswater-streamlabswater-0.3.2.tar.gz,sdist
+835217,certbot-dns-aliyundns,0.35.1.dev0,certbot project,yang.skyer@gmail.com,apache license 2.0,https://github.com/skyeryg/certbot-dns-aliyundns,certbot-dns-aliyundns-0.35.1.dev0.tar.gz,sdist
+4123589,geode-common,12.11.3,geode-solutions,contact@geode-solutions.com,proprietary,https://github.com/geode-solutions/geode-common,geode_common-12.11.3-cp37-cp37m-win_amd64.whl,bdist_wheel
+3288798,csvnav,0.1.0,joel kaardal,jkaardal@gmail.com,mit,https://github.com/jkaardal/csvnav,csvnav-0.1.0.tar.gz,sdist
+4034326,aiogoogle,1.1.2,omar ryhan,omarryhan@gmail.com,gnu,https://github.com/omarryhan/aiogoogle,aiogoogle-1.1.2-py3-none-any.whl,bdist_wheel
+3151110,aq,0.1.0,binh le,lebinh.it@gmail.com,mit,https://github.com/lebinh/aq,aq-0.1.0-py2.py3-none-any.whl,bdist_wheel
+767989,nonebot-tuling,1.0.1,richard chien,richardchienthebest@gmail.com,mit license,https://github.com/richardchien/nonebot-tuling,nonebot-tuling-1.0.1.tar.gz,sdist
+3414257,tikzplot,0.0.1,christoph hoeppke,christoph.hoeppke@gmail.com,none,https://github.com/hoeppke/tikzplot,tikzplot-0.0.1-py3-none-any.whl,bdist_wheel
+4207281,cuplcodec,2.0.9,malcolm mackay,malcolm@plotsensor.com,none,https://github.com/cuplsensor/cuplcodec,cuplcodec-2.0.9-cp37-cp37m-manylinux2010_x86_64.whl,bdist_wheel
+2397987,mirror.pfg,0.2.0,tim knapp,unknown,gpl,http://contentmirror.googlecode.com,mirror.pfg-0.2.0.tar.gz,sdist
+1777462,likelycause2,0.0.0,ana garcia,ana.n.garcia2@gmail.com,mit,https://github.com/shaypal5/chocobo,likelycause2-0.0.0.tar.gz,sdist
+3068187,denarius,2018.1.23.1815,will breaden madden,wbm@protonmail.ch,gplv3,https://github.com/wdbm/denarius,denarius-2018.1.23.1815.tar.gz,sdist
+2423720,tf-nightly-gpu,2.4.0.dev20200711,google inc.,packages@tensorflow.org,apache 2.0,https://www.tensorflow.org/,tf_nightly_gpu-2.4.0.dev20200711-cp37-cp37m-win_amd64.whl,bdist_wheel
+5178302,plagdef,1.2.4,yannik queisler,none,gpl-3.0-or-later,https://github.com/devwhyqueue/plagdef,plagdef-1.2.4.tar.gz,sdist
+3210413,pywings,0.0.1,nityan suman,nityan.suman@gmail.com,apache 2.0,https://github.com/nityansuman/pywings,pywings-0.0.1.tar.gz,sdist
+1730005,google-endpoints,2.3.1,google endpoints authors,googleapis-packages@google.com,apache,https://github.com/cloudendpoints/endpoints-python,google_endpoints-2.3.1-py2-none-any.whl,bdist_wheel
+5003291,smpl,0.0.91,apn,apn-pucky@no-reply.github.com,none,https://github.com/apn-pucky/smpl,smpl-0.0.91.tar.gz,sdist
+4073840,ailever,0.1.50,ailever,ailever.group@gmail.com,none,https://3044d22ab9179f52ecb34567f62c8b9819f0333d@github.com/ailever/ailever,ailever-0.1.50-py3-none-any.whl,bdist_wheel
+4747055,aws-cdk.aws-apigatewayv2,1.103.0,amazon web services,none,apache-2.0,https://github.com/aws/aws-cdk,aws_cdk.aws_apigatewayv2-1.103.0-py3-none-any.whl,bdist_wheel
+5274125,owl-pipeline-client,0.9.3,eduardo gonzalez solares,eglez@ast.cam.ac.uk,gnu general public license v3,https://github.com/eddienko/owl-pipeline-client,owl-pipeline-client-0.9.3.tar.gz,sdist
+6562,drivebuild-client,0.33,stefan huber,huberst@fim.uni-passau.de,none,none,drivebuild-client-0.33.tar.gz,sdist
+986014,neo-python,0.7.7,thomas saunders,tom@cityofzion.io,mit license,https://github.com/cityofzion/neo-python,neo_python-0.7.7-py3-none-any.whl,bdist_wheel
+3112613,blmath,1.2.3,body labs,alex@bodylabs.com,mit,https://github.com/bodylabs/blmath,blmath-1.2.3-cp27-cp27m-macosx_10_12_x86_64.whl,bdist_wheel
+2237552,readee,0.0.74,yunzhi gao,gaoyunzhi@gmail.com,none,https://github.com/gaoyunzhi/readee,readee-0.0.74-py3-none-any.whl,bdist_wheel
+4689365,dagster-mysql,0.11.7rc4,elementl,hello@elementl.com,apache-2.0,https://github.com/dagster-io/dagster/tree/master/python_modules/libraries/dagster-mysql,dagster-mysql-0.11.7rc4.tar.gz,sdist
+4175597,robotpy-hal,2021.2.2.0,robotpy development team,robotpy@googlegroups.com,bsd-3-clause,https://github.com/robotpy/robotpy-hal,robotpy_hal-2021.2.2.0-cp36-cp36m-win32.whl,bdist_wheel
+3553037,kcli,99.0.202009171040,karim boumedhel,karimboumedhel@gmail.com,asl,http://github.com/karmab/kcli,kcli-99.0.202009171040-py3-none-any.whl,bdist_wheel
+4506394,vmware-exporter,0.14.1,daniel pryor,none,bsd 3-clause license,https://github.com/pryorda/vmware_exporter,vmware_exporter-0.14.1.tar.gz,sdist
+2929528,blueox,0.5.9,rhett garber,rhettg@gmail.com,isc,"""https://github.com/rhettg/blueox""",blueox-0.5.9.tar.gz,sdist
+3356551,librarypaste,3.3.1,"yougov, plc.",open-source@yougov.com,none,https://github.com/yougov/librarypaste,librarypaste-3.3.1-py2.py3-none-any.whl,bdist_wheel
+572921,eagerpy,0.25.2,jonas rauber,jonas.rauber@bethgelab.org,none,https://github.com/jonasrauber/eagerpy,eagerpy-0.25.2.tar.gz,sdist
+2363885,octobot-channels,1.4.5,drakkar-software,drakkar-software@protonmail.com,lgpl-3.0,https://github.com/drakkar-software/octobot-channels,octobot_channels-1.4.5-cp37-cp37m-manylinux2014_i686.whl,bdist_wheel
+4008399,acdh-collatex-utils,1.0.2,peter andorfer,peter.andorfer@oeaw.ac.at,mit license,https://github.com/acdh-oeaw/acdh_collatex_utils,acdh_collatex_utils-1.0.2.tar.gz,sdist
+507427,rabix,0.7.2,unknown,unknown,agplv3,unknown,rabix-0.7.2.tar.gz,sdist
+4026665,bubble-sorter,2.0.1,joshua bode,joshuabode43@gmail.com,none,https://github.com/masterjindu/bubble-sort-python,bubble_sorter-2.0.1-py3-none-any.whl,bdist_wheel
+5022059,tencentcloud-sdk-python-youmall,3.0.418,tencent cloud,tencentcloudapi@tencent.com,apache license 2.0,https://github.com/tencentcloud/tencentcloud-sdk-python,tencentcloud-sdk-python-youmall-3.0.418.tar.gz,sdist
+5264916,mypy-boto3-redshift,1.18.23,vlad emelianov,vlad.emelianov.nz@gmail.com,mit license,https://github.com/vemel/mypy_boto3_builder,mypy-boto3-redshift-1.18.23.tar.gz,sdist
+853554,pyagrum-nightly,0.15.2.9.dev201907261563871727,pierre-henri wuillemin and christophe gonzales,info@agrum.org,lgpl,https://pyagrum.lip6.fr,pyagrum_nightly-0.15.2.9.dev201907261563871727-cp35-cp35m-macosx_10_6_x86_64.whl,bdist_wheel
+216802,outernet-metadata,0.5.post2,outernet inc,apps@outernet.is,gplv3,https://github.com/outernet-project/bottle-fdsend,outernet-metadata-0.5.post2.zip,sdist
+4177754,hypergbm,0.2.1,datacanvas community,yangjian@zetyun.com,apache license 2.0,none,hypergbm-0.2.1-py3-none-any.whl,bdist_wheel
+1242390,payment-text-parser,0.0.714,pierre oberholzer,pierre.oberholzer@alpina-analytics.com,none,https://gitlab.com/alpina-analytics/payment_text_parser.git,payment_text_parser-0.0.714-py3-none-any.whl,bdist_wheel
+2074023,bigml,4.19.2,the bigml team,bigml@bigml.com,http://www.apache.org/licenses/license-2.0,https://bigml.com/developers,bigml-4.19.2.tar.gz,sdist
+591959,lore,0.5.5,montana low and jeremy stanley,montana@instacart.com,mit,http://github.com/instacart/lore,lore-0.5.5.tar.gz,sdist
+4257989,core-module-status-registry-app,1.14.0,nist it lab,itl_inquiries@nist.gov,none,https://github.com/usnistgov/core_module_status_registry_app,core_module_status_registry_app-1.14.0.tar.gz,sdist
+4514341,loginradius-v2,11.1.0,loginradius,developers@loginradius.com,none,https://loginradius.com/,loginradius-v2-11.1.0.tar.gz,sdist
+1146934,grpcio,1.20.0,the grpc authors,grpc-io@googlegroups.com,apache license 2.0,https://grpc.io,grpcio-1.20.0-cp36-cp36m-win_amd64.whl,bdist_wheel
+3463812,stackl-client,0.1.4,openapi generator community,team@openapitools.org,none,none,stackl-client-0.1.4.tar.gz,sdist
+3487088,allen-ytconcate,0.1.1,awesome soul,learn.to.code.tw2@gmail.com,mit,https://github.com/me/myproject,allen_ytconcate-0.1.1-py3-none-any.whl,bdist_wheel
+2518384,deepdrive,3.0.20190723104639.dev0,deepdrive.io,developers@deepdrive.io,mit,https://github.com/deepdrive/deepdrive-sim,deepdrive-3.0.20190723104639.dev0-cp35-cp35m-win_amd64.whl,bdist_wheel
+5450151,kindle,0.4.3,jongkuk lim,lim.jeikei@gmail.com,"mit license  copyright (c) 2021 jongkuk lim  permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the ""software""), to deal in the software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, and to permit persons to whom the software is furnished to do so, subject to the following conditions:  the above copyright notice and this permission notice shall be included in all copies or substantial portions of the software.  the software is provided ""as is"", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. in no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.",https://github.com/jeikeilim/kindle,kindle-0.4.3-py3-none-any.whl,bdist_wheel
+1486063,oskb,0.2.1,rop gonggrijp,none,mit,https://github.com/ropg/oskb,oskb-0.2.1-py3-none-any.whl,bdist_wheel
+3610851,pysapbydesign,0.0.4,dacker,hello@dacker.co,none,https://github.com/dacker-team/pysapbydesign,pysapbydesign-0.0.4.tar.gz,sdist
+4398451,tencentcloud-sdk-python-ape,3.0.361,tencent cloud,tencentcloudapi@tencent.com,apache license 2.0,https://github.com/tencentcloud/tencentcloud-sdk-python,tencentcloud-sdk-python-ape-3.0.361.tar.gz,sdist
+4535362,zenroom,2.0.0.dev1618479986,"danilo spinella, david dashyan, puria nafisi azizi","danyspin@dyne.org, mail@davie.li, puria@dyne.org",agplv3,https://github.com/dyne/zenroom,zenroom-2.0.0.dev1618479986-cp36-cp36m-manylinux_2_24_aarch64.whl,bdist_wheel
+2189557,pymihome,0.0.7,neil griffin,ngriffin110@gmail.com,lgplv3,https://github.com/ng110/pymihome,pymihome-0.0.7.tar.gz,sdist
+116998,hdfviewer,0.10.1,eric pellegrini,pellegrini@ill.fr,mit,https://code.ill.fr/panosc/data-analysis-services/hdf-data-viewer,hdfviewer-0.10.1-py3-none-any.whl,bdist_wheel
+1171092,z3r-sramr-py,0.2.2,cassidoxa <cassidymoen@gmx.com>,cassidoxa <cassidymoen@gmx.com>,mit,none,z3r_sramr_py-0.2.2-cp37-cp37m-manylinux1_x86_64.whl,bdist_wheel
+330688,tencentcloud-sdk-python,3.0.200,tencent cloud,tencentcloudapi@tencent.com,apache license 2.0,https://github.com/tencentcloud/tencentcloud-sdk-python,tencentcloud-sdk-python-3.0.200.tar.gz,sdist
+2385646,rattail,0.6.7,lance edgar,lance@edbob.org,gnu affero gpl v3,https://rattailproject.org/,rattail-0.6.7.tar.gz,sdist
+5009262,announcer,3.0.2,max dymond,max.dymond@metaswitch.com,mit,none,announcer-3.0.2-py3-none-any.whl,bdist_wheel
+1521970,appier-extras,0.9.5,hive solutions lda.,development@hive.pt,"apache license, version 2.0",http://appier_extras.hive.pt,appier_extras-0.9.5-py2.py3-none-any.whl,bdist_wheel
+3065456,data_dispenser,0.2.4,catherine devlin,catherine.devlin@gmail.com,mit,https://github.com/catherinedevlin/data_dispenser,data_dispenser-0.2.4.tar.gz,sdist
+4885442,gladier,0.3.0,none,none,apache 2.0,https://github.com/globus-gladier/gladier,gladier-0.3.0.tar.gz,sdist
+1012832,dump2polarion,0.40.0,martin kourim,mkourim@redhat.com,gpl,https://github.com/mkoura/dump2polarion,dump2polarion-0.40.0.tar.gz,sdist
+4144504,marvelapp-cli,0.0.3,sophie fitzpatrick,sophierfitzpatrick@gmail.com,none,https://github.com/sophiefitzpatrick/marvelcli/archive/v_0.0.3.tar.gz,marvelapp-cli-0.0.3.tar.gz,sdist
+4190385,ms-deisotope,0.0.20,joshua klein,jaklein@bu.edu,none,none,ms_deisotope-0.0.20.tar.gz,sdist
+3599108,jabbar,0.0.13,yannik schaelte,yannik.schaelte@gmail.com,mit,https://github.com/yannikschaelte/jabbar,jabbar-0.0.13.tar.gz,sdist
+3173092,ebi,0.4,hiroki kiyohara,hirokiky@gmail.com,mit,https://github.com/hirokiky/ebi,ebi-0.4.tar.gz,sdist
+1718339,bcml,3.0.0b12,nicenenerd,macadamiadaze@gmail.com,none,https://github.com/nicenenerd/bcml,bcml-3.0.0b12.tar.gz,sdist
+4524499,build-magic,0.1.0rc4,chris morrow,cmmorrow@gmail.com,mit,https://github.com/cmmorrow/build-magic,build-magic-0.1.0rc4.tar.gz,sdist
+417048,django-kdl-wagtail,0.7.0,king's digital lab,kdl-info@kcl.ac.uk,mit,https://github.com/kingsdigitallab/django-kdl-wagtail,django_kdl_wagtail-0.7.0-py2.py3-none-any.whl,bdist_wheel
+897822,odoo10-addons-oca-website,10.0.20170710,none,none,none,none,odoo10_addons_oca_website-10.0.20170710-py2-none-any.whl,bdist_wheel
+2365707,secshrnet,0.4.4,david hacker,dmhacker@protonmail.com,none,https://github.com/dmhacker/secshrnet,secshrnet-0.4.4.tar.gz,sdist
+2973744,grammpy,1.1.10,patrik valkovic,patrik.valkovic@hotmail.cz,gnu general public license v3.0,https://github.com/patrikvalkovic/grammpy,grammpy-1.1.10.tar.gz,sdist
+4493789,mypy-boto3-lexv2-runtime,1.17.27.0,vlad emelianov,vlad.emelianov.nz@gmail.com,mit license,https://github.com/vemel/mypy_boto3_builder,mypy_boto3_lexv2_runtime-1.17.27.0-py3-none-any.whl,bdist_wheel
+1015461,jsoncut,0.6,brian peterson,bpeterso2000@yahoo.com,none,http://github.com/bpeterso2000/jsoncut,jsoncut-0.6-py2.py3-none-any.whl,bdist_wheel
+4405962,biotite,0.27.0,the biotite contributors,none,bsd 3-clause,https://www.biotite-python.org,biotite-0.27.0-cp39-cp39-macosx_10_9_x86_64.whl,bdist_wheel
+4201344,lastfmpy,0.0.2,myer,realmyerfire@gmail.com,none,https://github.com/myerfire/lastfm.py,lastfmpy-0.0.2-py3-none-any.whl,bdist_wheel
+784098,sickrage,9.4.135,echel0n,echel0n@sickrage.ca,gplv3,https://git.sickrage.ca,sickrage-9.4.135-py2.py3-none-any.whl,bdist_wheel
+5367791,benencode,0.2.1,alexpdev,alexpdev@protonmail.com,gnu lesser general public license v3 (lgplv3),http://github.com/alexpdev/benencode,benencode-0.2.1-py3-none-any.whl,bdist_wheel
+3489796,pyape,0.1.13,zrong,zrongzrong@gmail.com,bsd 3,https://github.com/zrong/pyape,pyape-0.1.13-py3-none-any.whl,bdist_wheel
+2846703,pipulate,0.3.43,"mike levin seo in nyc, alum of commodore & 360i, creator of hittail.com, currently with j2/ziff-davis/ign/mashable.",miklevin@gmail.com,mit,https://github.com/miklevin/pipulate,pipulate-0.3.43.tar.gz,sdist
+363949,vkcoinapi,1.1.3,bixnel,none,mit,https://github.com/bixnel/vkcoinapi,vkcoinapi-1.1.3.tar.gz,sdist
+3396049,pymorphy2-dicts-ru,2.4.394633.4298366,mikhail korobov,kmike84@gmail.com,mit license,https://github.com/kmike/pymorphy2-dicts/,pymorphy2-dicts-ru-2.4.394633.4298366.tar.bz2,sdist
+1348564,djinn_news,1.0.1,pythonunited,info@pythonunited.com,beer-ware,https://github.com/pythonunited/djinn_news,djinn_news-1.0.1.tar.gz,sdist
+3696077,faapi,2.10.1,matteo campinoti,matteo.campinoti94@gmail.com,eupl-1.2,https://gitlab.com/matteocampinoti94/faapi,faapi-2.10.1-py3-none-any.whl,bdist_wheel
+2389743,pancli,0.0.2,kevenli,pbleester@gmail.com,none,https://github.com/pansihub/pancli,pancli-0.0.2-py3-none-any.whl,bdist_wheel
+1575960,xiaobaiauto,1.0.1,tser,807447312@qq.com,none,https://gitee.com/big_touch/,xiaobaiauto-1.0.1.tar.gz,sdist
+5317981,pymir,0.1.1.dev819,"scalable ai team, intellifusion",ymir-team@intellif.com,none,http://192.168.70.8/scalable-ai/ymir,pymir-0.1.1.dev819.tar.gz,sdist
+849715,aws-lambda-fsm,0.27.0,shawn rusaw,shawn.rusaw@workiva.com,http://www.apache.org/licenses/license-2.0,http://github.com/workiva/aws-lambda-fsm-workflows,aws-lambda-fsm-0.27.0.tar.gz,sdist
+1054254,grpcio,1.11.0,the grpc authors,grpc-io@googlegroups.com,apache license 2.0,https://grpc.io,grpcio-1.11.0-cp34-cp34m-linux_armv7l.whl,bdist_wheel
+2749424,ifjcode17-toolkit,1.4.10,"josef kolář, son hai nguyen","xkolar71@stud.fit.vutbr.cz, xnguye16@stud.fit.vutbr.cz",gnu general public license version 3,https://github.com/thejoeejoee/vut-fit-ifj-2017-toolkit,ifjcode17-toolkit-1.4.10.tar.gz,sdist
+2766498,dotstar_emulator,0.2,christopher ross,chris.rossx@gmail.com,mit,https://github.com/chrisrossx/dotstar_emulator,dotstar_emulator-0.2-py2.py3-none-any.whl,bdist_wheel
+4589701,seqsim,0.3.2,tiago tresoldi,tiago.tresoldi@lingfil.uu.se,mit,https://github.com/tresoldi/seqsim,seqsim-0.3.2-py2.py3-none-any.whl,bdist_wheel
+4101609,shopcloud-secrethub,2.7.0,konstantin stoldt,konstantin.stoldt@talk-point.de,mit,https://github.com/talk-point/shopcloud-secrethub-cli,shopcloud_secrethub-2.7.0.tar.gz,sdist
+3858498,tencentcloud-sdk-python-rkp,3.0.295,tencent cloud,tencentcloudapi@tencent.com,apache license 2.0,https://github.com/tencentcloud/tencentcloud-sdk-python,tencentcloud_sdk_python_rkp-3.0.295-py2.py3-none-any.whl,bdist_wheel
+3078153,papolarity,0.0.3a1,ilya vorontsov,vorontsov.i.e@gmail.com,"papolarity is licensed under wtfpl, but if you prefer more standard licenses, feel free to treat it as mit license",https://github.com/autosome-ru/papolarity,papolarity-0.0.3a1-py2.py3-none-any.whl,bdist_wheel
+1892445,wltrace,1.0.6,jinghao shi,jhshi89@gmail.com,unknown,https://github.com/jhshi/wltrace,wltrace-1.0.6-py2-none-any.whl,bdist_wheel
+3787642,tencentcloud-sdk-python-wss,3.0.288,tencent cloud,tencentcloudapi@tencent.com,apache license 2.0,https://github.com/tencentcloud/tencentcloud-sdk-python,tencentcloud-sdk-python-wss-3.0.288.tar.gz,sdist
+1812852,pyatasm,1.2,rob mcmullen,feedback@playermissile.com,unknown,https://github.com/robmcmullen/pyatasm,pyatasm-1.2.tar.gz,sdist
+4560086,dbnd-aws,0.37.2,evgeny shulman,evgeny.shulman@databand.ai,none,https://github.com/databand-ai/dbnd,dbnd_aws-0.37.2-py2.py3-none-any.whl,bdist_wheel
+1161300,pystache,0.5.1,chris jerdonek,chris@ozmm.org,mit,http://github.com/defunkt/pystache,pystache-0.5.1.tar.gz,sdist
+1600897,scrape,0.9.11,hunter hammond,huntrar@gmail.com,mit,https://github.com/huntrar/scrape,scrape-0.9.11-py2-none-any.whl,bdist_wheel
+4571758,testwise,0.0.48,özgür atıcı,aticiozgur@gmail.com,none,https://github.com/aticio/testwise,testwise-0.0.48-py3-none-any.whl,bdist_wheel
+4487880,aws-cdk.aws-s3-assets,1.94.0,amazon web services,none,apache-2.0,https://github.com/aws/aws-cdk,aws_cdk.aws_s3_assets-1.94.0-py3-none-any.whl,bdist_wheel
+318903,dash-lazy-load,1.3.1,stratodem,none,mit,none,dash_lazy_load-1.3.1-py2.py3-none-any.whl,bdist_wheel
+2201552,streamsx,1.14.5b0,ibm streams @ github.com,debrunne@us.ibm.com,apache license - version 2.0,https://github.com/ibmstreams/pypi.streamsx,streamsx-1.14.5b0.tar.gz,sdist
+1340851,lalsuite,6.52.1.dev20190204,ligo scientific collaboration,lal-discuss@ligo.org,gpl-2+,https://git.ligo.org/lscsoft/lalsuite,lalsuite-6.52.1.dev20190204-cp27-cp27m-manylinux1_x86_64.whl,bdist_wheel
+823473,streamdeck,0.5.1,dean camera,dean@fourwalledcubicle.com,mit,https://github.com/abcminiuser/python-elgato-streamdeck,streamdeck-0.5.1.tar.gz,sdist
+3719709,enum-tools,0.6.1,dominic davis-foster,dominic@davis-foster.co.uk,gnu lesser general public license v3 or later (lgplv3+),https://github.com/domdfcoding/enum_tools,enum_tools-0.6.1.tar.gz,sdist
+2604740,gridwxcomp,0.0.68.post1,john volk and chris pearson,jmvolk@unr.edu,apache,https://github.com/dri-wswup/gridwxcomp,gridwxcomp-0.0.68.post1.tar.gz,sdist
+4964811,honeypots,0.25,qeeqbox,gigaqeeq@gmail.com,agpl-3.0,https://github.com/qeeqbox/honeypots,honeypots-0.25.tar.gz,sdist
+530457,ocdeployer,5.2.0,brandon squizzato,bsquizza@redhat.com,mit,https://www.github.com/bsquizz/ocdeployer,ocdeployer-5.2.0-py3-none-any.whl,bdist_wheel
+4851659,samna,0.6.5.0,synsense,carsten.nielsen@synsense.ai,none,https://synsense.ai/,samna-0.6.5.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl,bdist_wheel
+2529616,euring,0.0.1,dylan verheul,dylan@dyve.net,unlicense,https://github.com/euring/euring-cli,euring-0.0.1.tar.gz,sdist
+2368138,serverless-config,0.3.1,andrew o'hara,andrew@andrewohara.io,mit,https://github.com/oharaandrew314/serverless-config/,serverless-config-0.3.1.tar.gz,sdist
+4992182,diggs,0.0.5,xin peng,xin_peng@outlook.com,gnu general public license v3,https://github.com/xinp-hub/diggs,diggs-0.0.5-py2.py3-none-any.whl,bdist_wheel
+5081306,dearpygui,0.8.38,jonathan hoffstadt and preston cothren,jonathanhoffstadt@yahoo.com,mit,https://github.com/hoffstadt/dearpygui,dearpygui-0.8.38-cp38-cp38-manylinux1_x86_64.whl,bdist_wheel
+2360448,orange3-recommendation-zh,0.1.3,"bioinformatics laboratory, fri ul",contact@orange.biolab.si,none,https://github.com/biolab/orange3-recommendation,orange3_recommendation_zh-0.1.3-py3-none-any.whl,bdist_wheel
+2478956,fake-bpy-module-2.80,20200111,nutti,nutti.metro@gmail.com,mit,https://github.com/nutti/fake-bpy-module,fake-bpy-module-2.80-20200111.tar.gz,sdist
+2074124,aioauth-client,0.4.1,kirill klenov,horneds@gmail.com,mit,https://github.com/klen/aioauth-client,aioauth-client-0.4.1.tar.gz,sdist
+1721834,submit50,3.0.1,cs50,sysadmins@cs50.harvard.edu,gplv3,https://github.com/cs50/submit50,submit50-3.0.1.tar.gz,sdist
+3169842,adamspy,0.8.15,ben thornton,ben.thornton@mscsoftware.com,none,https://github.com/bthornton191/adamspy,adamspy-0.8.15-py3-none-any.whl,bdist_wheel
+5312048,quantnote,0.0.4,quantnote,none,gpl,none,quantnote-0.0.4-py3-none-any.whl,bdist_wheel
+1592465,lmfhawq,1.2.1,lanmengfei,865377886@qq.com,none,https://github.com/lanmengfei/testdm,lmfhawq-1.2.1.zip,sdist
+2204642,lmh,1.0,the kwarc group,postmaster@kwarc.info,gpl,unknown,lmh-1.0-py2.7.egg,bdist_egg
+157878,pulumi,1.5.0a1572287992,none,none,apache 2.0,https://github.com/pulumi/pulumi,pulumi-1.5.0a1572287992-py2.py3-none-any.whl,bdist_wheel
+7107,apidev-coop_bar,1.4.1,luc jean,ljean@apidev.fr,bsd,https://github.com/ljean/coop-bar/,apidev-coop_bar-1.4.1.tar.gz,sdist
+1550101,chaostoolkit-toxiproxy,0.1.3,chaostoolkit team,contact@chaostoolkit.org,apache license version 2.0,http://chaostoolkit.org,chaostoolkit-toxiproxy-0.1.3.tar.gz,sdist
+2703721,pyjo,0.6.1,marco pazzaglia,marco@pazzaglia.me,none,https://github.com/marcopaz/pyjo,pyjo-0.6.1.tar.gz,sdist
+4915889,fmu-tools,1.8.0rc0,equinor r&t,jriv@equinor.com,none,https://github.com/equinor/fmu-tools,fmu_tools-1.8.0rc0.tar.gz,sdist
+2175848,pyblocktext,1.1,evan gubarev,evan@evangubarev.com,mit,https://github.com/gubareve/py-blocktext/,pyblocktext-1.1.tar.gz,sdist
+4658308,odoo12-addon-l10n-br-nfe,12.0.1.2.0.99.dev22,"akretion,kmee,odoo community association (oca)",support@odoo-community.org,agpl-3,http://github.com/oca/l10n-brazil,odoo12_addon_l10n_br_nfe-12.0.1.2.0.99.dev22-py3-none-any.whl,bdist_wheel
+3769135,opentrons,4.0.0a3.dev10185,opentrons,engineering@opentrons.com,apache 2.0,none,opentrons-4.0.0a3.dev10185-py2.py3-none-any.whl,bdist_wheel
+2670032,libpythonpro-eric,0.1,eric szczepanik,e.ericszcz@gmail.com,gnu affero general public license,https://github.com/ericszcz/libpythonpro,libpythonpro-eric-0.1.tar.gz,sdist
+3693609,ssh-python,0.7.0.post1,panos kittenis,22e889d8@opayq.com,lgplv2,https://github.com/parallelssh/ssh-python,ssh_python-0.7.0.post1-cp37-cp37m-manylinux2010_x86_64.whl,bdist_wheel
+454382,tensorflow-probability,0.2.0rc0,google llc,no-reply@google.com,apache 2.0,http://github.com/tensorflow/probability,tensorflow_probability-0.2.0rc0-py3-none-any.whl,bdist_wheel
+4431221,pelotero,8.8.8,remindsupplychainrisks,remindsupplychainrisks@gmail.com,none,https://github.com/pelotero,pelotero-8.8.8.tar.gz,sdist
+2701724,pytrex,0.7.3,yoram shamir,shmir@ignissoft.com,apache software license,https://github.com/shmir/pytrex,pytrex-0.7.3.tar.gz,sdist
+4429952,linkedin-scraper,2.7.5,joey sham,sham.joey@gmail.com,none,https://github.com/joeyism/linkedin_scraper,linkedin_scraper-2.7.5.tar.gz,sdist
+3526444,aws-solutions-constructs.aws-kinesis-firehose-s3,1.64.0,amazon web services,none,apache-2.0,https://github.com/awslabs/aws-solutions-constructs.git,aws_solutions_constructs.aws_kinesis_firehose_s3-1.64.0-py3-none-any.whl,bdist_wheel
+1350987,tml,0.2.3,"translation exchange, inc.",r.kamun@gmail.com,mit,https://github.com/translationexchange/tml-python.git,tml-0.2.3-py2.py3-none-any.whl,bdist_wheel
+2432964,alphatwirl,0.22.0,tai sakuma,tai.sakuma@gmail.com,none,https://github.com/alphatwirl/alphatwirl,alphatwirl-0.22.0-py2.py3-none-any.whl,bdist_wheel
+1935555,odoo12-addon-account-invoice-mass-sending,12.0.1.0.0.99.dev4,"acsone sa/nv,odoo community association (oca)",support@odoo-community.org,agpl-3,https://github.com/oca/account-invoicing,odoo12_addon_account_invoice_mass_sending-12.0.1.0.0.99.dev4-py3-none-any.whl,bdist_wheel
+1207629,xxtea,1.3.0,yue du,ifduyue@gmail.com,bsd,https://github.com/ifduyue/xxtea,xxtea-1.3.0-cp27-cp27m-win_amd64.whl,bdist_wheel
+572309,kubernaut,0.1.19,datawire.io,dev@datawire.io,none,https://github.com/datawire/kubernaut,kubernaut-0.1.19.tar.gz,sdist
+3020428,africanelephantdatabasedatadownloader,0.0.6,christoph fink,christoph.fink@helsinki.fi,gplv3,https://gitlab.com/helics-lab/africanelephantdatabasedatadownloader,africanelephantdatabasedatadownloader-0.0.6-py3-none-any.whl,bdist_wheel
+668293,compton,4.0.0,kael zhang,i+pypi@kael.me,mit,https://github.com/kaelzhang/python-compton,compton-4.0.0.tar.gz,sdist
+5158921,pyats.kleenex,21.7,cisco systems inc.,pyats-support-ext@cisco.com,apache 2.0,https://developer.cisco.com/pyats/,pyats.kleenex-21.7-cp36-cp36m-macosx_10_16_x86_64.whl,bdist_wheel
+374741,silas,0.1.4.1,richard hu,r.hu@berkeley.edu,none,https://github.com/rhu2001/silas,silas-0.1.4.1-py3-none-any.whl,bdist_wheel
+3577031,opensitua-core,0.0.100,valerio luzzi,valluzzi@gmail.com,none,https://github.com/valluzzi/opensitua_core.git,opensitua_core-0.0.100.tar.gz,sdist
+1714605,rstr,2.1.3,leapfrog direct response llc,oss at leapfrogdevelopment com,"copyright (c) 2011, leapfrog direct response, llc",http://bitbucket.org/leapfrogdevelopment/rstr/overview,rstr-2.1.3.tar.gz,sdist
+2018246,mvm-control,1.0.3,bryerton shaw,bryerton@triumf.ca,none,https://github.com/bryerton/mvm-control,mvm-control-1.0.3.tar.gz,sdist
+1450730,pysed,0.2.8,dslackw,d.zlatanidis@gmail.com,none,https://github.com/dslackw/pysed,pysed-0.2.8.tar.gz,sdist
+4342985,co-connect-tools,0.0.11,co-connect,co-connect@dundee.ac.uk,none,https://github.com/co-connect/co-connect-tools,co_connect_tools-0.0.11-py3-none-any.whl,bdist_wheel
+4436586,pulsectl-asyncio,0.1.5,michael thies,mail@mhthies.de,none,https://github.com/mhthies/pulsectl-asyncio,pulsectl_asyncio-0.1.5-py3-none-any.whl,bdist_wheel
+103962,funtime,0.4.4,kevin hill,kevin@funguana.com,none,none,funtime-0.4.4-py3-none-any.whl,bdist_wheel
+2883114,pycco,0.4,zach smith,subsetpark@gmail.com,unknown,https://pycco-docs.github.io/pycco/,pycco-0.4.macosx-10.11-x86_64.tar.gz,bdist_dumb
+4109151,pyagrum-nightly,0.18.2.9.dev202012301608707866,pierre-henri wuillemin and christophe gonzales,info@agrum.org,lgplv3,https://agrum.gitlab.io/,pyagrum_nightly-0.18.2.9.dev202012301608707866-cp39-cp39-manylinux1_i686.whl,bdist_wheel
+4180815,edc-reports,0.3.2,erik van widenfelt,ew2789@gmail.com,"gpl license, see license",http://github.com/clinicedc/edc-reports,edc_reports-0.3.2-py3-none-any.whl,bdist_wheel
+2131524,aioredis,0.1.1,alexey popravka,alexey.popravka@horsedevel.com,mit,https://github.com/aio-libs/aioredis,aioredis-0.1.1.tar.gz,sdist
+5467737,tencentcloud-sdk-python-waf,3.0.486,tencent cloud,tencentcloudapi@tencent.com,apache license 2.0,https://github.com/tencentcloud/tencentcloud-sdk-python,tencentcloud_sdk_python_waf-3.0.486-py2.py3-none-any.whl,bdist_wheel
+6041,wtforms-jsonschema2,0.6.0,dolf andringa,dolfandringa@gmail.com,none,https://github.com/dolfandringa/wtforms_jsonschema,wtforms_jsonschema2-0.6.0.tar.gz,sdist
+4593572,sdk-ifood,1.0.0a5,micael duarte,dev.etraud@gmail.com,mit,https://github.com/etraudm/sdk-ifood-python.git,sdk_ifood-1.0.0a5-py3-none-any.whl,bdist_wheel
+4245189,mypy-boto3-workmailmessageflow,1.16.62.0,vlad emelianov,vlad.emelianov.nz@gmail.com,mit license,https://github.com/vemel/mypy_boto3_builder,mypy_boto3_workmailmessageflow-1.16.62.0-py3-none-any.whl,bdist_wheel
+1060212,savepagenow,0.0.11,ben welsh,ben.welsh@gmail.com,mit,http://www.github.com/pastpages/savepagenow/,savepagenow-0.0.11.tar.gz,sdist
+2872744,pytorch-nlp,0.3.3,michael petrochuk,petrochukm@gmail.com,bsd,https://github.com/petrochukm/pytorchnlp,pytorch-nlp-0.3.3.tar.gz,sdist
+2403456,jetson.gpio,0.1.3,nvidia,linux-tegra-bugs@nvidia.com,mit,https://github.com/nvidia/jetson-gpio,jetson.gpio-0.1.3.tar.gz,sdist
+1275473,influencemanager,0.0.30,ash prince,i7629228@bournemouth.ac.uk,none,none,influencemanager-0.0.30.tar.gz,sdist
+76391,satsense,0.9,"berend weel, elena ranguelova, bouwe andela, maximilian filtenborg, derk barten, yifat dzigan, ronald van haren, niels drost",b.weel@esiencecenter.nl,apache software license,https://github.com/dynaslum/sateliteimaging,satsense-0.9.tar.gz,sdist
+1946480,tw01,0.2.1,薛丞宏,ihcaoe@gmail.com,none,https://xn--v0qr21b.xn--kpry57d/,tw01-0.2.1.zip,sdist
+5247375,pacc,0.0.226,coco,zj175@139.com,none,https://github.com/cocos56/pacc,pacc-0.0.226-py3-none-any.whl,bdist_wheel
+3783857,kvxopt,1.2.5.4,"m. andersen, j. dahl, l. vandenberghe, and u. sandoval","martin.skovgaard.andersen@gmail.com, dahl.joachim@gmail.com, vandenbe@ee.ucla.edu, sanurielf@gmail.com",gnu gpl version 3,none,kvxopt-1.2.5.4-cp36-cp36m-macosx_10_14_x86_64.whl,bdist_wheel
+3794225,pulumi-azure,3.30.1,none,none,apache-2.0,https://pulumi.io,pulumi_azure-3.30.1.tar.gz,sdist
+4581351,wandbox-api,0.9.29,srz_zumix,zumix.cpp@gmail.com,mit,https://github.com/srz-zumix/wandbox-api/,wandbox-api-0.9.29.tar.gz,sdist
+5112520,mypy-boto3-opsworkscm,1.17.111,vlad emelianov,vlad.emelianov.nz@gmail.com,mit license,https://github.com/vemel/mypy_boto3_builder,mypy-boto3-opsworkscm-1.17.111.tar.gz,sdist
+630184,vmcloak,0.1.9,jurriaan bremer,jurriaanbremer@gmail.com,gplv3,http://vmcloak.org/,vmcloak-0.1.9.tar.gz,sdist
+5398793,mypy-boto3-waf-regional,1.18.47,vlad emelianov,vlad.emelianov.nz@gmail.com,mit license,https://github.com/vemel/mypy_boto3_builder,mypy_boto3_waf_regional-1.18.47-py3-none-any.whl,bdist_wheel
+4214603,shivbox,0.0.1,shivster,shivster2401@gmail.com,mit,https://github.com/shiv5t3r/shivbox,shivbox-0.0.1.tar.gz,sdist
+1470981,bayesian_bootstrap,1.0.3,louis cialdella,louiscialdella@gmail.com,unknown,https://github.com/lmc2179/bayesian_bootstrap,bayesian_bootstrap-1.0.3.zip,sdist
+198984,pymerkle,2.0.2,foteinosmerg,foteinosmerg@protonmail.com,none,https://github.com/foteinosmerg/pymerkle,pymerkle-2.0.2.tar.gz,sdist
+674873,adbui,1.1,tango nian,hao1032@gmail.com,mit,https://github.com/hao1032/adbui,adbui-1.1.tar.gz,sdist
+1897474,a4t-sale-discount,5.0.2,adiczion,support@adiczion.net,agpl-3,http://adiczion.com/,a4t_sale_discount-5.0.2.tar.gz,sdist
+3228596,yq,2.1.2,andrey kislyuk,kislyuk@gmail.com,apache software license,https://github.com/kislyuk/yq,yq-2.1.2-py2.py3-none-any.whl,bdist_wheel
+1167511,emmo,1.0.0a0,"jesper friis, francesca lønstad bleken, bjørn tore løvfall",jesper.friis@sintef.no,bsd,https://github.com/emmo-repo/emmo-python,emmo-1.0.0a0-py3-none-any.whl,bdist_wheel
+12744,onegov.page,0.1.0,seantis gmbh,info@seantis.ch,gplv2,http://github.com/seantis/onegov.page,onegov.page-0.1.0-py2-none-any.whl,bdist_wheel
+2607870,simpletransfers,1.2.0,jesters ghost,jestersghost@gmail.com,none,https://bitbucket.org/jestersghost/simpletransfers,simpletransfers-1.2.0.tar.gz,sdist
+467782,ttl,0.1a1,le tuan anh,tuananh.ke@gmail.com,mit license,https://github.com/letuananh/ttl-suite,ttl-0.1a1.tar.gz,sdist
+1957332,django-task,0.3.2,mario orlandi,morlandi@brainstorm.it,mit,https://github.com/morlandi/django-task,django_task-0.3.2-py2.py3-none-any.whl,bdist_wheel
+4339325,aqbt,0.0.1,justin vrana,justin.vrana@gmail.com,none,none,aqbt-0.0.1.tar.gz,sdist
+3046994,zml,0.1.1,christof hagedorn,team@zml.org,unknown,http://www.zml.org/,zml-0.1.1.tar.gz,sdist
+5475244,instawow,1.27.0,layday,layday@protonmail.com,gpl-3.0-or-later,none,instawow-1.27.0.tar.gz,sdist
+2549221,appknox,2.1.1,appknox,engineering@appknox.com,mit,https://github.com/appknox/appknox-python,appknox-2.1.1.tar.gz,sdist
+4437547,cittronn,3,pewpew dsouza,none,none,none,cittronn-3-py2-none-any.whl,bdist_wheel
+3844701,ibmcloudsql,0.4.13,ibm corp.,torsten@de.ibm.com,apache 2.0,https://github.com/ibm-cloud/sql-query-clients,ibmcloudsql-0.4.13.tar.gz,sdist
+2645876,beneath,1.2.3,beneath systems,hello@beneath.dev,none,https://gitlab.com/_beneath/beneath-core/-/tree/master/clients/python,beneath-1.2.3-py3-none-any.whl,bdist_wheel
+1738141,arvados-cwl-runner,1.0.20161102211912,arvados,info@arvados.org,apache 2.0,https://arvados.org,arvados-cwl-runner-1.0.20161102211912.tar.gz,sdist
+1434662,navgator,0.2.0,naveed patel,20777764+naveed-patel@users.noreply.github.com,mit,https://github.com/naveed-patel/navgator,navgator-0.2.0-py3.7.egg,bdist_egg
+4848082,inferrd,0.1.27,inferrd.com,contact@inferrd.com,mit,https://inferrd.com,inferrd-0.1.27.tar.gz,sdist
+5308377,gardener-cicd-cli,1.1428.0,none,none,none,none,gardener-cicd-cli-1.1428.0.tar.gz,sdist
+4870771,genie.libs.parser,21.5,cisco systems inc.,pyats-support-ext@cisco.com,apache 2.0,https://developer.cisco.com/pyats,genie.libs.parser-21.5-py3-none-any.whl,bdist_wheel
+348097,trytond-product,5.0.2,tryton,issue_tracker@tryton.org,gpl-3,http://www.tryton.org/,trytond_product-5.0.2-py3-none-any.whl,bdist_wheel
+1495202,ws.plusfeed,1.1,wolfgang schnerring <wosc@wosc.de>,wosc@wosc.de,zpl 2.1,https://bitbucket.org/wosc/plusfeed/,ws.plusfeed-1.1.zip,sdist
+2512351,infi.rpc,0.2.4,arnon yaari,arnony@infinidat.com,bsd,https://github.com/infinidat/infi.rpc,infi.rpc-0.2.4-py2-none-any.whl,bdist_wheel
+276422,cheetah3,3.2.1,tavis rudd,tavis@damnsimple.com,mit,http://cheetahtemplate.org/,cheetah3-3.2.1-cp37-cp37m-manylinux1_x86_64.whl,bdist_wheel
+2940456,pentagon-datadog,1.13.0,reactiveop inc.,reactive@reactiveops.com,apache2.0,http://reactiveops.com/,pentagon_datadog-1.13.0.tar.gz,sdist
+443054,jackaudio,1.0.1,cooper barth,cooperfbarth@gmail.com,none,https://github.com/cooperbarth/jack-audio,jackaudio-1.0.1-py3-none-any.whl,bdist_wheel
+1474429,pyobjc-framework-collaboration,3.2,ronald oussoren,pyobjc-dev@lists.sourceforge.net,mit license,http://pyobjc.sourceforge.net,pyobjc-framework-collaboration-3.2.tar.gz,sdist
+3497208,cmake,3.18.2,jean-christophe fillion-robin,jchris.fillionr@kitware.com,apache 2.0,http://cmake.org/,cmake-3.18.2-py3-none-manylinux1_i686.whl,bdist_wheel
+3655528,pkg1231,1.0.0,cws,nownottomo@gmail.com,none,none,pkg1231-1.0.0-py3-none-any.whl,bdist_wheel
+598912,sloth-ci,2.1.0,konstantin molchanov,moigagoo@live.com,mit,https://sloth-ci.com,sloth-ci-2.1.0.zip,sdist
+4497637,d8s-uuids,0.3.0,floyd hightower,floyd.hightower27@gmail.com,mit license,https://github.com/democritus-project/d8s-uuids,d8s_uuids-0.3.0-py2.py3-none-any.whl,bdist_wheel
+1053444,jflask,0.0.2,jfudally,justinfudally@gmail.com,mit,https://github.com/jfudally/jflask,jflask-0.0.2-py3-none-any.whl,bdist_wheel
+2234878,reco-utils-pyspark,2.3.0,alex birsan,alexbirsan@wearehackerone.com,none,none,reco_utils_pyspark-2.3.0.tar.gz,sdist
+3664390,sparkpipelineframework,0.1.23,imran qureshi,imranq2@hotmail.com,none,https://github.com/imranq2/sparkpipelineframework,sparkpipelineframework-0.1.23-py3-none-any.whl,bdist_wheel
+3100284,checkov,1.0.398,bridgecrew,meet@bridgecrew.io,apache license 2.0,https://github.com/bridgecrewio/checkov,checkov-1.0.398-py3-none-any.whl,bdist_wheel
+3316958,flowbber,1.3.0,kuralabs s.r.l,info@kuralabs.io,none,https://docs.kuralabs.io/flowbber/,flowbber-1.3.0-py3-none-any.whl,bdist_wheel
+4490568,azure-mgmt-netapp,2.0.0,microsoft corporation,azpysdkhelp@microsoft.com,mit license,https://github.com/azure/azure-sdk-for-python,azure-mgmt-netapp-2.0.0.zip,sdist
+2250527,flake8pyteststyle,0.1.1,the guardians,william.bengtson@gmail.com,none,none,flake8pyteststyle-0.1.1.tar.gz,sdist
+1801880,noc,0.2.2,dmitry volodin,dvolodin7@google.com,bsd,http://nocproject.org/,noc-0.2.2.tar.gz,sdist
+2187940,django-soft-choice-fields,0.1.0,aarni koskela,akx@iki.fi,mit,none,django-soft-choice-fields-0.1.0.tar.gz,sdist
+4696282,pyre-check-nightly,0.0.101619262578,facebook,pyre@fb.com,mit,https://pyre-check.org/,pyre-check-nightly-0.0.101619262578.tar.gz,sdist
+5215037,avalara,21.7.1,"han bao, adrienne karnoski, robert bronson, philip werner, genevieve conty",han.bao@avalara.com,none,https://github.com/avadev/avatax-rest-v2-python-sdk,avalara-21.7.1.tar.gz,sdist
+1381662,pysprint,0.4.0,péter leéh,leeh123peter@gmail.com,none,https://github.com/ptrskay3/pysprint,pysprint-0.4.0-py3-none-any.whl,bdist_wheel
+1084880,video-utils,2.0.8,justin dray,justin@dray.be,mit,none,video_utils-2.0.8-py3-none-any.whl,bdist_wheel
+3543549,tencentcloud-sdk-python-cpdp,3.0.264,tencent cloud,tencentcloudapi@tencent.com,apache license 2.0,https://github.com/tencentcloud/tencentcloud-sdk-python,tencentcloud_sdk_python_cpdp-3.0.264-py2.py3-none-any.whl,bdist_wheel
+3906786,tencentcloud-sdk-python-apigateway,3.0.301,tencent cloud,tencentcloudapi@tencent.com,apache license 2.0,https://github.com/tencentcloud/tencentcloud-sdk-python,tencentcloud-sdk-python-apigateway-3.0.301.tar.gz,sdist
+3485259,intrst-algrms,0.1.17,nikolai vidov,lastsal@mail.ru,mit,https://pypi.org/project/intrst-algrms/,intrst_algrms-0.1.17.tar.gz,sdist
+2975160,django-textblocks,0.8.2,fabian germann,fg@feinheit.ch,none,http://github.com/fabiangermann/django-textblocks/,django-textblocks-0.8.2.tar.gz,sdist
+342171,ybc-bot,1.0.1,kinghs,382771946@qq.com,mit,none,ybc_bot-1.0.1.tar.gz,sdist
+1245466,evohome,0.0.8,david bonnes,zxdavb@gmail.com,none,https://github.com/zxdavb/evohome,evohome-0.0.8.tar.gz,sdist
+925071,geoiojpg,0.1,matt le,lematt1991@gmail.com,none,https://github.com/arnholdinstitute/geoiojpg,geoiojpg-0.1-py2.py3-none-any.whl,bdist_wheel
+5218229,duckdb,0.2.9.dev34,none,none,mit,https://www.duckdb.org,duckdb-0.2.9.dev34-cp38-cp38-macosx_11_0_arm64.whl,bdist_wheel
+440619,azure-translator-python3,0.0.3,christopher stone,alpha_command@hotmail.co.uk,apache,https://github.com/unison/azure-translator-python-sdk,azure_translator_python3-0.0.3-py3-none-any.whl,bdist_wheel
+1633133,vitriolic,1.5.0,gary reynolds,gary@touch.asn.au,bsd,none,vitriolic-1.5.0.tar.gz,sdist
+5166168,jsbsim,1.1.8,jon s. berndt et al.,jsbsim-users@lists.sourceforge.net,lgpl 2.1,https://github.com/jsbsim-team/jsbsim,jsbsim-1.1.8-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl,bdist_wheel
+452786,rox,4.7.1,rollout.io,support@rollout.io,none,https://support.rollout.io/docs/python-api,rox-4.7.1-py3-none-any.whl,bdist_wheel
+4906796,kdepy,1.1.0,tommyod,tommy.odland@gmail.com,gnu gplv3,https://github.com/tommyod/kdepy,kdepy-1.1.0-cp39-cp39-manylinux2010_x86_64.whl,bdist_wheel
+3552176,bigjson,1.0.2,henrik heino,henrik.heino@gmail.com,mit,https://github.com/henu/bigjson,bigjson-1.0.2-py3-none-any.whl,bdist_wheel
+929230,syn-reports,0.0.3,patrick stout,pstout@prevagroup.com,apache2,https://github.com/ki-tools/syn-reports,syn_reports-0.0.3-py2.py3-none-any.whl,bdist_wheel
+2909833,coala-bears,0.10.0.dev20161127040654,"lasse schuirmann, fabian neuschmidt, mischa krüger","lasse.schuirmann@gmail.com, fabian@neuschmidt.de, makman@alice.de",agpl-3.0,http://coala.rtfd.org/,coala-bears-0.10.0.dev20161127040654.tar.gz,sdist
+512150,warriorframework,4.3.1,warriorteam,frameworkwarrior@gmail.com,none,https://github.com/warriorframework/warriorframework_py3,warriorframework-4.3.1-py3-none-any.whl,bdist_wheel
+1008613,falkonryclient,1.0.3,falkonry inc,info@falkonry.com,mit,https://github.com/falkonry/falkonry-python-client,falkonryclient-1.0.3.tar.gz,sdist
+4499678,discogs-alert,0.0.2,mhsb,michael.h.s.ball@gmail.com,gpl-3.0-only,https://github.com/michaelhball/discogs_alert,discogs_alert-0.0.2-py3-none-any.whl,bdist_wheel
+5083204,py4etrics,0.1.7,tetsu haruyama,haruyama@econ.kobe-u.ac.jp,mit,https://github.com/py4etrics/py4etrics,py4etrics-0.1.7.tar.gz,sdist
+4557512,pypcode,1.0.1,matt borgerson,contact@mborgerson.com,none,https://github.com/angr/pypcode,pypcode-1.0.1-pp36-pypy36_pp73-macosx_10_9_x86_64.whl,bdist_wheel
+4677083,campay,0.0.2,campay,info@campay.net,none,https://github.com/campay/campay-python-sdk,campay-0.0.2.tar.gz,sdist
+4145758,p-privacy-qt,0.0.9,majid rafiei,majid.rafiei@pads.rwth-aachen.de,none,https://github.com/m4jidrafiei/privacy_quantification,p_privacy_qt-0.0.9.tar.gz,sdist
+5001674,flask-unittest,0.1.2,totallynotchase,totallynotchase42@gmail.com,mit,https://github.com/totallynotchase/flask-unittest,flask_unittest-0.1.2-py3-none-any.whl,bdist_wheel
+609299,lightfm-dataset-helper,0.1.0,mohamed el omari,mohamed.elomari@outlook.com,mit license,https://github.com/med-elomari/lightfm_dataset_helper,lightfm_dataset_helper-0.1.0-py2.py3-none-any.whl,bdist_wheel
+1468635,dcplib,1.5.1,sam pierson,spierson@chanzuckerberg.com,mit,http://github.com/humancellatlas/dcplib,dcplib-1.5.1.tar.gz,sdist
+606006,odoo9-addon-connector,9.0.1.1.0.99.dev6,"camptocamp,openerp connector core editors,odoo community association (oca)",support@odoo-community.org,agpl-3,http://odoo-connector.com,odoo9_addon_connector-9.0.1.1.0.99.dev6-py2-none-any.whl,bdist_wheel
+45527,plaster-pastedeploy,0.4.2,hunter senft-grupp,pylons-discuss@googlegroups.com,none,https://github.com/pylons/plaster_pastedeploy,plaster_pastedeploy-0.4.2.tar.gz,sdist
+425762,djinn_contenttypes,1.4.1,pythonunited,info@pythonunited.com,beer-ware,https://github.com/pythonunited/djinn-contenttypes,djinn_contenttypes-1.4.1.tar.gz,sdist
+1043510,detest,0.1,alejandro francisco queiruga,none,gnu lgpl,https://github.com/afqueiruga/detest,detest-0.1-py3-none-any.whl,bdist_wheel
+457823,finetune,0.4.1,none,none,none,none,finetune-0.4.1.tar.gz,sdist
+4739959,cg,21.5.3,patrik grenfeldt,patrik.grenfeldt@scilifelab.se,none,https://github.com/clinical-genomics/cg,cg-21.5.3.tar.gz,sdist
+4999360,torch-pitch-shift,1.1.1,kentonishi,kento24gs@outlook.com,none,https://github.com/kentonishi/torch-pitch-shift,torch_pitch_shift-1.1.1.tar.gz,sdist
+4682811,pedurma,0.1.0,"ngawang thrinley, tenzin, tenzin kaldan",esukhiadev@gmail.com,apache2,https://github.com/esukhia/pedurma,pedurma-0.1.0-py3-none-any.whl,bdist_wheel
+2031721,grokcore.view,1.13.4,grok team,grok-dev@zope.org,zpl,http://grok.zope.org,grokcore.view-1.13.4.tar.gz,sdist
+5378205,evergreen.py,3.2.8,alexander costas,alexander.costas@mongodb.com,apache-2.0,https://github.com/evergreen-ci/evergreen.py,evergreen.py-3.2.8.tar.gz,sdist
+2341139,iland-sdk,1.0.4,"iland internet solutions, corp",devops@iland.com,bsd,https://github.com/ilanddev/python-sdk,iland_sdk-1.0.4-py2.py3-none-any.whl,bdist_wheel
+2254269,fugashi,0.2.0,paul o'leary mccann,polm@dampfkraft.com,mit,https://github.com/polm/fugashi,fugashi-0.2.0.tar.gz,sdist
+2017702,dingpy,0.0.11,tina bu,tina.hongbu@gmail.com,none,https://github.com/tina-bu/dingpy/,dingpy-0.0.11.tar.gz,sdist
+1520743,seqrecord_expanded,0.0.2,carlos peña,mycalesis@gmail.com,unknown,https://github.com/carlosp420/seqrecord-expanded,seqrecord_expanded-0.0.2.tar.gz,sdist
+3867403,django-avishan,0.5.14,morteza afshari,afshari9978@gmail.com,mit,https://gitlab.com/afshari9978/avishan,django_avishan-0.5.14-py3-none-any.whl,bdist_wheel
+2560738,logwrap,6.3.6,alexey stepanov,penguinolog@gmail.com,"apache license, version 2.0",https://github.com/python-useful-helpers/logwrap,logwrap-6.3.6-cp36-cp36m-win32.whl,bdist_wheel
+523292,simple-stripe-client,0.0.2,rohit deshmukh,raigad1630@gmail.com,mit,https://github.com/raigad/simple_stripe_client,simple_stripe_client-0.0.2.tar.gz,sdist
+2900983,threedi-modelchecker,0.3,richard boon,richard.boon@nelen-schuurmans.nl,mit,https://github.com/nens/threedi-modelchecker,threedi-modelchecker-0.3.tar.gz,sdist
+1206016,functional-itertools,0.8.1,bao wei,baowei.ur521@gmail.com,none,none,functional_itertools-0.8.1-py2.py3-none-any.whl,bdist_wheel
+4155242,easyann,2021.2.1.14.42.32,jieyuan,313303303@qq.com,mit,https://github.com/jie-yuan/easyann,easyann-2021.2.1.14.42.32-py3-none-any.whl,bdist_wheel
+1866224,botocore,1.12.160,amazon web services,none,apache license 2.0,https://github.com/boto/botocore,botocore-1.12.160.tar.gz,sdist
+4409434,pytorch-datastream,0.4.3,"""aiwizo""",richard@aiwizo.com,apache-2,https://github.com/aiwizo/pytorch-datastream,pytorch_datastream-0.4.3-py38-none-any.whl,bdist_wheel
+2082240,joplin-api,1.5.6,foxmask,foxmask@protonmail.com,bsd license,https://github.com/foxmask/joplin-api,joplin_api-1.5.6-py3-none-any.whl,bdist_wheel
+772461,dueros-bot,2.2.1,jack,mupdf@sina.com,none,https://github.com/jokenwang/bot-sdk-python,dueros_bot-2.2.1-py3-none-any.whl,bdist_wheel
+5073144,dpdispatcher,0.3.23,deep modeling,none,none,none,dpdispatcher-0.3.23.tar.gz,sdist
+4526547,pyasge,1.0.0b1,james huxtable,huxyuk@users.noreply.github.com,mit,https://github.com/huxyuk/pyasge,pyasge-1.0.0b1-cp35-cp35m-manylinux2014_x86_64.whl,bdist_wheel
+1108274,gensim,0.7.0,radim rehurek,radimrehurek@seznam.cz,lgpl,http://nlp.fi.muni.cz/projekty/gensim,gensim-0.7.0-py2.5.egg,bdist_egg
+5497868,tflite-support-nightly,0.1.0.dev20211006,"google, llc.",packages@tensorflow.org,apache 2.0,https://www.tensorflow.org/,tflite_support_nightly-0.1.0.dev20211006-cp36-cp36m-win_amd64.whl,bdist_wheel
+4753984,wizsprinter,0.1.0,sirolaf,sirolaf@protonmail.com,none,none,wizsprinter-0.1.0-py3-none-any.whl,bdist_wheel
+3773207,gluoncv,0.9.0b20201102,gluon cv toolkit contributors,none,apache-2.0,https://github.com/dmlc/gluon-cv,gluoncv-0.9.0b20201102.tar.gz,sdist
+3433728,apollo,4.2.8,helena rasche;anthony bretaudeau;nathan dunn,hxr@hx42.org,mit,https://github.com/galaxy-genome-annotation/python-apollo,apollo-4.2.8.tar.gz,sdist
+2368849,strawberry-graphql,0.5.5,patrick arminio,patrick.arminio@gmail.com,mit,none,strawberry-graphql-0.5.5.tar.gz,sdist
+1431305,sourced-ml,0.6.2,source{d},machine-learning@sourced.tech,apache 2.0,https://github.com/src-d/ml,sourced-ml-0.6.2.tar.gz,sdist
+1033320,testwizard.commands-powerswitch,3.1.1,eurofins digital testing - belgium,support-be@eurofins.com,none,none,testwizard.commands-powerswitch-3.1.1.tar.gz,sdist
+4475935,codeforcesapipy,2.0.6,vadvergasov,vadim.vergasov2003@gmail.com,gplv3,https://github.com/vadvergasov/codeforcesapipy,codeforcesapipy-2.0.6.tar.gz,sdist
+5412021,botnoi,0.7.5,winn voravuthikunchai,vwinnv@gmail.com,mit,https://github.com/winn/botnoi,botnoi-0.7.5-py3-none-any.whl,bdist_wheel
+1913857,akvo,1.3.6,trevor p. irons,trevor.irons@lemmasoftware.org,['gpl 4.0'],https://akvo.lemmasoftware.org/,akvo-1.3.6-py3-none-any.whl,bdist_wheel
+5121499,tencentcloud-sdk-python-cdn,3.0.443,tencent cloud,tencentcloudapi@tencent.com,apache license 2.0,https://github.com/tencentcloud/tencentcloud-sdk-python,tencentcloud-sdk-python-cdn-3.0.443.tar.gz,sdist
+724880,red-october,0.0.2b158,laslabs inc.,support@laslabs.com,mit,https://laslabs.github.io/red-october,red_october-0.0.2b158-py2-none-any.whl,bdist_wheel
+409278,molecule,2.20.0.0a2,ansible by red hat,info@ansible.com,mit,https://github.com/ansible/molecule,molecule-2.20.0.0a2.tar.gz,sdist
+660447,jumeaux,0.55.1,tadashi-aikawa,syou.maman@gmail.com,mit,https://github.com/tadashi-aikawa/jumeaux.git,jumeaux-0.55.1-py3-none-any.whl,bdist_wheel
+3774067,mdpo,0.2.31,álvaro mondéjar rubio,mondejar1994@gmail.com,bsd license,https://github.com/mondeja/mdpo,mdpo-0.2.31-py2.py3-none-any.whl,bdist_wheel
+2562250,deepclas4bio,0.0.16,adrian ines,adines@unirioja.es,none,https://github.com/adines/deepclas4bio,deepclas4bio-0.0.16.tar.gz,sdist
+3336134,flynt,0.43.2,ilya kamenshchikov,none,mit,https://github.com/ikamensh/flynt,flynt-0.43.2-py3-none-any.whl,bdist_wheel
+3464733,dsfinfo,0.0.4,jim knudstrup,jim.knudstrup@gmail.com,none,https://github.com/jknudstrup/dsf_info,dsfinfo-0.0.4.tar.gz,sdist
+1568396,snapshot-selenium,0.0.1,c.w.,info@pyecharts.com,mit,https://github.com/pyecharts/snapshot-selenium,snapshot_selenium-0.0.1-py2.py3-none-any.whl,bdist_wheel
+3513715,formulator,0.0.1,trijeet sethi,trijeets@gmail.com,none,https://gitlab.com/trijeet/formulator,formulator-0.0.1.tar.gz,sdist
+4394620,pyck,0.10.7,kashif iftikhar,kashif@compulife.com.pk,none,http://pyck.compulife.com.pk,pyck-0.10.7-py2.py3-none-any.whl,bdist_wheel
+1733166,numpy-quaternion,2018.5.31.16.8.42,michael boyle,mob22@cornell.edu,none,https://github.com/moble/quaternion,numpy_quaternion-2018.5.31.16.8.42-cp35-cp35m-manylinux1_x86_64.whl,bdist_wheel
+2479335,django-recommends,0.0.17,flavio curella,flavio.curella@gmail.com,mit,https://github.com/python-recsys/django-recommends,django_recommends-0.0.17-py2.py3-none-any.whl,bdist_wheel
+2622213,smtpdfix,0.2.3,james warne,bebleo@yahoo.com,none,https://github.com/bebleo/smtpdfix,smtpdfix-0.2.3.tar.gz,sdist
+3559169,fescache,1.0.0b3,tinybees,a598824322@qq.com,mit,https://github.com/tinybees/fescache,fescache-1.0.0b3-py3-none-any.whl,bdist_wheel
+2436645,ccm,3.0.2,sylvain lebresne,sylvain@datastax.com,none,https://github.com/pcmanus/ccm,ccm-3.0.2.tar.gz,sdist
+2947713,pyobjc-framework-multipeerconnectivity,5.2,ronald oussoren,pyobjc-dev@lists.sourceforge.net,mit license,https://bitbucket.org/ronaldoussoren/pyobjc,pyobjc_framework_multipeerconnectivity-5.2-cp27-cp27m-macosx_10_9_x86_64.whl,bdist_wheel
+5084629,biosimulators-utils,0.1.95,center for reproducible biomedical modeling,info@biosimulators.org,mit,https://github.com/biosimulators/biosimulators_utils,biosimulators_utils-0.1.95.tar.gz,sdist
+1679331,draceditor,1.1.0,agus makmun (summon agus),agus@python.web.id,gnugpl-v3,https://github.com/agusmakmun/dracos-markdown-editor,draceditor-1.1.0.tar.gz,sdist
+4400803,azure-template,0.1.0b797212,microsoft corporation,azuresdkengsysadmins@microsoft.com,mit license,https://github.com/azure/azure-sdk-for-python,azure-template-0.1.0b797212.zip,sdist
+5324593,containerd,1.2.2,silvano cirujano cuesta,silvano.cirujano-cuesta@siemens.com,apache-2.0,https://github.com/siemens/pycontainerd,containerd-1.2.2-py3-none-any.whl,bdist_wheel
+443643,mypy-boto3-appconfig,1.14.16.0,vlad emelianov,vlad.emelianov.nz@gmail.com,mit license,https://github.com/vemel/mypy_boto3_builder,mypy_boto3_appconfig-1.14.16.0-py3-none-any.whl,bdist_wheel
+4110502,cdktf-cdktf-provider-github,0.0.91,hashicorp,none,mpl-2.0,https://github.com/terraform-cdk-providers/cdktf-provider-github.git,cdktf_cdktf_provider_github-0.0.91-py3-none-any.whl,bdist_wheel
+5478183,lintest,1.1.0,wang lin,think_wl@163.com,none,none,lintest-1.1.0.tar.gz,sdist
+4235677,girder-terms,3.1.4.dev24,"kitware, inc.",kitware@kitware.com,apache 2.0,http://girder.readthedocs.io/en/latest/plugins.html#terms-of-use,girder-terms-3.1.4.dev24.tar.gz,sdist
+4551054,tencentcloud-sdk-python-scf,3.0.374,tencent cloud,tencentcloudapi@tencent.com,apache license 2.0,https://github.com/tencentcloud/tencentcloud-sdk-python,tencentcloud_sdk_python_scf-3.0.374-py2.py3-none-any.whl,bdist_wheel
+2250805,purecloudplatformclientv2,71.0.0,genesys developer evangelists,developerevangelists@genesys.com,none,https://developer.mypurecloud.com/api/rest/client-libraries/python/,purecloudplatformclientv2-71.0.0.tar.gz,sdist
+3426937,fatcat,0.0.7.1,infoupgraders,none,mit,https://github.com/infoupgraders/fatcat,fatcat-0.0.7.1.tar.gz,sdist
+833846,mypy-boto3-sagemaker-runtime,1.12.12.0,vlad emelianov,vlad.emelianov.nz@gmail.com,mit license,https://github.com/vemel/mypy_boto3_builder,mypy-boto3-sagemaker-runtime-1.12.12.0.tar.gz,sdist
+3646,codeintel,2.0.0b14,german mendez bravo (kronuz),german.mb@gmail.com,mpl 1.1,https://github.com/kronuz/codeintel,codeintel-2.0.0b14-cp26-cp26mu-manylinux1_i686.whl,bdist_wheel
+3122879,pydatajson,0.4.27,datos argentina,datos@modernizacion.gob.ar,mit license,https://github.com/datosgobar/pydatajson,pydatajson-0.4.27-py2.py3-none-any.whl,bdist_wheel
+810972,collective.zodbbrowser,0.1,roberto allende - menttes srl,rover@menttes.com,gpl,http://code.google.com/p/zodbbrowser,collective.zodbbrowser-0.1-py2.6.egg,bdist_egg
+3845928,explainerdashboard,0.2.12,oege dijk,oegedijk@gmail.com,mit,https://github.com/oegedijk/explainerdashboard,explainerdashboard-0.2.12-py3-none-any.whl,bdist_wheel
+2304488,cheetah3,3.0.0b2,oleg broytman,phd@phdru.name,mit,http://cheetahtemplate.org/,cheetah3-3.0.0b2-py3.5-linux-i686.egg,bdist_egg
+4805495,ephemeris,0.10.7,galaxy project and community,jmchilton@gmail.com,afl,https://github.com/galaxyproject/ephemeris,ephemeris-0.10.7.tar.gz,sdist
+4748406,jsonautoarray,1.0.2,doug shawhan,doug.shawhan@gmail.com,"copyright 2014 doug shawhan redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: 1. redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. 2. redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. 3. neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission. this software is provided by the copyright holders and contributors ""as is"" and any express or implied warranties, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose are disclaimed. in no event shall the copyright holder or contributors be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage.",https://gitlab.com/doug.shawhan/json-autoarray,jsonautoarray-1.0.2-py2.py3-none-any.whl,bdist_wheel
+4716262,pyagrum-nightly,0.20.1.9.dev202104271618484617,pierre-henri wuillemin and christophe gonzales,info@agrum.org,lgplv3,https://agrum.gitlab.io/,pyagrum_nightly-0.20.1.9.dev202104271618484617-cp27-cp27m-macosx_10_6_x86_64.whl,bdist_wheel
+2078557,pycaption,0.7.6,joe norton,joey@nortoncrew.com,none,https://github.com/pbs/pycaption,pycaption-0.7.6-py2-none-any.whl,bdist_wheel
+4809524,ccxt,1.50.86,igor kroitor,igor.kroitor@gmail.com,mit,https://ccxt.trade,ccxt-1.50.86.tar.gz,sdist
+5209942,ctfi2,1.5,george,drpresq@gmail.com,none,https://github.com/drpresq/ctfi2,ctfi2-1.5-py3-none-any.whl,bdist_wheel
+3548650,mess_server_proj,0.0.2,ivan ivanov,iv.iv@yandex.ru,none,none,mess_server_proj-0.0.2.tar.gz,sdist
+16028,cryptacular,0.1,daniel holth,dholth@fastmail.fm,mit,http://bitbucket.org/dholth/cryptacular/,cryptacular-0.1.tar.gz,sdist
+281726,collective.archiveviewer,1.0b2,simone orsi [simahawk],simahawk@gmail.com,gpl,https://github.com/collective/collective.archiveviewer,collective.archiveviewer-1.0b2.zip,sdist
+3951052,duckdb,0.2.4.dev34,none,none,none,https://www.duckdb.org,duckdb-0.2.4.dev34-cp38-cp38-win_amd64.whl,bdist_wheel
+3480404,peanut,1.3,johannes köster,johannes.koester@tu-dortmund.de,mit,http://peanut.readthedocs.org,peanut-1.3.tar.gz,sdist
+2156515,sltoo,24.5b1,kristoffer nordström,kristoffer@nordstroem.ch,none,https://github.com/kown7/rmtoo,sltoo-24.5b1-py2.py3-none-any.whl,bdist_wheel
+4272935,rewsfrwe,2.0.5,a. random developer,author@example.com,none,https://github.com/pypa/sampleproject,rewsfrwe-2.0.5-py3-none-any.whl,bdist_wheel
+2967847,zope.i18n,4.4,zope foundation and contributors,zope-dev@zope.org,zpl 2.1,https://github.com/zopefoundation/zope.i18n,zope.i18n-4.4.tar.gz,sdist
+873629,ruamel.yaml,0.15.6,anthon van der neut,a.van.der.neut@ruamel.eu,mit license,https://bitbucket.org/ruamel/yaml,ruamel.yaml-0.15.6-cp27-cp27mu-manylinux1_x86_64.whl,bdist_wheel
+2419237,openrem,0.8.0b5,ed mcdonagh,ed@openrem.org,gplv3 with additional permissions,http://openrem.org/,openrem-0.8.0b5-py2-none-any.whl,bdist_wheel
+2677121,cloudtoken-plugin.shell-exporter,0.1.2,atlassian cloud engineering,cloud-team@atlassian.com,apache,https://bitbucket.org/atlassian/cloudtoken,cloudtoken_plugin.shell_exporter-0.1.2-py2.py3-none-any.whl,bdist_wheel
+3472100,nwtoolkit,0.6.2,rsa security,sean.drzewiecki@rsa.com,none,https://nwps.gitlab.io/nwtoolkit/,nwtoolkit-0.6.2-py3-none-any.whl,bdist_wheel
+52023,ls.joyous,0.9.0,david moore,david@linuxsoftware.co.nz,bsd,https://github.com/linuxsoftware/ls.joyous,ls.joyous-0.9.0.tar.gz,sdist
+2274992,robotpy-installer,2018.0.5,dustin spicuzza,robotpy@googlegroups.com,bsd,https://github.com/robotpy/robotpy-installer,robotpy-installer-2018.0.5.tar.gz,sdist
+2803038,pwt.recipe.closurebuilder,0.9,michael kerrin,michael.kerrin@gmail.com,unknown,https://github.com/mkerrin/pwt.recipe.closurebuilder,pwt.recipe.closurebuilder-0.9.tar.gz,sdist
+2806815,sndict,0.1.0,jason phang,email@jasonphang.com,mit license,https://github.com/zphang/sndict,sndict-0.1.0.tar.gz,sdist
+4688437,dagster-pandas,0.11.6rc9,elementl,hello@elementl.com,apache-2.0,https://github.com/dagster-io/dagster,dagster_pandas-0.11.6rc9-py3-none-any.whl,bdist_wheel
+4204065,iohexperimenter,0.2.9.2,"furong ye, diederick vermetten, and hao wang",f.ye@liacs.leidenuniv.nl,none,https://github.com/iohprofiler/iohexperimenter,iohexperimenter-0.2.9.2-cp37-cp37m-win32.whl,bdist_wheel
+3286193,netml,0.0.2,none,none,none,https://github.com/chicago-cdac/netml,netml-0.0.2-py3-none-any.whl,bdist_wheel
+4291368,mypy-boto3-cognito-sync,1.17.22.0,vlad emelianov,vlad.emelianov.nz@gmail.com,mit license,https://github.com/vemel/mypy_boto3_builder,mypy_boto3_cognito_sync-1.17.22.0-py3-none-any.whl,bdist_wheel
+800386,bookiesports,0.4.11,peerplays community,none,none,http://pbsa.info,bookiesports-0.4.11.tar.gz,sdist
+123315,gradient,0.3.0a2,paperspace co.,info@paperspace.com,none,https://github.com/paperspace/gradient-cli,gradient-0.3.0a2.tar.gz,sdist
+2133850,visjs2jupyter,0.1.2,"brin rosenthal (sbrosenthal@ucsd.edu), mikayla webster (m1webste@ucsd.edu), aaron gary (agary@ucsd.edu), julia len (jlen@ucsd.edu)",sbrosenthal@ucsd.edu,mit,https://github.com/ucsd-ccbb/visjs2jupyter,visjs2jupyter-0.1.2.tar.gz,sdist
+3634081,mo-imports,3.108.20292,kyle lahnakoski,kyle@lahnakoski.com,mpl 2.0,https://github.com/klahnakoski/mo-imports,mo-imports-3.108.20292.tar.gz,sdist
+4621682,b-aws-cdk-parallel,0.4.1,laimonas sutkus,laimonas.sutkus@biomapas.com,apache license 2.0,https://github.com/biomapas/b.awscdkparallel.git,b_aws_cdk_parallel-0.4.1.tar.gz,sdist
+3930773,thoughts,0.1.3,jeremy hofmann (hofmanniac),jeremy.lee.hofmann@gmail.com,mit,https://github.com/hofmanniac/thoughts,thoughts-0.1.3.tar.gz,sdist
+4531290,chain-breaking-polymer-networks,1.0.0,michael r. buche,mrb289@cornell.edu,mit,https://github.com/mbuche/chain_breaking_polymer_networks,chain_breaking_polymer_networks-1.0.0-py3-none-any.whl,bdist_wheel
+2588770,aiojenkins,0.4.3,petr belskiy,petr.belskiy@gmail.com,mit,https://github.com/pbelskiy/aiojenkins,aiojenkins-0.4.3-py3-none-any.whl,bdist_wheel
+3044011,mybiotools,1.18.0,weizhi song,songwz03@gmail.com,gpl3+,https://github.com/songweizhi/mybiotools,mybiotools-1.18.0.tar.gz,sdist
+3146554,chameleon.core,1.0b32,malthe borch and the zope community,zope-dev@zope.org,bsd,unknown,chameleon.core-1.0b32.tar.gz,sdist
+5452370,opengeode-core,9.1.7,geode-solutions,contact@geode-solutions.com,mit,https://github.com/geode-solutions/opengeode,opengeode_core-9.1.7-cp37-cp37m-win_amd64.whl,bdist_wheel
+2457917,pyrecord,1.0.1,gustavo narea,me@gustavonarea.net,"apache license, version 2.0",https://pythonhosted.org/pyrecord/,pyrecord-1.0.1-py2.py3-none-any.whl,bdist_wheel
+405803,pywincffi,0.3.0,oliver palmer,oliverpalmer@opalmer.com,unknown,http://github.com/opalmer/pywincffi,pywincffi-0.3.0-cp27-cp27m-win32.whl,bdist_wheel
+4919666,ffp-minvar,0.1.3,lucius luo,lucius0228@gmail.com,none,https://github.com/luciusluo/ffp_minvar,ffp_minvar-0.1.3.tar.gz,sdist
+3786103,tencentcloud-sdk-python-domain,3.0.283,tencent cloud,tencentcloudapi@tencent.com,apache license 2.0,https://github.com/tencentcloud/tencentcloud-sdk-python,tencentcloud-sdk-python-domain-3.0.283.tar.gz,sdist
+299060,gnss,0.3.0,swift navigation,dev@swiftnav.com,mit,https://github.com/swift-nav/pygnss,gnss-0.3.0.tar.gz,sdist
+4762815,ktech-python,0.0.2,mumuni mohammed,mumunim@gmail.com,mit,none,ktech_python-0.0.2-py3-none-any.whl,bdist_wheel
+3693101,heptapod,0.16.1,georges racinet,georges.racinet@octobus.net,gplv2+,https://foss.heptapod.net/heptapod/py-heptapod,heptapod-0.16.1.tar.gz,sdist
+5034967,automlapi,0.94,raul garcia,raulgfuentes97@gmail.com,mit,https://github.com/gfuentesbsc/automlapi,automlapi-0.94.tar.gz,sdist
+916839,aicsimageio,3.1.2,allen institute for cell science,"jacksonb@alleninstitute.org, bowdenm@spu.edu",bsd-3-clause,https://github.com/allencellmodeling/aicsimageio,aicsimageio-3.1.2.tar.gz,sdist
+2683756,scedar,0.1.7,yuanchao zhang,logstarx@gmail.com,mit,http://github.com/logstar/scedar,scedar-0.1.7-py3-none-any.whl,bdist_wheel
+4764204,ratsnlp,0.0.992,ratsgo,ratsgo@naver.com,mit,https://github.com/ratsgo/ratsnlp,ratsnlp-0.0.992-py3-none-any.whl,bdist_wheel
+1907291,webdavclient,0.5.8,designerror,designerror@yandex.ru,mit license,https://github.com/designerror/webdavclient,webdavclient-0.5.8.tar.gz,sdist
+54272,pprintpp,0.1.1,david wolever,david@wolever.net,bsd,https://github.com/wolever/pprintpp,pprintpp-0.1.1.tar.gz,sdist
+4848617,hans,0.0.1,hannes holey,hannes.holey@kit.edu,mit,http://github.com/hannes-holey/hans,hans-0.0.1.tar.gz,sdist
+2862475,sepmachine,0.3.2,williamfzc,fengzc@vip.qq.com,mit,https://github.com/williamfzc/sepmachine,sepmachine-0.3.2.tar.gz,sdist
+5350950,tmnt,0.7.0b20210829,the mitre corporation,wellner@mitre.org,apache,https://github.com/mitre/tmnt.git,tmnt-0.7.0b20210829.tar.gz,sdist
+1125939,kfwx,0.0.12,tiffany nguyen,none,none,https://github.com/tiffkwin/kfw,kfwx-0.0.12.tar.gz,sdist
+4076903,vipy,1.10.1,visym labs,info@visym.com,none,https://github.com/visym/vipy,vipy-1.10.1.tar.gz,sdist
+3264434,pyvows,2.0.1,bernardo heynemann,heynemann@gmail.com,mit,http://pyvows.org,pyvows-2.0.1.tar.gz,sdist
+3729656,personal.py,0.4.1,taner topal,taner@adap.com,none,none,personal.py-0.4.1.tar.gz,sdist
+560775,lektor-netlify,0.1,a. jesse jiryu davis,jesse@emptysquare.net,mit,https://github.com/ajdavis/lektor-netlify,lektor-netlify-0.1.tar.gz,sdist
+1351307,gemeditor,0.1.0,julian brandl,jubra@bio.dtu.dk,gpl,https://github.com/jubra/gemeditor,gemeditor-0.1.0-py3-none-any.whl,bdist_wheel
+3838,kytea,0.1.4,michiaki ariga,chezou@gmail.com,mit license,https://github.com/chezou/mykytea-python,kytea-0.1.4-cp27-cp27mu-manylinux1_x86_64.whl,bdist_wheel
+3784502,autoviml,0.1.667,ram seshadri,none,apache license 2.0,https://github.com/autoviml/auto_viml,autoviml-0.1.667.tar.gz,sdist
+528009,cfly,0.9.8,none,none,none,none,cfly-0.9.8-py2.py3-none-any.whl,bdist_wheel
+1601418,simplyrestful,0.3.2,gabriel jose bazan,gbazan@outlook.com,mit,https://github.com/gabrielbazan/simply-restful/,simplyrestful-0.3.2.tar.gz,sdist
+529209,varana,0.1.1,przemysław bruś,none,none,https://github.com/pbrus/variability-analyser/tree/master/varana,varana-0.1.1-py3-none-any.whl,bdist_wheel
+3788451,genomeworks-cuda-9-2,0.6.0.dev201027,nvidia corporation,none,apache license 2.0,https://github.com/clara-parabricks/genomeworks,genomeworks_cuda_9_2-0.6.0.dev201027-cp36-none-any.whl,bdist_wheel
+853389,lualintbear,0.9.0.1482008498,none,none,agpl-3.0,none,lualintbear-0.9.0.1482008498-py3-none-any.whl,bdist_wheel
+5444503,phruzz-matcher,0.0.2,martin vallone,mjvallone@gmail.com,none,https://github.com/mjvallone/phruzz-matcher,phruzz_matcher-0.0.2-py3-none-any.whl,bdist_wheel
+262578,dolphindb,0.1.14,"dolphindb, inc.",support@dolphindb.com,dolphindb,https://www.dolphindb.com,dolphindb-0.1.14-cp27-cp27m-manylinux2010_x86_64.whl,bdist_wheel
+2647404,filehandles,0.1.0,andrey smelter,andrey.smelter@gmail.com,bsd,https://github.com/moseleybioinformaticslab/filehandles,filehandles-0.1.0-py3.5.egg,bdist_egg
+4662098,sber-payments,0.1.0,anton popov,anton@jokerinteractive.ru,none,https://github.com/jokerinteractive/sber-payments,sber-payments-0.1.0.tar.gz,sdist
+2790738,django-rest-framework-condition,0.1.0,jozo,hi@jozo.io,none,https://github.com/jozo/django-rest-framework-condition,django-rest-framework-condition-0.1.0.tar.gz,sdist
+2215328,simple-pid,0.1.1,martin lundberg,none,mit,https://github.com/m-lundberg/simple-pid,simple-pid-0.1.1.tar.gz,sdist
+3196182,pymodelmanager,0.44.0,alexander litvinov,alektron@yandex.ru,none,none,pymodelmanager-0.44.0.tar.gz,sdist
+4582082,cloudio-endpoint-python,1.0.1,"hes-so valais, school of engineering, sion",thomas.sterren@hevs.ch,mit,https://github.com/cloudio-project/cloudio-endpoint-python,cloudio-endpoint-python-1.0.1.tar.gz,sdist
+5040349,pymars,0.7.0rc2,qin xuye,qin@qinxuye.me,apache license 2.0,http://github.com/mars-project/mars,pymars-0.7.0rc2-cp39-cp39-macosx_10_15_x86_64.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl,bdist_wheel
+4157268,c-npy-demo,1.1.0,derek huang,djh458@stern.nyu.edu,mit,https://github.com/phetdam/c_npy_demo,c_npy_demo-1.1.0-cp36-cp36m-manylinux1_i686.whl,bdist_wheel
+3675427,ocat,0.1.34,none,none,mit,https://github.com/bowang-lab/ocat,ocat-0.1.34.tar.gz,sdist
+889606,chaosplatform,0.1.0,chaosiq,contact@chaosiq.io,apache software license 2.0,https://github.com/chaostoolkit/chaoshub,chaosplatform-0.1.0.tar.gz,sdist
+2371204,quicksectx,0.3.0,"brent pedersen,jianlin shi","bpederse@gmail.com, jianlinshi.cn@gmail.com",the mit license,https://github.com/jianlins/quicksectx,quicksectx-0.3.0.tar.gz,sdist
+3661005,fastparser,0.1,erik meijer,erik@thewildweb.nl,none,https://github.com/thewildweb/fastparser,fastparser-0.1-py3-none-any.whl,bdist_wheel
+292697,nteu-translation-engine,0.4.3,pangeamt,a.cerda@pangeanic.es,mit,https://github.com/pangeamt/nteu-translation-engine,nteu_translation_engine-0.4.3-py3-none-any.whl,bdist_wheel
+980452,plonetheme.laboral,2.7,david jonas,davidjonasdesign@gmail.com,gpl,http://svn.plone.org/svn/collective/plonetheme.laboral,plonetheme.laboral-2.7-py2.6.egg,bdist_egg
+4635655,checkov,2.0.113,bridgecrew,meet@bridgecrew.io,apache license 2.0,https://github.com/nimrodkor/checkov,checkov-2.0.113.tar.gz,sdist
+4373842,tencentcloud-sdk-python-af,3.0.347,tencent cloud,tencentcloudapi@tencent.com,apache license 2.0,https://github.com/tencentcloud/tencentcloud-sdk-python,tencentcloud_sdk_python_af-3.0.347-py2.py3-none-any.whl,bdist_wheel
+3812575,mypy-boto3-personalize-runtime,1.16.17.0,vlad emelianov,vlad.emelianov.nz@gmail.com,mit license,https://github.com/vemel/mypy_boto3_builder,mypy-boto3-personalize-runtime-1.16.17.0.tar.gz,sdist
+1196342,sw.allotmentclub,3.8.0,sebastian wehrmann,sebastian@wehrmann.it,zpl 2.1,https://github.com/sweh/sw.allotmentclub,sw.allotmentclub-3.8.0.tar.gz,sdist
+4248030,ruptures,1.1.3rc4,"charles truong, laurent oudre, nicolas vayatis",charles@doffy.net,bsd-2-clause,https://github.com/deepcharles/ruptures/,ruptures-1.1.3rc4-cp39-cp39-macosx_10_9_x86_64.whl,bdist_wheel
+4534829,odoo13-addon-account-cutoff-accrual-picking,13.0.1.0.1,"akretion,odoo community association (oca)",support@odoo-community.org,agpl-3,https://github.com/oca/account-closing,odoo13_addon_account_cutoff_accrual_picking-13.0.1.0.1-py3-none-any.whl,bdist_wheel
+3894390,invokable-py,0.11.6,dex-company,devops@dex.sg,apache software license 2.0,https://github.com/dex-company/invokable-py,invokable-py-0.11.6.tar.gz,sdist
+3481389,nutrition-facts,0.1.1,satyapal singh tomar,er.satyatomar@gmail.com,mit,https://github.com/satyatomar/nutrition_facts.git,nutrition_facts-0.1.1-py3-none-any.whl,bdist_wheel
+5267985,tencentcloud-sdk-python-ds,3.0.465,tencent cloud,tencentcloudapi@tencent.com,apache license 2.0,https://github.com/tencentcloud/tencentcloud-sdk-python,tencentcloud_sdk_python_ds-3.0.465-py2.py3-none-any.whl,bdist_wheel
+4781731,tencentcloud-sdk-python-cdb,3.0.393,tencent cloud,tencentcloudapi@tencent.com,apache license 2.0,https://github.com/tencentcloud/tencentcloud-sdk-python,tencentcloud-sdk-python-cdb-3.0.393.tar.gz,sdist
+2729691,test-timeswipe,0.0.21,ilya gavrilov,gilyav@gmail.com,none,https://github.com/panda-official/timeswipe,test_timeswipe-0.0.21-cp37-cp37m-linux_armv7l.whl,bdist_wheel
+721786,indicoio,0.7.2,"alec radford, slater victoroff, aidan mclaughlin, madison may, anne carlson","alec radford <alec@indico.io>,
+        slater victoroff <slater@indico.io>,
+        aidan mclaughlin <aidan@indico.io>,
+        madison may <madison@indico.io>,
+        anne carlson <annie@indico.io>",mit license (see license),https://github.com/indicodatasolutions/indicoio-python,indicoio-0.7.2.tar.gz,sdist
+3191128,moto,1.3.8,steve pulec,spulec@gmail.com,apache,https://github.com/spulec/moto,moto-1.3.8-py2.py3-none-any.whl,bdist_wheel
+5332861,pathsummary,0.1.0a2,david scheliga,none,gnu general public license v3 (gplv3),https://https://gitlab.com/david.scheliga/pathsummary,pathsummary-0.1.0a2-py2.py3-none-any.whl,bdist_wheel
+5342192,django-koldar-utils,2.69.19,massimo bono,massimobono1@gmail.com,mit,https://github.com/koldar/django-koldar-common-apps,django_koldar_utils-2.69.19-py3-none-any.whl,bdist_wheel
+3932047,rtree,0.9.6,sean gillies,sean.gillies@gmail.com,mit,https://github.com/toblerity/rtree,rtree-0.9.6-cp37-cp37m-win_amd64.whl,bdist_wheel
+4405613,prospr,0.2a1,okkevaneck,none,lgplv3,https://github.com/okkevaneck/prospr,prospr-0.2a1-cp37-cp37m-macosx_10_9_x86_64.whl,bdist_wheel
+69494,doraemon,0.8,andy wong,wychengpublic@163.com,mit,https://github.com/131250208/doraemon,doraemon-0.8.tar.gz,sdist
+2393492,pnc-cli,1.0,tom hauser,thauser@redhat.com,none,https://github.com/project-ncl/pnc-cli,pnc-cli-1.0.tar.gz,sdist
+1262423,youtube_dl,2019.9.12,sergey m.,dstftw@gmail.com,unlicense,https://github.com/ytdl-org/youtube-dl,youtube_dl-2019.9.12-py2.py3-none-any.whl,bdist_wheel
+4560766,mosaik.schedule-flocker,0.1.0rc20210331173750,bengt lüers,bengt.lueers@gmail.com,none,https://gitlab.com/offis.energy/mosaik/mosaik.schedule-flocker,mosaik.schedule_flocker-0.1.0rc20210331173750-py3-none-any.whl,bdist_wheel
+4577608,genepattern-notebook,21.4b1,thorin tabor,tmtabor@cloud.ucsd.edu,bsd,https://github.com/genepattern/genepattern-notebook,genepattern-notebook-21.4b1.tar.gz,sdist
+2777023,ortools,6.6.4656,google inc,lperron@google.com,apache 2.0,https://developers.google.com/optimization/,ortools-6.6.4656-cp27-cp27m-manylinux1_x86_64.whl,bdist_wheel
+2496752,uiautomator2,0.1.3.dev20,codeskyblue,codeskyblue@gmail.com,mit,https://github.com/codeskyblue/uiautomator2,uiautomator2-0.1.3.dev20.tar.gz,sdist
+3065172,injectable,3.0.1,rodrigo martins de oliveira,oliveira.rodrigo.m@gmail.com,mit,https://github.com/allrod5/injectable,injectable-3.0.1-py3-none-any.whl,bdist_wheel
+5073817,onaws,0.0.13,amal murali,amalmurali47@gmail.com,none,https://github.com/amalmurali47/onaws,onaws-0.0.13-py2.py3-none-any.whl,bdist_wheel
+4457524,cl1,1.12.1,daan van den bergh,vandenberghinc.contact@gmail.com,mit,http://github.com/vandenberghinc/cl1,cl1-1.12.1.tar.gz,sdist
+2045533,nanostat,0.6.1,wouter de coster,decosterwouter@gmail.com,mit,https://github.com/wdecoster/nanostat,nanostat-0.6.1.tar.gz,sdist
+417462,thunderfit,1.7.2.2,https://github.com/mitchwatts93,none,mit,https://github.com/mitchwatts93/thunderfit,thunderfit-1.7.2.2-py2.py3-none-any.whl,bdist_wheel
+3712872,hanlp,2.0.0a63,hankcs,hankcshe@gmail.com,apache license 2.0,https://github.com/hankcs/hanlp,hanlp-2.0.0a63.tar.gz,sdist
+1927023,wm.sampledata,0.4,harald friessnegger,harald (at) webmeisterei dot com,gpl,https://github.com/collective/wm.sampledata,wm.sampledata-0.4.zip,sdist
+1653333,mathlibtools,0.0.7,the mathlib community,none,none,https://github.com/leanprover-community/mathlib-tools,mathlibtools-0.0.7-py3-none-any.whl,bdist_wheel
+3785165,tencentcloud-sdk-python-dts,3.0.279,tencent cloud,tencentcloudapi@tencent.com,apache license 2.0,https://github.com/tencentcloud/tencentcloud-sdk-python,tencentcloud_sdk_python_dts-3.0.279-py2.py3-none-any.whl,bdist_wheel
+4698269,azure-storage-file-datalake,12.3.1,microsoft corporation,ascl@microsoft.com,mit license,https://github.com/azure/azure-sdk-for-python,azure-storage-file-datalake-12.3.1.zip,sdist
+3502555,gimmebio.stat_strains,0.4.1,david danko,dcdanko@gmail.com,mit license,none,gimmebio.stat_strains-0.4.1-py3-none-any.whl,bdist_wheel
+4138056,free-fire-diamond-generator-garena-free-fire-unlimited-diamonds,3.0.0,a. random developer,author@example.com,none,https://kenhacks.com/garena,free fire diamond generator- garena free fire unlimited diamonds-3.0.0.tar.gz,sdist
+2490871,duckling,1.0.1,frank blechschmidt,frank.blechschmidt@sap.com,apache license 2.0,https://github.com/frable/duckling,duckling-1.0.1-py2.py3-none-any.whl,bdist_wheel
+5036798,tensorflow-text-nightly,2.7.0.dev20210707,google inc.,packages@tensorflow.org,apache 2.0,http://github.com/tensorflow/text,tensorflow_text_nightly-2.7.0.dev20210707-cp39-cp39-manylinux1_x86_64.whl,bdist_wheel
+4421635,furiosa-sdk-quantizer,0.1.0.dev3,furiosaai inc.,pkg@furiosa.ai,apache license 2.0,https://furiosa.ai,furiosa-sdk-quantizer-0.1.0.dev3.tar.gz,sdist
+4155167,zoom-toolkit,1.6,onur arda bodur,onurarda@sabanciuniv.edu,mit,https://github.com/onurardab/zoom-toolkit,zoom_toolkit-1.6.tar.gz,sdist
+4534018,jarvis-tools,2021.4.18,kamal choudhary,kamal.choudhary@nist.gov,nist,https://github.com/usnistgov/jarvis,jarvis_tools-2021.4.18-py2.py3-none-any.whl,bdist_wheel
+823988,ccxt,1.18.305,igor kroitor,igor.kroitor@gmail.com,mit,https://ccxt.trade,ccxt-1.18.305-py2.py3-none-any.whl,bdist_wheel
+2492402,crowdflower,0.0.2,christopher brown,io@henrian.com,"copyright (c) 2014 christopher brown
+
+permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the ""software""), to deal
+in the software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the software, and to permit persons to whom the software is
+furnished to do so, subject to the following conditions:
+
+the above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the software.
+
+the software is provided ""as is"", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose and noninfringement. in no event shall the
+authors or copyright holders be liable for any claim, damages or other
+liability, whether in an action of contract, tort or otherwise, arising from,
+out of or in connection with the software or the use or other dealings in
+the software.",https://github.com/chbrown/crowdflower,crowdflower-0.0.2.tar.gz,sdist
+4068592,seqtools,1.1.0.dev1,nicolas granger,nicolas.granger.m@gmail.com,mozilla public license 2.0 (mpl 2.0),https://github.com/nlgranger/seqtools,seqtools-1.1.0.dev1-cp39-cp39-manylinux2014_x86_64.whl,bdist_wheel
+3630793,bsb,3.6.0b4,"robin de schepper, alice geminiani, alberto antonietti, stefano casali, egidio d'angelo, claudia casellato",robingilbert.deschepper@unipv.it,gplv3,https://github.com/dbbs-lab/bsb,bsb-3.6.0b4-py3-none-any.whl,bdist_wheel
+464419,mailchecker,3.2.22,francois-guillaume ribreau,github@fgribreau.com,mit,https://github.com/fgribreau/mailchecker,mailchecker-3.2.22.tar.gz,sdist
+1448171,optlang,0.3.2,nikolaus sonnenschein,niko.sonnenschein@gmail.com,apache license version 2.0,https://github.com/biosustain/optlang,optlang-0.3.2-py3.4.egg,bdist_egg
+1694931,pika,1.0.0b1,none,none,bsd,https://pika.readthedocs.io,pika-1.0.0b1.tar.gz,sdist
+3487467,oanda-chart,0.0.4,andrew allaire,andrew.allaire@gmail.com,mit,https://github.com/aallaire/oanda-chart,oanda_chart-0.0.4-py3-none-any.whl,bdist_wheel
+3895386,jelogsystem,0.0.0.0.2,je-chen,zenmailman@gmail.com,none,https://github.com/je-chen/python_log_system_je,jelogsystem-0.0.0.0.2.tar.gz,sdist
+4410998,weaviate-client,2.3.0,semi technologies,hello@semi.technology,none,none,weaviate_client-2.3.0-py3-none-any.whl,bdist_wheel
+2308110,pyagrum-nightly,0.17.2.dev202003311584980673,pierre-henri wuillemin and christophe gonzales,info@agrum.org,lgplv3,https://agrum.gitlab.io/,pyagrum_nightly-0.17.2.dev202003311584980673-cp27-cp27m-manylinux1_i686.whl,bdist_wheel
+2877612,awsenums,0.0.1.dev1,schibsted spain,ferran.grau@scmspain.com,mit,https://github.com/schibstedspain/awsenums,awsenums-0.0.1.dev1.tar.gz,sdist
+635906,deepair-encoder,0.0.8,deepair dev,naman@deepair.io,none,https://bitbucket.org/deepair/,deepair_encoder-0.0.8-py3-none-any.whl,bdist_wheel
+3418954,zuqa,1.0.0,"zuka technologies, inc",none,bsd,https://github.com/zukatechnologies/zuqa-agent-python,zuqa-1.0.0-py3.7-macosx-10.9-x86_64.egg,bdist_egg
+4852603,libzt,1.4.1,"zerotier, inc.",joseph@zerotier.com,busl 1.1,https://github.com/zerotier/libzt,libzt-1.4.1-cp38-cp38-manylinux1_x86_64.whl,bdist_wheel
+535621,robotframework-selenium2library,1.7.4,"ryan tomac , ed manlove , jeremy johnson","<ryan@tomacfamily.com> ,  <devpypltw@verizon.net> ,  <jeremy@softworks.com.my>",apache license 2.0,https://github.com/rtomac/robotframework-selenium2library,robotframework-selenium2library-1.7.4.tar.gz,sdist
+2446329,gqlmod-github,0.1,jamie bliss,jamie@ivyleav.es,lgpl,https://github.com/go-build-it/gqlmod-github,gqlmod-github-0.1.tar.gz,sdist
+4594682,duckdb,0.2.6.dev305,none,none,mit,https://www.duckdb.org,duckdb-0.2.6.dev305-cp38-cp38-manylinux2010_i686.whl,bdist_wheel
+661909,odoo12-addon-analytic-tag-dimension,12.0.1.2.0.99.dev4,"pesol, odoo community association (oca)",support@odoo-community.org,agpl-3,https://github.com/oca/account-analytic,odoo12_addon_analytic_tag_dimension-12.0.1.2.0.99.dev4-py3-none-any.whl,bdist_wheel
+1352422,troncli,1.0.0,weiyu x,weiyu@tron.network,none,https://github.com/tronprotocol/tron-cli,troncli-1.0.0.tar.gz,sdist
+2938611,cocaine-pipeline-cli,0.11.8.4,anton tyurin,noxiouz@yandex.ru,lgplv3+,unknown,cocaine-pipeline-cli-0.11.8.4.tar.gz,sdist
+863409,wmd,1.2.2,source{d},vadim@sourced.tech,mit,https://github.com/src-d/wmd-relax,wmd-1.2.2.tar.gz,sdist
+898093,duckdb,0.1.0,none,none,none,https://github.com/cwida/duckdb,duckdb-0.1.0-cp37-cp37m-manylinux1_i686.whl,bdist_wheel
+1136361,odoo9-addon-html-image-url-extractor,9.0.1.0.0.99.dev6,"tecnativa, odoo community association (oca)",support@odoo-community.org,agpl-3,https://tecnativa.com,odoo9_addon_html_image_url_extractor-9.0.1.0.0.99.dev6-py2-none-any.whl,bdist_wheel
+5419405,dclimplode,0.0.0.2,cielavenir,cielartisan@gmail.com,psf,https://github.com/cielavenir/python-dclimplode,dclimplode-0.0.0.2-cp38-cp38-manylinux1_x86_64.whl,bdist_wheel
+3207671,ming,0.6.0,rick copeland,rick@geek.net,mit,http://merciless.sourceforge.net,ming-0.6.0.tar.gz,sdist
+292708,alphabetpy,1.0,ray zhao,rayzhao98@163.com,mit,https://github.com/rayzhao1998/alphabetpy,alphabetpy-1.0-py3.6.egg,bdist_egg
+1688927,getkey,0.6.2,k.c.saff,kc@saff.net,mit,https://github.com/kcsaff/getkey,getkey-0.6.2.tar.gz,sdist
+2002935,serpscrap,0.10.3,ronald schmidt,ronald.schmidt@zu-web.de,mit,https://github.com/ecoron/serpscrap,serpscrap-0.10.3-py3-none-any.whl,bdist_wheel
+3124740,mechanoid,0.5.21,richard harris,truenolejano@yahoo.com,gnu general public license,http://python.org/pypi/mechanoid,mechanoid-0.5.21.tar.gz,sdist
+4935806,dynamite-nsm,1.0.0,dynamite analytics,admin@dynamite.ai,gpl 3,https://github.com/dynamiteai/dynamite-nsm,dynamite_nsm-1.0.0-py3-none-any.whl,bdist_wheel
+456237,tensorflow-io-nightly,0.7.0.dev1537,google inc.,opensource@google.com,apache 2.0,none,tensorflow_io_nightly-0.7.0.dev1537-cp35-cp35m-manylinux1_x86_64.whl,bdist_wheel
+5207634,didas,0.1.12,didas,tech.di.das@md.de,none,https://github.com/freenet-group/didas/,didas-0.1.12.tar.gz,sdist
+4661849,pywirelessmbus,1.4.1,karl wolffgang,karl_eugen.wolffgang@tu-dresden.de,mit,https://github.com/gewv-tu-dresden/pywirelessmbus,pywirelessmbus-1.4.1-py3-none-any.whl,bdist_wheel
+119042,raster-tester,0.6.1,camilla mahon,camilla@mapbox.com,mit,https://github.com/mapbox/raster-tester,raster-tester-0.6.1.tar.gz,sdist
+3204788,cs.wol,20171228,cameron simpson,cs@cskk.id.au,none,https://bitbucket.org/cameron_simpson/css/commits/all,cs.wol-20171228.tar.gz,sdist
+1589075,randstring,1.0.0,ryan porterfield,ryan@ryanporterfield.com,license.txt,http://pypi.python.org/pypi/randstring/,randstring-1.0.0.tar.gz,sdist
+5298834,opentelemetry-instrumentation-sqlalchemy,0.24b0,opentelemetry authors,cncf-opentelemetry-contributors@lists.cncf.io,apache-2.0,https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/instrumentation/opentelemetry-instrumentation-sqlalchemy,opentelemetry_instrumentation_sqlalchemy-0.24b0-py3-none-any.whl,bdist_wheel
+4483056,modeldapi,0.3.67,the modeldapi developers,info@modeld.io,apache 2,http://www.modeld.io,modeldapi-0.3.67.tar.gz,sdist
+3025426,shenma,0.1.7,cherryxuan,shenzexuan1994@foxmail.com,mit licence,https://gitee.com/cherryxuan/speechrecognition,shenma-0.1.7.tar.gz,sdist
+5035560,duckdb,0.2.8.dev460,none,none,mit,https://www.duckdb.org,duckdb-0.2.8.dev460-cp37-cp37m-manylinux2010_x86_64.whl,bdist_wheel
+1984257,magine,0.0.3,james pino,james.ch.pino@gmail.com,gpl3,https://github.com/lolab-vu/magine,magine-0.0.3-py3-none-any.whl,bdist_wheel
+3743830,cryptg,0.2.post2,dmitry d. chernov,blackdoomer@yandex.ru,cc0,https://github.com/cher-nov/cryptg,cryptg-0.2.post2-cp36-cp36m-manylinux1_i686.whl,bdist_wheel
+4695791,pyobjc-framework-passkit,7.2,ronald oussoren,pyobjc-dev@lists.sourceforge.net,mit license,https://github.com/ronaldoussoren/pyobjc,pyobjc_framework_passkit-7.2-cp36-abi3-macosx_10_9_x86_64.whl,bdist_wheel
+985876,django-recaptcha2,1.3.1,andrea briganti,kbytesys@gmail.com,gnu lgpl v2,https://github.com/kbytesys/django-recaptcha2,django_recaptcha2-1.3.1-py3-none-any.whl,bdist_wheel
+1491688,flask-cache,0.9.0,thadeus burgess,thadeusb@thadeusb.com,bsd,http://github.com/thadeusb/flask-cache,flask-cache-0.9.0.tar.gz,sdist
+2849787,objgraph,1.7.1,marius gedminas,marius@gedmin.as,mit,http://mg.pov.lt/objgraph/,objgraph-1.7.1.tar.gz,sdist
+4664081,zenroom,2.0.0.dev1619608476,"danilo spinella, david dashyan, puria nafisi azizi","danyspin@dyne.org, mail@davie.li, puria@dyne.org",agplv3,https://github.com/dyne/zenroom,zenroom-2.0.0.dev1619608476-cp38-cp38-macosx_10_9_x86_64.whl,bdist_wheel
+4310449,astero,0.1.0,remindsupplychainrisks,remindsupplychainrisks@gmail.com,none,https://github.com/astero,astero-0.1.0.tar.gz,sdist
+5049315,ml-metadata,1.1.0,google llc,tensorflow-extended-dev@googlegroups.com,apache 2.0,https://github.com/google/ml-metadata,ml_metadata-1.1.0-cp36-cp36m-macosx_10_9_x86_64.whl,bdist_wheel
+4168845,pymilvus-distributed,0.0.24,none,none,apache-2.0,https://github.com/milvus-io/pymilvus,pymilvus-distributed-0.0.24.tar.gz,sdist
+1308536,ttoolly,0.34.5,polina efremova,pefremova@gmail.com,none,none,ttoolly-0.34.5.tar.gz,sdist
+3355919,wpkit,1.0.9.9,wangpei,1535376447@qq.com,none,https://github.com/peiiii/wpkit,wpkit-1.0.9.9-py3-none-any.whl,bdist_wheel
+1988723,django-private-storage,1.2.4,diederik van der boor,opensource@edoburu.nl,apache 2.0,https://github.com/edoburu/django-private-storage,django_private_storage-1.2.4-py2.py3-none-any.whl,bdist_wheel
+4177758,hypernets,0.1.7,datacanvas community,yangjian@zetyun.com,apache license 2.0,none,hypernets-0.1.7.tar.gz,sdist
+4935230,scivae,1.0.3,ariane mora,ariane.n.mora@gmail.com,gpl3,https://github.com/arianemora/scivae,scivae-1.0.3.tar.gz,sdist
+5076872,ontobio,2.7.7,chris mungall,cmungall@gmail.com,bsd,https://github.com/biolink/ontobio,ontobio-2.7.7-py3-none-any.whl,bdist_wheel
+1369691,catboost,0.16.4,catboost developers,none,"apache license, version 2.0",https://catboost.ai,catboost-0.16.4-cp35-none-manylinux1_x86_64.whl,bdist_wheel
+1907570,wfl_nester,1.0.0,wfl,85197959@qq.com,unknown,http://www.dd.com,wfl_nester-1.0.0.tar.gz,sdist
+2053835,vi3o,0.3.2,hakan ardo,hakan@debian.org,mit,http://vi3o.readthedocs.org,vi3o-0.3.2.tar.gz,sdist
+4273786,kallisto,1.0.4,eike caldeweyher,hello@eikecaldeweyher.de,none,https://github.com/astrazeneca/kallisto,kallisto-1.0.4.tar.gz,sdist
+2196131,prefa,0.0.7,"jose, robert & king",huguanzhou123@sina.com,none,https://github.com/hgz12345ssdlh/prefa-master,prefa-0.0.7-py3-none-any.whl,bdist_wheel
+2825312,iknowpy,0.0.5,intersystems corporation,none,mit,https://github.com/intersystems/iknow,iknowpy-0.0.5-cp38-cp38-manylinux2010_i686.whl,bdist_wheel
+5440533,labml-nn,0.4.114,"varuna jayasiri, nipun wijerathne","vpjayasiri@gmail.com, hnipun@gmail.com",none,https://github.com/labmlai/annotated_deep_learning_paper_implementations,labml-nn-0.4.114.tar.gz,sdist
+1991139,mypy-boto3-support,1.14.4.0,vlad emelianov,vlad.emelianov.nz@gmail.com,mit license,https://github.com/vemel/mypy_boto3_builder,mypy_boto3_support-1.14.4.0-py3-none-any.whl,bdist_wheel
+1302825,clap-api,0.12.0,marek marecki,none,gnu gpl v3,https://github.com/marekjm/clap,clap-api-0.12.0.tar.gz,sdist
+1921366,bulb-core,0.0.81,lilian cruanes,cruaneslilian@gmail.com,none,https://github.com/liliancruanes/bulb,bulb-core-0.0.81.tar.gz,sdist
+3468617,hstphot,1.1.0a1,kornpob bhirombhakdi,kbhirombhakdi@stsci.edu,none,https://github.com/bkornpob/hstphot.git,hstphot-1.1.0a1.tar.gz,sdist
+3872725,duckdown,0.0.37,none,none,none,https://github.com/blueshed/duckdown/,duckdown-0.0.37.tar.gz,sdist
+960761,tictoc-borisgorelik,0.0.1,boris gorelik,boris@gorelik.net,none,https://github.com/bgbg/tictoc,tictoc-borisgorelik-0.0.1.tar.gz,sdist
+1017838,cbitstruct,1.0.2,quentin chateau,quentin.chateau@gmail.com,gplv3,https://github.com/qchateau/cbitstruct,cbitstruct-1.0.2-cp37-cp37m-manylinux1_x86_64.whl,bdist_wheel
+195807,grpcio,1.11.0rc2,the grpc authors,grpc-io@googlegroups.com,apache license 2.0,https://grpc.io,grpcio-1.11.0rc2-cp34-cp34m-manylinux1_x86_64.whl,bdist_wheel
+4290511,mypy-boto3-dms,1.17.20.0,vlad emelianov,vlad.emelianov.nz@gmail.com,mit license,https://github.com/vemel/mypy_boto3_builder,mypy_boto3_dms-1.17.20.0-py3-none-any.whl,bdist_wheel
+2266208,odoo10-addon-business-requirement-deliverable,10.0.1.0.0.99.dev6,"elico corp, odoo community association (oca)",support@odoo-community.org,agpl-3,https://www.elico-corp.com/,odoo10_addon_business_requirement_deliverable-10.0.1.0.0.99.dev6-py2-none-any.whl,bdist_wheel
+3831587,twitter-threader,1.4.2,iyanuoluwa ajao,ajaoiyanu@gmail.com,mit,https://github.com/iyanuashiri/twitter-threader,twitter_threader-1.4.2-py3-none-any.whl,bdist_wheel
+1815480,django-model-audit-history,1.1.3,henrik heimbuerger,henrik@smileback.com,mit license,https://github.com/nexto/django-model-audit-history,django-model-audit-history-1.1.3.tar.gz,sdist
+411407,cmake,0.5.0,jean-christophe fillion-robin,jchris.fillionr@kitware.com,apache 2.0,http://cmake.org/,cmake-0.5.0.tar.gz,sdist
+3435277,nanomath,1.0.1,wouter de coster,decosterwouter@gmail.com,gplv3,https://github.com/wdecoster/nanomath,nanomath-1.0.1.tar.gz,sdist
+662732,regex,2016.04.08,matthew barnett,regex@mrabarnett.plus.com,python software foundation license,https://bitbucket.org/mrabarnett/mrab-regex,regex-2016.04.08-cp31-none-win_amd64.whl,bdist_wheel
+4941365,vectorbt,0.19.2,oleg polakow,olegpolakow@gmail.com,apache 2.0,https://github.com/polakowo/vectorbt,vectorbt-0.19.2.tar.gz,sdist
+3881370,pyiron-base,0.1.35,max-planck-institut für eisenforschung gmbh - computational materials design (cm) department,janssen@mpie.de,bsd,https://github.com/pyiron/pyiron_base,pyiron_base-0.1.35-py3-none-any.whl,bdist_wheel
+5256309,teedoc,1.17.6,neucrack,czd666666@gmail.com,mit,https://github.com/neutree/teedoc,teedoc-1.17.6-py3-none-any.whl,bdist_wheel
+2737576,realvalidation,2.0.1.dev2,kaden nelson,kaden@vermilion.tech,mit,https://github.com/vermilion-tech/python-realvalidation,realvalidation-2.0.1.dev2-py3-none-any.whl,bdist_wheel
+2618103,json-syntax,0.1.2a0,ben samuel,bsamuel@unitedincome.com,mit,https://github.com/unitedincome/json-syntax,json-syntax-0.1.2a0.tar.gz,sdist
+1903221,hassmart-homeassistant,0.59.2.1,the home assistant authors,hello@home-assistant.io,apache license 2.0,https://home-assistant.io/,hassmart_homeassistant-0.59.2.1.tar.gz,sdist
+2125752,pyannote.pipeline,1.3,hervé bredin,bredin+pyannote@limsi.fr,none,http://pyannote.github.io/,pyannote.pipeline-1.3-py3-none-any.whl,bdist_wheel
+1720463,kvfile,0.0.6,adam kariv,adam.kariv@gmail.com,mit,https://github.com/akariv/kvstore,kvfile-0.0.6.tar.gz,sdist
+4288845,bucket-dir,1.0.1,dave randall,19395688+daveygit2050@users.noreply.github.com,apache-2.0,https://github.com/hmrc/bucket-dir,bucket_dir-1.0.1-py3-none-any.whl,bdist_wheel
+3230140,pygtkie,0.1.0,"vaclav opekar, eccam, s.r.o.",opekar@eccam.com,new bsd license,www.eccam.com,pygtkie-0.1.0.win32.exe,bdist_wininst
+4312816,valer.core.spotlight,1.0.3rc11,valer group llc,valerio.zhang@valer.us,gplv2,https://github.com/valeriozhang/senaite.core.spotlight,valer.core.spotlight-1.0.3rc11.zip,sdist
+1693269,c2cgeoportal,2.2.2.dev2,camptocamp,info@camptocamp.com,none,http://www.camptocamp.com/geospatial-solutions,c2cgeoportal-2.2.2.dev2.tar.gz,sdist
+719842,exemgel,0.5,dave collins,dave@hopest.net,mit,https://github.com/thedavecollins/exemgel,exemgel-0.5.tar.gz,sdist
+2322529,reddit-service-ads-tracking,0.3.0,alex birsan,alexbirsan@wearehackerone.com,none,none,reddit_service_ads_tracking-0.3.0.tar.gz,sdist
+1358654,cloudshell-networking-cisco-iosxr,2.0.44,qualisystems,info@qualisystems.com,none,http://www.qualisystems.com/,cloudshell-networking-cisco-iosxr-2.0.44.zip,sdist
+5279055,spartaquant,0.0.9,benjamin meyer,spartaquant@gmail.com,none,https://spartaquant.com,spartaquant-0.0.9.tar.gz,sdist
+2549745,askbot-tuan,1.3,evgeny.fadeev,evgeny.fadeev@gmail.com,gplv3,http://www.python.org/sigs/distutils-sig/,askbot-tuan-1.3.zip,sdist
+2713519,logagg,0.2.3,"deep compute, llc",contact@deepcompute.com,mit,https://github.com/deep-compute/logagg,logagg-0.2.3-py2-none-any.whl,bdist_wheel
+5443252,stringpy,0.1,akshay pawar,trj08012002@gmail.com,mit,none,stringpy-0.1-py3-none-any.whl,bdist_wheel
+2090592,jupyterhub-sxauthenticator,0.0.4,yuan xiao,yuan.tu.xiao@gmail.com,3 clause bsd,https://github.com/jupyterhub/sxauthenticator,jupyterhub-sxauthenticator-0.0.4.tar.gz,sdist
+4890673,pipen,0.0.3,pwwang,pwwang@pwwang.com,mit,https://github.com/pwwang/pipen,pipen-0.0.3.tar.gz,sdist
+4704614,mypy-boto3-iotwireless,1.17.62.1,vlad emelianov,vlad.emelianov.nz@gmail.com,mit license,https://github.com/vemel/mypy_boto3_builder,mypy-boto3-iotwireless-1.17.62.1.tar.gz,sdist
+2632695,orthoani,0.2.1,martin larralde,martin.larralde@embl.de,mit,https://github.com/althonos/orthoani,orthoani-0.2.1.tar.gz,sdist
+3215143,dbkit,0.1.3,keith gaughan,k@stereochro.me,mit,https://github.com/kgaughan/dbkit/,dbkit-0.1.3.tar.gz,sdist
+2090328,mypy-boto3-datasync,1.12.29.0,vlad emelianov,vlad.emelianov.nz@gmail.com,mit license,https://github.com/vemel/mypy_boto3_builder,mypy-boto3-datasync-1.12.29.0.tar.gz,sdist
+3464798,ml-helpers,0.0.13,conor devine,conorjdevine@gmail.com,none,https://github.com/cdevine49/ml_helpers,ml_helpers-0.0.13.tar.gz,sdist
+3088379,ctbbio,0.25,chris brown,ctb@berkeley.edu,mit,https://github.com/christophertbrown/bioscripts,ctbbio-0.25.tar.gz,sdist
+1015820,kaga-logger-kagamino,0.1.3,martin kagamino lehoux,martin@lehoux.net,none,https://github.com/martinlehoux/kaga-logger,kaga_logger_kagamino-0.1.3-py3-none-any.whl,bdist_wheel
+177548,codeintel,2.0.0b24,german mendez bravo (kronuz),german.mb@gmail.com,mpl 1.1,https://github.com/kronuz/codeintel,codeintel-2.0.0b24.tar.gz,sdist
+1215892,stormpath-migrate,1.1.4,randall degges,r@rdegges.com,unlicense,https://github.com/rdegges/stormpath-migrate,stormpath_migrate-1.1.4-py2.py3-none-any.whl,bdist_wheel
+185396,appomaticcore,0.0.3,redhog (egil moeller),egil.moller@freecode.no,gpl,http://github.com/redhog/appomatic,appomaticcore-0.0.3.tar.gz,sdist
+5393698,miditok,1.1.0,nathan fradet,none,mit,https://github.com/natooz/miditok,miditok-1.1.0.tar.gz,sdist
+2588919,aipack,0.0.5,heeseung kim,heewin.kim@gmail.com,mit,https://github.com/heewinkim/aipack,aipack-0.0.5-py3-none-any.whl,bdist_wheel
+5346946,betterlogs4python,0.0.1,jonas mayer,jonas.mayer.dev@gmail.com,none,https://github.com/jonasmayerdev/betterlogs4python,betterlogs4python-0.0.1.tar.gz,sdist
+1795662,pyarrow,0.12.0,none,none,"apache license, version 2.0",https://arrow.apache.org/,pyarrow-0.12.0-cp27-cp27m-manylinux1_x86_64.whl,bdist_wheel
+1682401,batlab,0.5.0,"lexcelon, llc",dcambron@lexcelon.com,gpl3,https://github.com/lexcelon/batlab-software-python,batlab-0.5.0.zip,sdist
+1209621,zigpy-cc,0.5.0b0,balazs sandor,sanyatuning@gmail.com,gpl-3.0,http://github.com/zigpy/zigpy-cc,zigpy_cc-0.5.0b0-py3-none-any.whl,bdist_wheel
+3186094,django-beekeeper,0.0.0,matteo scarpa,fundor333@fundor333.com,mit license,https://github.com/fundor333/beekeeper,django-beekeeper-0.0.0.tar.gz,sdist
+3148697,vk-requests,0.9.1,maksim ekimovskii,ekimovsky.maksim@gmail.com,mit,https://github.com/prawn-cake/vk-requests,vk-requests-0.9.1.tar.gz,sdist
+1572715,ad3,2.2.1,andre martins,afm@cs.cmu.edu,none,http://www.ark.cs.cmu.edu/ad3,ad3-2.2.1-cp34-cp34m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl,bdist_wheel
+5265869,mypy-boto3-ram,1.18.24,vlad emelianov,vlad.emelianov.nz@gmail.com,mit license,https://github.com/vemel/mypy_boto3_builder,mypy-boto3-ram-1.18.24.tar.gz,sdist
+198593,nc5ng-core,0.0.3rc12,andrey shmakov,akshmakov@gmail.com,none,https://nc5ng.org,nc5ng-core-0.0.3rc12.tar.gz,sdist
+2512307,testproject1234,0.9,hhslepicka,none,bsd,https://github.com/hhslepicka/testproject1234,testproject1234-0.9.tar.gz,sdist
+5320087,rayon,0.0.9,unm translational informatics,datascience.software@salud.unm.edu,bsd-3-clause,https://github.com/unmtransinfo/rayon,rayon-0.0.9.tar.gz,sdist
+3416087,vampireapi,0.0.2,sͬeͥbͭaͭsͤtͬian,bastie@users.noreply.github.com,none,https://github.com/bastie/pythonvampire,vampireapi-0.0.2.tar.gz,sdist
+5305418,shapely,1.8a3,sean gillies,sean.gillies@gmail.com,bsd,https://github.com/toblerity/shapely,shapely-1.8a3-cp39-cp39-win32.whl,bdist_wheel
+1870854,gfutilities,0.7.1,scott wiederhold,s.e.wiederhold@gmail.com,mit,https://github.com/scottw514/glowforge-utilities,gfutilities-0.7.1.tar.gz,sdist
+3963319,spellcast,0.1.0,león illanes,lillanes@cs.toronto.edu,none,https://github.com/lillanes/spellcast,spellcast-0.1.0-py3-none-any.whl,bdist_wheel
+2060983,neo-python-rpc,0.1.2,thomas saunders,tom@cityofzion.io,mit license,https://github.com/cityofzion/neo-python-rpc,neo_python_rpc-0.1.2-py2.py3-none-any.whl,bdist_wheel
+2677903,lgqhammer,0.5.3,lgq,awolfly9@gmail.com,mit licence,http://awolfly9.com/,lgqhammer-0.5.3.tar.gz,sdist
+105558,schieber,0.0.5,joel niklaus,me@joelniklaus.ch,mit license,https://github.com/joelniklaus/schieber,schieber-0.0.5-py3-none-any.whl,bdist_wheel
+2960522,pylibdmtx,0.1.5,lawrence hudson,l.hudson@nhm.ac.uk,mit,https://github.com/naturalhistorymuseum/pylibdmtx/,pylibdmtx-0.1.5-py2.py3-none-win_amd64.whl,bdist_wheel
+1687588,comiccrawler,2016.5.1,eight,eight04@gmail.com,mit,https://github.com/eight04/comiccrawler,comiccrawler-2016.5.1-py3-none-any.whl,bdist_wheel
+3396395,deploy,1.6.2,ondrej sika,dev@ondrejsika.com,gnu lgpl v.3,http://ondrejsika.com/docs/deploy,deploy-1.6.2.tar.gz,sdist
+2187661,pulp-maven-client,0.1.0b31570480298,none,none,none,none,pulp_maven_client-0.1.0b31570480298-py3-none-any.whl,bdist_wheel
+5013205,newslookout,1.9.1,sandeep singh sandhu,sandeep.sandhu@gmx.com,gpl-3,https://github.com/sandeep-sandhu/newslookout,newslookout-1.9.1-py3-none-any.whl,bdist_wheel
+4385035,pysweos,0.1.4,zhikui guo,zguo@geomar.de,none,https://www.scibyte.cn,pysweos-0.1.4-py3.7-none-manylinux2010_x86_64.whl,bdist_wheel
+3095736,p01.dashboard,0.5.1,"roger ineichen, projekt01 gmbh",dev@projekt01.ch,zpl 2.1,http://pypi.python.org/pypi/p01.dashboard,p01.dashboard-0.5.1.zip,sdist
+39009,pywemo,0.4.23,greg dowling,mail@gregdowling.com,mit,http://github.com/pavoni/pywemo,pywemo-0.4.23-py2.py3-none-any.whl,bdist_wheel
+2415765,wikidata-dl,2019.10.4,ramiro gómez,code@ramiro.org,mit license,https://github.com/yaph/wikidata-dl,wikidata_dl-2019.10.4-py2.py3-none-any.whl,bdist_wheel
+3854799,wagyu,0.2.2,azat ibrakov,azatibrakov@gmail.com,mit license,https://github.com/lycantropos/wagyu/,wagyu-0.2.2-cp35-cp35m-manylinux2010_i686.whl,bdist_wheel
+2466165,mypy-boto3-codestar-notifications,1.12.19.0,vlad emelianov,vlad.emelianov.nz@gmail.com,mit license,https://github.com/vemel/mypy_boto3_builder,mypy-boto3-codestar-notifications-1.12.19.0.tar.gz,sdist
+2940251,multidict,4.4.2,andrew svetlov,andrew.svetlov@gmail.com,apache 2,https://github.com/aio-libs/multidict,multidict-4.4.2-cp34-cp34m-macosx_10_12_intel.macosx_10_12_x86_64.macosx_10_13_intel.macosx_10_13_x86_64.whl,bdist_wheel
+5420728,cyclicbm,0.0.2,markus cozowicz,marcozo@microsoft.com,mit,https://github.com/microsoft/cbm,cyclicbm-0.0.2.tar.gz,sdist
+432208,splicejunxchx,1.1,ayush kumar,ayush.kumar@umassmed.edu,mit,https://github.com/ayushkumar-umms/splice-junction-characterization,splicejunxchx-1.1.tar.gz,sdist
+3093402,odoo11-addon-fieldservice-account,11.0.0.2.0.99.dev4,"open source integrators, odoo community association (oca)",support@odoo-community.org,agpl-3,https://github.com/oca/field-service,odoo11_addon_fieldservice_account-11.0.0.2.0.99.dev4-py2.py3-none-any.whl,bdist_wheel
+3993862,edx-proctoring,2.5.0,edx,oscm@edx.org,agpl 3.0,https://github.com/edx/edx-proctoring,edx_proctoring-2.5.0-py2.py3-none-any.whl,bdist_wheel
+3580953,rdfizer,3.2.dev1599565396,maria-esther vidal,maria.vidal@tib.eu,apache 2.0,https://github.com/sdm-tib/sdm-rdfizer,rdfizer-3.2.dev1599565396.tar.gz,sdist
+3879596,lxml,4.6.2,lxml dev team,lxml-dev@lxml.de,bsd,https://lxml.de/,lxml-4.6.2-cp39-cp39-manylinux1_i686.whl,bdist_wheel
+1272890,bubka,1.0.1,ilkka tuohela,hile@iki.fi,psf,https://github.com/hile/bubka/,bubka-1.0.1.tar.gz,sdist
+4247095,sdmetrics,0.1.2.dev2,mit data to ai lab,dailabmit@gmail.com,mit license,https://github.com/sdv-dev/sdmetrics,sdmetrics-0.1.2.dev2.tar.gz,sdist
+4076813,cloudwanderer,0.10.0,sam martin,samjackmartin+cloudwanderer@gmail.com,none,https://github.com/cloudwanderer-io/cloudwanderer,cloudwanderer-0.10.0.tar.gz,sdist
+1827200,fluentcms-suit,1.0.5,basil shubin,basil.shubin@gmail.com,mit license,https://github.com/bashu/fluentcms-suit,fluentcms-suit-1.0.5.tar.gz,sdist
+3538787,opencv-contrib-python-headless,3.4.11.43,none,none,mit,https://github.com/skvark/opencv-python,opencv_contrib_python_headless-3.4.11.43-cp36-cp36m-manylinux2014_i686.whl,bdist_wheel
+2828703,bugh,1.0,will haldean brown,will.h.brown@gmail.com,gplv3,https://github.com/haldean/bugh,bugh-1.0.tar.gz,sdist
+1003655,nose-cprof,0.1-2,marc sherry,msherry@gmail.com,unknown,https://github.com/msherry/nose-cprof,nose-cprof-0.1-2.tar.gz,sdist
+2865610,pyrsistent,0.11.9,tobias gustafsson,tobias.l.gustafsson@gmail.com,license.mit,http://github.com/tobgu/pyrsistent/,pyrsistent-0.11.9.tar.gz,sdist
+3824276,code-video-generator,0.3.0,don brown,dbrown@sleuth.io,aplv2 license,https://github.com/sleuth-io/code-video-generator,code_video_generator-0.3.0-py3-none-any.whl,bdist_wheel
+1988214,winchester,0.53.dev31,monsyne dragon,mdragon@rackspace.com,apache-2,https://github.com/stackforge/stacktach-winchester,winchester-0.53.dev31.tar.gz,sdist
+2142096,goslide-api,0.0.1,alexander kuiper,ualex73@gmail.com,apache license 2.0,https://github.com/ualex73/goslide-api,goslide-api-0.0.1.tar.gz,sdist
+1817971,von-anchor,1.6.25,psps-spac,stephen.klump@becker-carroll.com,apache software license,https://github.com/pspc-spac-buyandsell/von_anchor,von_anchor-1.6.25.tar.gz,sdist
+2870006,biggerquery,0.5.dev12,chi,chibox-team@allegrogroup.com,none,https://github.com/allegro/biggerquery,biggerquery-0.5.dev12.tar.gz,sdist
+1414248,django-json-ordered,0.1,rafael gontijo,rafaelgontijowinter@gmail.com,mit,https://github.com/rafaelgontijo/django-json-ordered,django_json_ordered-0.1-py3-none-any.whl,bdist_wheel
+2176438,lore,0.4.16,montana low,montana@instacart.com,mit,http://github.com/instacart/lore,lore-0.4.16.tar.gz,sdist
+4061696,robotpy-wpimath,2021.2.1.0,robotpy development team,robotpy@googlegroups.com,bsd-3-clause,https://github.com/robotpy/robotpy-wpimath,robotpy_wpimath-2021.2.1.0-cp36-cp36m-win_amd64.whl,bdist_wheel
+4595363,deemon,0.2.0,digitalec,digitalec@gradiian.io,gpl3,https://github.com/digitalec/deemon,deemon-0.2.0-py3-none-any.whl,bdist_wheel
+1957139,primerserver2,2.0.0b12,tao zhu,taozhu@mail.bnu.edu.cn,mit,https://github.com/billzt/primerserver2,primerserver2-2.0.0b12-py3-none-any.whl,bdist_wheel
+4911959,ecg-demo,2.0,xlx,xulixin2@sensetime.com,none,none,ecg_demo-2.0-py3-none-any.whl,bdist_wheel
+5032785,abhiprime,1.2.2,abhishek singh,abhisheksingh@ggits.org,none,none,abhiprime-1.2.2.tar.gz,sdist
+2828515,onegov.applications,2018.11.11,seantis gmbh,info@seantis.ch,gplv2,http://github.com/onegov/onegov.applications,onegov.applications-2018.11.11-py3-none-any.whl,bdist_wheel
+2493360,readgroup_json_db,0.14,jeremiah h. savage,jeremiahsavage@gmail.com,apache 2.0,https://github.com/jeremiahsavage/readgroup_json_db,readgroup_json_db-0.14-py2.py3-none-any.whl,bdist_wheel
+1939213,py-identity-model,0.8.0,james crowley,jamescrowley151@gmail.com,apache 2.0,https://github.com/jamescrowley321/py-oidc,py_identity_model-0.8.0.tar.gz,sdist
+2133816,enolib,0.6.0,simon repp,simon@fdpl.io,mit,https://eno-lang.org/enolib/,enolib-0.6.0-py3-none-any.whl,bdist_wheel
+817917,lowhaio,0.0.3,michal charemza,michal@charemza.name,none,https://github.com/michalc/lowhaio,lowhaio-0.0.3-py3-none-any.whl,bdist_wheel
+4495129,mypy-boto3-sesv2,1.17.30.0,vlad emelianov,vlad.emelianov.nz@gmail.com,mit license,https://github.com/vemel/mypy_boto3_builder,mypy-boto3-sesv2-1.17.30.0.tar.gz,sdist
+2217032,coverage,5.0,ned batchelder and 121 others,ned@nedbatchelder.com,apache 2.0,https://github.com/nedbat/coveragepy,coverage-5.0-cp36-cp36m-macosx_10_13_x86_64.whl,bdist_wheel
+3005733,pyramid_layout,0.4,"paul everitt, chris rossi",pylons-devel@googlegroups.com,bsd-derived (http://www.repoze.org/license.txt),http://docs.pylonsproject.org,pyramid_layout-0.4.tar.gz,sdist
+4063676,edx-analytics-data-api-client,0.17.0,none,none,apache license 2.0,https://github.com/edx/edx-analytics-data-api-client,edx-analytics-data-api-client-0.17.0.tar.gz,sdist
+1008584,plugwise-smile,0.0.31,plugwise,info@compa.nl,mit,https://github.com/plugwise/plugwise-smile,plugwise_smile-0.0.31.tar.gz,sdist
+3219607,pulpcore-client,3.2.0.dev1581703397,openapi generator community,team@openapitools.org,none,none,pulpcore_client-3.2.0.dev1581703397-py3-none-any.whl,bdist_wheel
+424182,netdisco,0.7.5,paulus schoutsen,paulus@paulusschoutsen.nl,mit,https://github.com/home-assistant/netdisco,netdisco-0.7.5.tar.gz,sdist
+2642999,thonny,3.0.3,aivar annamaa and others,thonny@googlegroups.com,mit,https://thonny.org,thonny-3.0.3.tar.gz,sdist
+4981749,tensorflow-text-nightly,2.6.0.dev20210620,google inc.,packages@tensorflow.org,apache 2.0,http://github.com/tensorflow/text,tensorflow_text_nightly-2.6.0.dev20210620-cp37-cp37m-manylinux1_x86_64.whl,bdist_wheel
+3018591,py-frappe-client,1.1.2,karan sharma,karansharma1295@gmail.com,mit,https://github.com/zerodhatech/py-frappe-client/,py-frappe-client-1.1.2.tar.gz,sdist
+3340817,variable-updater,0.0.15,rob wilson,roobert@gmail.com,none,none,variable-updater-0.0.15.tar.gz,sdist
+1094094,boxsdk,1.1.7,box,oss@box.com,"apache license
+                       version 2.0, january 2004
+                    http://www.apache.org/licenses/
+
+terms and conditions for use, reproduction, and distribution
+
+1. definitions.
+  ""license"" shall mean the terms and conditions for use, reproduction,
+  and distribution as defined by sections 1 through 9 of this document.
+  ""licensor"" shall mean the copyright owner or entity authorized by
+  the copyright owner that is granting the license.
+  ""legal entity"" shall mean the union of the acting entity and all
+  other entities that control, are controlled by, or are under common
+  control with that entity. for the purposes of this definition,
+  ""control"" means (i) the power, direct or indirect, to cause the
+  direction or management of such entity, whether by contract or
+  otherwise, or (ii) ownership of fifty percent (50%) or more of the
+  outstanding shares, or (iii) beneficial ownership of such entity.
+  ""you"" (or ""your"") shall mean an individual or legal entity
+  exercising permissions granted by this license.
+  ""source"" form shall mean the preferred form for making modifications,
+  including but not limited to software source code, documentation
+  source, and configuration files.
+  ""object"" form shall mean any form resulting from mechanical
+  transformation or translation of a source form, including but
+  not limited to compiled object code, generated documentation,
+  and conversions to other media types.
+  ""work"" shall mean the work of authorship, whether in source or
+  object form, made available under the license, as indicated by a
+  copyright notice that is included in or attached to the work
+  (an example is provided in the appendix below).
+  ""derivative works"" shall mean any work, whether in source or object
+  form, that is based on (or derived from) the work and for which the
+  editorial revisions, annotations, elaborations, or other modifications
+  represent, as a whole, an original work of authorship. for the purposes
+  of this license, derivative works shall not include works that remain
+  separable from, or merely link (or bind by name) to the interfaces of,
+  the work and derivative works thereof.
+  ""contribution"" shall mean any work of authorship, including
+  the original version of the work and any modifications or additions
+  to that work or derivative works thereof, that is intentionally
+  submitted to licensor for inclusion in the work by the copyright owner
+  or by an individual or legal entity authorized to submit on behalf of
+  the copyright owner. for the purposes of this definition, ""submitted""
+  means any form of electronic, verbal, or written communication sent
+  to the licensor or its representatives, including but not limited to
+  communication on electronic mailing lists, source code control systems,
+  and issue tracking systems that are managed by, or on behalf of, the
+  licensor for the purpose of discussing and improving the work, but
+  excluding communication that is conspicuously marked or otherwise
+  designated in writing by the copyright owner as ""not a contribution.""
+  ""contributor"" shall mean licensor and any individual or legal entity
+  on behalf of whom a contribution has been received by licensor and
+  subsequently incorporated within the work.
+
+2. grant of copyright license. subject to the terms and conditions of
+  this license, each contributor hereby grants to you a perpetual,
+  worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+  copyright license to reproduce, prepare derivative works of,
+  publicly display, publicly perform, sublicense, and distribute the
+  work and such derivative works in source or object form.
+
+3. grant of patent license. subject to the terms and conditions of
+  this license, each contributor hereby grants to you a perpetual,
+  worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+  (except as stated in this section) patent license to make, have made,
+  use, offer to sell, sell, import, and otherwise transfer the work,
+  where such license applies only to those patent claims licensable
+  by such contributor that are necessarily infringed by their
+  contribution(s) alone or by combination of their contribution(s)
+  with the work to which such contribution(s) was submitted. if you
+  institute patent litigation against any entity (including a
+  cross-claim or counterclaim in a lawsuit) alleging that the work
+  or a contribution incorporated within the work constitutes direct
+  or contributory patent infringement, then any patent licenses
+  granted to you under this license for that work shall terminate
+  as of the date such litigation is filed.
+
+4. redistribution. you may reproduce and distribute copies of the
+  work or derivative works thereof in any medium, with or without
+  modifications, and in source or object form, provided that you
+  meet the following conditions:
+
+  (a) you must give any other recipients of the work or
+      derivative works a copy of this license; and
+
+  (b) you must cause any modified files to carry prominent notices
+      stating that you changed the files; and
+
+  (c) you must retain, in the source form of any derivative works
+      that you distribute, all copyright, patent, trademark, and
+      attribution notices from the source form of the work,
+      excluding those notices that do not pertain to any part of
+      the derivative works; and
+
+  (d) if the work includes a ""notice"" text file as part of its
+      distribution, then any derivative works that you distribute must
+      include a readable copy of the attribution notices contained
+      within such notice file, excluding those notices that do not
+      pertain to any part of the derivative works, in at least one
+      of the following places: within a notice text file distributed
+      as part of the derivative works; within the source form or
+      documentation, if provided along with the derivative works; or,
+      within a display generated by the derivative works, if and
+      wherever such third-party notices normally appear. the contents
+      of the notice file are for informational purposes only and
+      do not modify the license. you may add your own attribution
+      notices within derivative works that you distribute, alongside
+      or as an addendum to the notice text from the work, provided
+      that such additional attribution notices cannot be construed
+      as modifying the license.
+
+  you may add your own copyright statement to your modifications and
+  may provide additional or different license terms and conditions
+  for use, reproduction, or distribution of your modifications, or
+  for any such derivative works as a whole, provided your use,
+  reproduction, and distribution of the work otherwise complies with
+  the conditions stated in this license.
+
+5. submission of contributions. unless you explicitly state otherwise,
+  any contribution intentionally submitted for inclusion in the work
+  by you to the licensor shall be under the terms and conditions of
+  this license, without any additional terms or conditions.
+  notwithstanding the above, nothing herein shall supersede or modify
+  the terms of any separate license agreement you may have executed
+  with licensor regarding such contributions.
+
+6. trademarks. this license does not grant permission to use the trade
+  names, trademarks, service marks, or product names of the licensor,
+  except as required for reasonable and customary use in describing the
+  origin of the work and reproducing the content of the notice file.
+
+7. disclaimer of warranty. unless required by applicable law or
+  agreed to in writing, licensor provides the work (and each
+  contributor provides its contributions) on an ""as is"" basis,
+  without warranties or conditions of any kind, either express or
+  implied, including, without limitation, any warranties or conditions
+  of title, non-infringement, merchantability, or fitness for a
+  particular purpose. you are solely responsible for determining the
+  appropriateness of using or redistributing the work and assume any
+  risks associated with your exercise of permissions under this license.
+
+8. limitation of liability. in no event and under no legal theory,
+  whether in tort (including negligence), contract, or otherwise,
+  unless required by applicable law (such as deliberate and grossly
+  negligent acts) or agreed to in writing, shall any contributor be
+  liable to you for damages, including any direct, indirect, special,
+  incidental, or consequential damages of any character arising as a
+  result of this license or out of the use or inability to use the
+  work (including but not limited to damages for loss of goodwill,
+  work stoppage, computer failure or malfunction, or any and all
+  other commercial damages or losses), even if such contributor
+  has been advised of the possibility of such damages.
+
+9. accepting warranty or additional liability. while redistributing
+  the work or derivative works thereof, you may choose to offer,
+  and charge a fee for, acceptance of support, warranty, indemnity,
+  or other liability obligations and/or rights consistent with this
+  license. however, in accepting such obligations, you may act only
+  on your own behalf and on your sole responsibility, not on behalf
+  of any other contributor, and only if you agree to indemnify,
+  defend, and hold each contributor harmless for any liability
+  incurred by, or claims asserted against, such contributor by reason
+  of your accepting any such warranty or additional liability.
+
+end of terms and conditions",http://opensource.box.com,boxsdk-1.1.7.tar.gz,sdist
+2519563,django-social-share,0.1.1,flavio curella,flavio.curella@curella.org,mit,https://github.com/fcurella/django-social-share,django-social-share-0.1.1.tar.gz,sdist
+3448479,mypy-boto3-cognito-sync,1.14.50.0,vlad emelianov,vlad.emelianov.nz@gmail.com,mit license,https://github.com/vemel/mypy_boto3_builder,mypy_boto3_cognito_sync-1.14.50.0-py3-none-any.whl,bdist_wheel
+4065553,tencentcloud-sdk-python-dbbrain,3.0.327,tencent cloud,tencentcloudapi@tencent.com,apache license 2.0,https://github.com/tencentcloud/tencentcloud-sdk-python,tencentcloud-sdk-python-dbbrain-3.0.327.tar.gz,sdist
+993978,mypy-boto3-logs,1.11.1.1,vlad emelianov,vlad.emelianov.nz@gmail.com,mit license,https://github.com/vemel/mypy_boto3,mypy-boto3-logs-1.11.1.1.tar.gz,sdist
+3330803,grab,0.3.25,grigoriy petukhov,lorien@lorien.name,bsd,http://bitbucket.org/lorien/grab/,grab-0.3.25.tar.gz,sdist
+3107706,deadsimplekv,0.3.1,kevin froman,beardog@mailbox.org,none,https://github.com/beardog108/deadsimplekv,deadsimplekv-0.3.1.tar.gz,sdist
+4034983,sportgems,0.2.4,fabian gebhart,none,mit,https://github.com/fgebhart/sportgems,sportgems-0.2.4-cp36-cp36m-macosx_10_7_x86_64.whl,bdist_wheel
+1030944,pycryptodomex,3.7.0,helder eijs,helderijs@gmail.com,none,https://www.pycryptodome.org,pycryptodomex-3.7.0-cp37-cp37m-manylinux1_x86_64.whl,bdist_wheel
+5448574,lunespy,0.13.1,lunes platform,lucas.oliveira@lunes.io,"apache license, version 2.0, january 2004",none,lunespy-0.13.1.tar.gz,sdist
+3618014,rivr,0.7.1,kyle fuller,inbox@kylefuller.co.uk,bsd,http://github.com/rivrproject/rivr/,rivr-0.7.1-py3-none-any.whl,bdist_wheel
+173376,avocado-framework-plugin-runner-remote,77.0,avocado developers,avocado-devel@redhat.com,none,http://avocado-framework.github.io/,avocado-framework-plugin-runner-remote-77.0.tar.gz,sdist
+413246,users,1.0.dev0,none,none,none,none,users-1.0.dev0.tar.gz,sdist
+183043,gelid-http,1.6,lvjiyong,lvjiyong@gmail.com,apache2.0,https://github.com/lvjiyong/python-gelid,gelid-http-1.6.tar.gz,sdist
+1318792,plone.restapi,1.0a9,timo stollenwerk,tisto@plone.org,gpl,https://github.com/plone/plone.restapi/,plone.restapi-1.0a9.tar.gz,sdist
+3744899,pycurd,0.1.17,fy,fy0748@gmail.com,mit,https://github.com/fy0/pycrud,pycurd-0.1.17-py3-none-any.whl,bdist_wheel
+2795934,xenon,0.7.0,michele lacchia,michelelacchia@gmail.com,mit,https://xenon.readthedocs.org/,xenon-0.7.0.tar.gz,sdist
+3713725,tencentcloud-sdk-python-ssm,3.0.267,tencent cloud,tencentcloudapi@tencent.com,apache license 2.0,https://github.com/tencentcloud/tencentcloud-sdk-python,tencentcloud-sdk-python-ssm-3.0.267.tar.gz,sdist
+1950360,turkish-morphology,1.1.0,none,none,apache 2.0,https://github.com/google-research/turkish-morphology,turkish-morphology-1.1.0.tar.gz,sdist
+5097271,zenroom,2.0.0.dev1626266977,"danilo spinella, david dashyan, puria nafisi azizi","danyspin@dyne.org, mail@davie.li, puria@dyne.org",agplv3,https://github.com/dyne/zenroom,zenroom-2.0.0.dev1626266977-cp38-cp38-manylinux_2_24_i686.whl,bdist_wheel
+2093166,tw2.jqplugins.ui,2.0b20,ralph bean,ralph.bean@gmail.com,mit,http://github.com/ralphbean/tw2.jqplugins.ui,tw2.jqplugins.ui-2.0b20.tar.gz,sdist
+5430637,cdk-certbot-dns-route53,0.3.69,neil kuan<guan840912@gmail.com>,none,apache-2.0,https://github.com/neilkuan/cdk-certbot-dns-route53.git,cdk_certbot_dns_route53-0.3.69-py3-none-any.whl,bdist_wheel
+363328,log-viewer,0.1.0,moonrollersoft,moonrollersoft@gmail.com,mit,https://github.com/moonrollersoft/log-viewer/,log_viewer-0.1.0.tar.gz,sdist
+3578907,bfengine,0.1.88,jeremyxin,chengjiexin@emotibot.com,none,none,bfengine-0.1.88.tar.gz,sdist
+1858337,series,2.23.12,torsten schmits,torstenschmits@gmail.com,gplv3,none,series-2.23.12.tar.gz,sdist
+4883523,githacker,1.0.8,wang yihang,wangyihanger@gmail.com,none,https://github.com/wangyihang/platypus-python,githacker-1.0.8-py3-none-any.whl,bdist_wheel
+1134371,pypicloud,0.3.13,steven arcangeli,stevearc@stevearc.com,mit,http://pypicloud.readthedocs.org/,pypicloud-0.3.13.tar.gz,sdist
+2184945,flake8-tidy-imports,1.0.1,adam johnson,me@adamj.eu,iscl,https://github.com/adamchainz/flake8-tidy-imports,flake8-tidy-imports-1.0.1.tar.gz,sdist
+3404316,video2ascii,1.4.1,iapetus-11,none,none,https://github.com/iapetus-11/video2ascii,video2ascii-1.4.1.tar.gz,sdist
+2139412,httprunner,2.2.2,debugtalk,mail@debugtalk.com,apache-2.0,https://github.com/httprunner/httprunner,httprunner-2.2.2-py2.py3-none-any.whl,bdist_wheel
+1017551,thriftrw,1.8.1,abhinav gupta,abg@uber.com,mit,https://github.com/thriftrw/thriftrw-python,thriftrw-1.8.1-cp27-cp27m-macosx_10_14_x86_64.whl,bdist_wheel
+416979,django-simple-buefy,1.0.1,comect,gdude2002@gmail.com,mit,https://github.com/comect/django-simple-buefy,django_simple_buefy-1.0.1-py3-none-any.whl,bdist_wheel
+407640,cs18-sidecar,0.0.2.3337,quali,support@qualisystems.com,none,none,cs18-sidecar-0.0.2.3337.tar.gz,sdist
+5008809,nygame,1.0.0,natalie fearnley,nfearnley@gmail.com,mit,none,nygame-1.0.0-py3-none-any.whl,bdist_wheel
+3092292,combcov,0.3.3,permuta triangle,permutatriangle@gmail.com,gpl-3,https://github.com/permutatriangle/combcov,combcov-0.3.3.tar.gz,sdist
+946672,pysplishsplash,2.8.4,interactive computer graphics,none,mit,https://github.com/interactivecomputergraphics/splishsplash,pysplishsplash-2.8.4-cp38-cp38-win_amd64.whl,bdist_wheel
+1843918,pillow,3.3.1,alex clark (fork author),aclark@aclark.net,standard pil license,http://python-pillow.org,pillow-3.3.1-cp35-cp35m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl,bdist_wheel
+598694,wagtailmodeladmin,2.0.8,andy babic,ababic@rkh.co.uk,mit,https://github.com/ababic/wagtailmodeladmin,wagtailmodeladmin-2.0.8.tar.gz,sdist
+4720008,t3dn-bip,0.1.2,none,none,none,none,t3dn_bip-0.1.2-py3-none-any.whl,bdist_wheel
+1508930,kodi-addon-checker,0.0.10,team kodi,none,none,https://github.com/xbmc/addon-check,kodi_addon_checker-0.0.10-py3-none-any.whl,bdist_wheel
+3951536,advent-of-code,2019.12.222,none,none,none,https://github.com/fornwall/advent-of-code,advent_of_code-2019.12.222-cp37-cp37m-win_amd64.whl,bdist_wheel
+5095398,stanag4586vsm,0.0.7,faisal thaheem,none,gplv3,https://github.com/faisalthaheem/python-stanag-4586-vsm,stanag4586vsm-0.0.7.tar.gz,sdist
+1252563,glance,19.0.0.0b1,openstack,openstack-discuss@lists.openstack.org,none,https://docs.openstack.org/glance/latest/,glance-19.0.0.0b1-py2.py3-none-any.whl,bdist_wheel
+5325040,opentimspy,1.0.9a7,"mateusz krzysztof łącki (matteolacki), michał startek (michalsta)","matteo.lacki@gmail.com, michal.startek@mimuw.edu.pl",none,none,opentimspy-1.0.9a7-cp37-cp37m-win_amd64.whl,bdist_wheel
+1819967,graphenemodeling,1.0.2,gholdman,gholdman@protonmail.com,none,https://github.com/gholdman1/graphenemodeling.git,graphenemodeling-1.0.2.tar.gz,sdist
+3553561,vaex-core,4.0.0a2,maarten a. breddels,maartenbreddels@gmail.com,mit,https://www.github.com/maartenbreddels/vaex,vaex_core-4.0.0a2-cp37-cp37m-win_amd64.whl,bdist_wheel
+2630456,grpcio-reflection,1.22.0rc1,the grpc authors,grpc-io@googlegroups.com,apache license 2.0,https://grpc.io,grpcio-reflection-1.22.0rc1.tar.gz,sdist
+3785423,tencentcloud-sdk-python-mongodb,3.0.280,tencent cloud,tencentcloudapi@tencent.com,apache license 2.0,https://github.com/tencentcloud/tencentcloud-sdk-python,tencentcloud-sdk-python-mongodb-3.0.280.tar.gz,sdist
+3088624,django-q,0.3.3,ilan steemers,koed00@gmail.com,mit,https://django-q.readthedocs.org,django-q-0.3.3.tar.gz,sdist
+5053290,librapid,0.2.2,toby davis,pencilcaseman@gmail.com,boost software license,https://github.com/pencilcaseman/librapid,librapid-0.2.2-cp38-cp38-macosx_10_9_x86_64.whl,bdist_wheel
+1061055,girder-client,3.0.10.dev8,"kitware, inc.",kitware@kitware.com,apache 2.0,http://girder.readthedocs.org/en/latest/python-client.html,girder-client-3.0.10.dev8.tar.gz,sdist
+2202097,olxcrapper,0.1.8,yago lima lins,yago.lima.lins@protonmail.com,gpl,https://github.com/yagolimalins/olxcrapper,olxcrapper-0.1.8.tar.gz,sdist
+5067006,handobject-pkg-acb,0.1.5,andreu crespo,crespo.andreu@xam.com,none,none,handobject-pkg-acb-0.1.5.tar.gz,sdist
+3965218,calculadora-pysimplegui,0.2.4,rais do codigo,suportecalculadora@gmail.com,none,https://github.com/samuel-py-jar/calculadora-pysimplegui,calculadora-pysimplegui-0.2.4.tar.gz,sdist
+4034887,backstabbr-api,1.0.2,arjun khurana,afkhurana@gmail.com,mit,https://github.com/afkhurana/backstabbr_api,backstabbr_api-1.0.2-py3-none-any.whl,bdist_wheel
+2819644,cfblog,0.1.0,vinay karanam,vinayinvicible@gmail.com,bsd,https://github.com/coverfox/cfblog/,cfblog-0.1.0.tar.gz,sdist
+694834,kivyoav,0.4,yoav glazner,yoavglazner@gmail.com,unknown,https://github.com/yglazner/kivyoav,kivyoav-0.4.zip,sdist
+5116829,pganonymize,0.6.1,henning kage,henning.kage@rheinwerk-verlag.de,mit license,https://github.com/rheinwerk-verlag/postgresql-anonymizer,pganonymize-0.6.1.tar.gz,sdist
+2484786,django-popolo,1.0.1,guglielmo celata,guglielmo@openpolis.it,affero,http://github.com/openpolis/django-popolo,django-popolo-1.0.1.tar.gz,sdist
+4945110,funcargparse,0.2.4,philipp s. sommer,philipp.sommer@hereon.de,apache-2.0,https://github.com/chilipp/funcargparse,funcargparse-0.2.4.tar.gz,sdist
+641530,polychemprint3,3.0.1a26,bijal patel,bbpatel2@illinois.edu,none,https://github.com/bijalbpatel/polychemprint3,polychemprint3-3.0.1a26.tar.gz,sdist
+4514058,hatanaka,2.3.0,martin valgur,martin.valgur@gmail.com,none,https://github.com/valgur/hatanaka,hatanaka-2.3.0-py3-none-manylinux1_x86_64.whl,bdist_wheel
+136547,puke,1.0.13,emmanuel tabard,manu@webitup.fr,http://www.apache.org/licenses/license-2.0,http://github.com/roxee/puke,puke-1.0.13.tar.gz,sdist
+2850037,populus,1.0.0rc1,piper merriam,pipermerriam@gmail.com,mit,https://github.com/pipermerriam/populus,populus-1.0.0rc1.macosx-10.11-x86_64.tar.gz,bdist_dumb
+3928523,dirio,0.1.1,manahter,manahter@gmail.com,mit,http://github.com/manahter/dirio,dirio-0.1.1.tar.gz,sdist
+4453503,jaraco.util,14.0.2,jason r. coombs,jaraco@jaraco.com,none,https://github.com/jaraco/jaraco.util,jaraco.util-14.0.2-py3-none-any.whl,bdist_wheel
+4107171,dgl-cu102,0.6a210103,none,none,apache,https://github.com/dmlc/dgl,dgl_cu102-0.6a210103-cp39-cp39-manylinux1_x86_64.whl,bdist_wheel
+3910714,angrop,9.0.5171,none,none,none,none,angrop-9.0.5171-py3-none-any.whl,bdist_wheel
+891747,nmrstarlib,2.0.6,andrey smelter,andrey.smelter@gmail.com,mit,https://github.com/moseleybioinformaticslab/nmrstarlib,nmrstarlib-2.0.6.tar.gz,sdist
+4981825,tflite-support-nightly,0.1.0.dev20210613,"google, llc.",packages@tensorflow.org,apache 2.0,https://www.tensorflow.org/,tflite_support_nightly-0.1.0.dev20210613-cp38-cp38-win_amd64.whl,bdist_wheel
+2825109,ai-transformersx,0.2.11,modongsong,modongsongml@163.com,mit,https://github.com/aicanhelp/ai-transformers,ai_transformersx-0.2.11-py2.py3-none-any.whl,bdist_wheel
+5073329,f1z1-async-http,0.1.6,angel,376355670@qq.com,none,none,f1z1_async_http-0.1.6.tar.gz,sdist
+3854053,phcli2,1.0.0b6,alfred yang,alfredyang@pharbers.com,none,none,phcli2-1.0.0b6.tar.gz,sdist
+3493905,torque-drag,0.0.2,pro well plan as,juan@prowellplan.com,lgpl v3,https://github.com/pro-well-plan/torque_drag,torque_drag-0.0.2-py3-none-any.whl,bdist_wheel
+4085094,palazzetti-sdk-local-api,1.0.0,marco palazzetti,marco.palazzetti@me.com,none,https://github.com/marcopal74/palazzetti_local_api,palazzetti_sdk_local_api-1.0.0.tar.gz,sdist
+939789,lywsd02,0.0.2,h4,mikhail.baranov@gmail.com,mit,https://github.com/h4/lywsd02,lywsd02-0.0.2.tar.gz,sdist
+1094471,feed2mb,0.8.2,walter cruz,walter@waltercruz.com,agpl,http://bitbucket.org/waltercruz/feed2mb/,feed2mb-0.8.2.tar.gz,sdist
+3882600,aido-analyze-daffy,6.0.13,none,none,none,none,aido-analyze-daffy-6.0.13.tar.gz,sdist
+2593763,pulumi,0.16.7.dev1543963592,none,none,apache 2.0,https://github.com/pulumi/pulumi,pulumi-0.16.7.dev1543963592-py2.py3-none-any.whl,bdist_wheel
+333958,influxdb-pytest-plugin,0.2.41,strike team,elenaramyan@workfront.com,none,https://gitlab.workfront.tech/globalqa/influxdb-grafana-reporting/influxdb-pytest,influxdb_pytest_plugin-0.2.41.tar.gz,sdist
+1662387,buildozer,0.9,mathieu virbel,mat@kivy.org,mit,http://github.com/kivy/buildozer,buildozer-0.9.tar.gz,sdist
+4109496,pyagrum-nightly,0.19.0.dev202101121609883005,pierre-henri wuillemin and christophe gonzales,info@agrum.org,lgplv3,https://agrum.gitlab.io/,pyagrum_nightly-0.19.0.dev202101121609883005-cp38-cp38-win_amd64.whl,bdist_wheel
+914020,pyrdb,1.0.7,reshapedata,hulilei@takewiki.com.cn,apache license,http://www.reshapedata.com,pyrdb-1.0.7.tar.gz,sdist
+1122454,coverage,4.5.2,ned batchelder and 100 others,ned@nedbatchelder.com,apache 2.0,https://bitbucket.org/ned/coveragepy,coverage-4.5.2-cp34-cp34m-win_amd64.whl,bdist_wheel
+3029050,catboost-dev,0.13.1.3088,catboost developers,none,"apache license, version 2.0",https://catboost.ai,catboost_dev-0.13.1.3088-cp37-none-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl,bdist_wheel
+2984784,protobuf-cloud-datastore-translator,0.1.7,tomaz muraus,tomaz@tomaz.me,apache license (2.0),none,protobuf_cloud_datastore_translator-0.1.7-py3-none-any.whl,bdist_wheel
+3680506,twitter-blocklist,0.5.2,andrea zonca,code@andreazonca.com,mit,https://github.com/zonca/twitter_blocklist,twitter_blocklist-0.5.2-py3-none-any.whl,bdist_wheel
+4564878,jedatabase,0.0.0.0.27,je-chen,zenmailman@gmail.com,none,https://github.com/je-chen/python_database_je,jedatabase-0.0.0.0.27-py3-none-any.whl,bdist_wheel
+3608900,swh.core,0.7.1,software heritage developers,swh-devel@inria.fr,none,https://forge.softwareheritage.org/diffusion/dcore/,swh.core-0.7.1-py3-none-any.whl,bdist_wheel
+660391,cwru-py3,0.1,juho jung,jjs1005k@gmail.com,mit,https://github.com/94juho/cwru_py3,cwru_py3-0.1-py3-none-any.whl,bdist_wheel
+5009283,foursight-core,0.1.10,4dn-dcic team,support@4dnucleome.org,mit,none,foursight_core-0.1.10-py3-none-any.whl,bdist_wheel
+2469576,pypermedia,0.4.1,alex maskovyak,alex.maskovyak@vertical-knowledge.com,gplv2,none,pypermedia-0.4.1.tar.gz,sdist
+1665264,codeart-benchmarks,0.0.19,paulocheque,paulocheque@gmail.com,mit,https://github.com/codeartlibs/codeart-benchmarks,codeart-benchmarks-0.0.19.tar.gz,sdist
+1166108,odoo8-addon-sale-service-project,8.0.1.1.1.99.dev33,"tecnativa, odoo community association (oca)",support@odoo-community.org,agpl-3,http://www.tecnativa.com,odoo8_addon_sale_service_project-8.0.1.1.1.99.dev33-py2-none-any.whl,bdist_wheel
+3531520,seakylib,1.0.6.3a0,seaky,seaky.cn@gmail.com,none,https://github.com/sseaky,seakylib-1.0.6.3a0.tar.gz,sdist
+1683878,logwrap,2.5.0,alexey stepanov,penguinolog@gmail.com,"apache license, version 2.0",https://github.com/penguinolog/logwrap,logwrap-2.5.0-py2.py3-none-any.whl,bdist_wheel
+1192046,ccxt,1.10.721,igor kroitor,igor.kroitor@gmail.com,mit,https://ccxt.trade,ccxt-1.10.721.tar.gz,sdist
+4419382,threatbus,2021.3.25,tenzir,engineering@tenzir.com,bsd 3-clause,https://github.com/tenzir/threatbus,threatbus-2021.3.25.tar.gz,sdist
+5427393,py-dbar,0.2.7,nablaip,<ivanpombo.eigen@gmail.com>,none,none,py_dbar-0.2.7.tar.gz,sdist
+4654505,avro-gen3,0.5.0,harshal sheth,hsheth2@gmail.com,license :: osi approved :: apache software license,https://github.com/hsheth2/avro_gen,avro_gen3-0.5.0-py3-none-any.whl,bdist_wheel
+4111820,casbin,0.16.0,techlee,techlee@qq.com,apache 2.0,https://github.com/casbin/pycasbin,casbin-0.16.0.tar.gz,sdist
+4098293,web3,5.14.0,piper merriam,pipermerriam@gmail.com,mit,https://github.com/ethereum/web3.py,web3-5.14.0.tar.gz,sdist
+877886,andor,1.14,guillaume lepert,guillaume.lepert07@imperial.ac.uk,unknown,unknown,andor-1.14.tar.gz,sdist
+4236891,genie.libs.conf,21.1,cisco systems inc.,pyats-support-ext@cisco.com,apache 2.0,https://developer.cisco.com/pyats,genie.libs.conf-21.1-py3-none-any.whl,bdist_wheel
+816123,moderngl,2.0.9,szabolcs dombi,cprogrammer1994@gmail.com,mit,https://github.com/cprogrammer1994/moderngl,moderngl-2.0.9.win-amd64-py3.4.exe,bdist_wininst
+4017156,aws-sso-cred-restore,1.1.0,clayton silva,clayton.silva@pagar.me,gnu general public license v3 (gplv3),https://github.com/claytonsilva/aws-sso-cred-restore,aws-sso-cred-restore-1.1.0.tar.gz,sdist
+4629686,geonode,3.2.0,geonode developers,dev@geonode.org,gpl,http://geonode.org,geonode-3.2.0-py3-none-any.whl,bdist_wheel
+121321,django-fluent-comments,1.0,diederik van der boor,opensource@edoburu.nl,"apache license, version 2.0",https://github.com/edoburu/django-fluent-comments,django-fluent-comments-1.0.tar.gz,sdist
+243626,gpudb,7.0.6.0,kinetica db inc.,mmahmud@kinetica.com,none,http://www.kinetica.com,gpudb-7.0.6.0-cp27-cp27m-win_amd64.whl,bdist_wheel
+2168631,pyats.results,19.11,cisco systems inc.,pyats-support-ext@cisco.com,apache 2.0,https://developer.cisco.com/pyats/,pyats.results-19.11-cp34-cp34m-manylinux1_x86_64.whl,bdist_wheel
+1498433,sciris,0.16.8,scirisorg,info@sciris.org,none,http://github.com/sciris/sciris,sciris-0.16.8-py3-none-any.whl,bdist_wheel
+659186,discretisedfield,0.8.4,"marijan beg, ryan a. pepper, thomas kluyver, and hans fangohr",jupyteroommf@gmail.com,none,https://ubermag.github.io,discretisedfield-0.8.4-py3-none-any.whl,bdist_wheel
+645466,arnoldpaperboy,0.0.31,satelligence,schut@satelligence.com,apache-2.0,https://gitlab.com/satelligence/arnoldpaperboy,arnoldpaperboy-0.0.31.tar.gz,sdist
+5469042,tencentcloud-sdk-python-antiddos,3.0.490,tencent cloud,tencentcloudapi@tencent.com,apache license 2.0,https://github.com/tencentcloud/tencentcloud-sdk-python,tencentcloud_sdk_python_antiddos-3.0.490-py2.py3-none-any.whl,bdist_wheel
+3073917,django-docker-engine,0.0.29,chuck mccallum,none,mit license,https://github.com/refinery-platform/django_docker_engine/,django_docker_engine-0.0.29.tar.gz,sdist
+1011146,seeking-odds-cal,0.1.0,yangyichun,yangyichun@sensedeal.ai,bsd license,none,seeking-odds-cal-0.1.0.tar.gz,sdist
+4808732,postmarker,0.18.2,dmitry dygalo,dadygalo@gmail.com,mit,https://github.com/stranger6667/postmarker,postmarker-0.18.2-py3-none-any.whl,bdist_wheel
