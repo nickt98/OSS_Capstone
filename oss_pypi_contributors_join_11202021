@@ -1,0 +1,55 @@
+/*Created: 11202021
+  Inspired by code given by Brandon Kramer
+  Author: Shilpa Narayan
+  Project: OSS Capstone 2021
+  Code to join pypi data downloaded from bigquery
+  with existing github data with OSS on the github slugs 
+  and join again with contributor data*/
+
+-- then we join the commits data to the pypi table 
+CREATE MATERIALIZED VIEW gh.commits_pypi_112021 AS 
+(
+SELECT distinct(A.slug) as slug, B.committed_date, B.login, B.additions, B.deletions 
+FROM gh.temp_meta_1 A 
+INNER JOIN gh.commits_dd_nmrc_jbsc B 
+ON A.slug = B.slug 
+); 
+--5154266
+
+CREATE INDEX login_idx ON gh.commits_pypi_112021 (login);
+
+GRANT ALL PRIVILEGES ON gh.commits_pypi_112021 TO ncses_oss;
+
+--create a table that has all of the commits per user by year 
+CREATE MATERIALIZED VIEW gh.commits_per_user_pypi_112021 AS 
+( WITH A AS (	
+SELECT login, slug, EXTRACT(YEAR FROM committed_date)::int AS year 
+FROM gh.commits_pypi_112021 
+WHERE login IS NOT NULL AND login != 'null' ), 
+B AS (
+ SELECT slug, year, login, COUNT(*) AS commits  
+ FROM A  GROUP BY slug, year, login) 
+ SELECT login, commits, slug, year 
+ FROM B ORDER BY commits DESC);
+--214805
+
+CREATE INDEX login_idx_pypi_commits_user ON gh.commits_per_user_pypi_112021 (login);
+
+GRANT ALL PRIVILEGES ON gh.commits_per_user_pypi_112021 TO ncses_oss;
+
+-- this creates the edgelist from the commits_per_user table 
+CREATE MATERIALIZED VIEW gh.sna_pypi_edgelist_wisos_0819 AS 
+(WITH C AS (
+SELECT B.slug, B.year, B.login AS ctr1, C.login AS ctr2 	
+FROM  gh.commits_per_user_pypi_112021 AS B	 
+INNER JOIN gh.commits_per_user_pypi_112021 AS C 
+ON  B.year = C.year AND B.slug = C.slug	 
+WHERE B.login <= C.login AND B.YEAR BETWEEN 2008 AND 2019 AND C.YEAR BETWEEN 2008 AND 2019) 
+SELECT ctr1, ctr2, COUNT(*) AS repo_wts 
+FROM C 
+GROUP BY ctr1, ctr2 
+ORDER BY repo_wts DESC);
+
+--944064
+
+GRANT ALL PRIVILEGES ON gh.sna_pypi_edgelist_wisos_0819 TO ncses_oss;
